@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/Dump/Dump 2.md",
+                "file": "Diary/Dear Diary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dump 2"
+              "title": "Dear Diary"
             }
           }
         ]
@@ -232,6 +232,8 @@
   },
   "active": "9de7c7b40001a6c9",
   "lastOpenFiles": [
+    "Business/Dump/Dump 2.md",
+    "Diary/Dear Diary.md",
     "Business/Dump/Dump.md",
     "Business/N8N/N8N.md",
     "Diary/27-04-26.md",
@@ -260,8 +262,6 @@
     "Personal/Objectives/Principles.md",
     "Personal/Objectives/Objectives.md",
     "Personal/Objectives/merchant strategy.md",
-    "Personal/Places/Places.md",
-    "Personal/Objectives/Principles/My human nature.md",
     "Personal/Documents",
     "Personal/Principles.png",
     "Archive/image 2.png",
