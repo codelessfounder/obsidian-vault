@@ -1,0 +1,282 @@
+{
+  "main": {
+    "id": "71edd70c7905859c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b9e30757cdb6e74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9de7c7b40001a6c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business/Dump/Dump 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dump 2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a1539bc17389267",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0ea31ca841d751d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e8f86dca18778e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f0cef537faf5dbf1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0c64a2c1208e6bd5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6c7a621369104f53",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2ebe73ceac93c34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "165b2c87d43d9b4b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "e7ce951cfc7b4976",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Diary/Rubric.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Rubric"
+            }
+          },
+          {
+            "id": "0816443459e3a1ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "36d35a9f06f86b31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "11d2c598c3bd0243",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d7a00ab3e5fad4ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Diary/Rubric.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Rubric"
+            }
+          },
+          {
+            "id": "c6f49c383c604c2f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Diary/Rubric.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.13949438320748714,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Rubric"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9de7c7b40001a6c9",
+  "lastOpenFiles": [
+    "Business/Dump/Dump.md",
+    "Business/N8N/N8N.md",
+    "Diary/27-04-26.md",
+    "Business/Bubble/AI integration.md",
+    "P.md",
+    "Diary/Rubric.md",
+    "Diary/Stories.md",
+    "Personal/Interests/Kinks.md",
+    "Personal/Diary/Diary.md",
+    "Personal/Finances/Tax.md",
+    "Personal/Diary",
+    "Personal/Finances/Sole trader.md",
+    "Personal/Finances/GST.md",
+    "Personal/Finances/Company.md",
+    "Personal/Books.jpeg",
+    "Personal/Education/Skills.md",
+    "Personal/Interests/Harry and Via Camping Expeditions.md",
+    "Personal/Interests/Via.md",
+    "Personal/Interests/People.md",
+    "Personal/Interests.jpeg",
+    "Business/Kangaroo Reading on the Toilet.png",
+    "Personal/Interests/Philosophy.md",
+    "Personal/Interests/Restaurants.md",
+    "Personal/Skills/Skill Dexterity.md",
+    "Personal/Objectives/My human nature.md",
+    "Personal/Objectives/Principles.md",
+    "Personal/Objectives/Objectives.md",
+    "Personal/Objectives/merchant strategy.md",
+    "Personal/Places/Places.md",
+    "Personal/Objectives/Principles/My human nature.md",
+    "Personal/Documents",
+    "Personal/Principles.png",
+    "Archive/image 2.png",
+    "Archive/image 6.png",
+    "Archive/image 5.png",
+    "Archive/image 4.png",
+    "Archive/image 3.png",
+    "Archive/Grocery List/Ingredients/Ingredients.base",
+    "Personal/Powerlifting.png",
+    "Personal/Documents/IMMI_Grant_Notification.pdf",
+    "Personal/Places",
+    "Personal/Personal Expense Tracker/Category/Category New page/Untitled/Untitled.base",
+    "Diary/21/04",
+    "Diary/21",
+    "Diary",
+    "Personal/Book Tracker/Databases/Books/Books.base"
+  ]
+}

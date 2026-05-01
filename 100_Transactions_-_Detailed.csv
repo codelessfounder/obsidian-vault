@@ -1,0 +1,7 @@
+Transaction,Outcome,Customer Pays,DiscoPay Covers,Store Credit,DiscoPay Fee,DiscoPay Net
+1,Full Price,100.0,0.0,0.0,3.0,3.0
+2,10% Extra (credit),110.0,0.0,10.0,3.3,3.3
+3,10% Discount,90.0,10.0,0.0,2.7,-7.3
+4,Full Price,100.0,0.0,0.0,3.0,3.0
+5,20% Discount,80.0,20.0,0.0,2.4,-17.6
+6,10% Extra (credit),110.0,0.0,10.0,3.3,3.3

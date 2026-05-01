@@ -1,0 +1,26 @@
+filters:
+  and:
+    - note["base"] == link("Ingredients.base")
+properties:
+  file.name:
+    displayName: Item Name
+  Store:
+    displayName: Store
+  In Stock:
+    displayName: In Stock
+  Remarks:
+    displayName: Remarks
+  Category:
+    displayName: Category
+  Quantity:
+    displayName: Quantity
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Store
+      - In Stock
+      - Remarks
+      - Category
+      - Quantity
