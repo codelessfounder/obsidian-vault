@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/27-04-26.md",
+                "file": "connection_test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "27-04-26"
+              "title": "connection_test"
             }
           }
         ]
@@ -233,9 +233,10 @@
   },
   "active": "9de7c7b40001a6c9",
   "lastOpenFiles": [
+    "Diary/27-04-26.md",
+    "connection_test.md",
     "Diary/Dear Diary.md",
     "Diary/test lol.md",
-    "Diary/27-04-26.md",
     "Business/Dump/Dump 2.md",
     "Business/Dump/Dump.md",
     "Business/N8N/N8N.md",
@@ -262,7 +263,6 @@
     "Personal/Skills/Skill Dexterity.md",
     "Personal/Objectives/My human nature.md",
     "Personal/Objectives/Principles.md",
-    "Personal/Objectives/Objectives.md",
     "Personal/Documents",
     "Personal/Principles.png",
     "Archive/image 2.png",
