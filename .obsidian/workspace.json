@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI_Inbox/Test file 1.md",
+                "file": "AI_Inbox/Test file 1 duplicate 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test file 1"
+              "title": "Test file 1 duplicate 2"
             }
           }
         ]
@@ -231,12 +231,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e8f86dca18778e6",
+  "active": "9de7c7b40001a6c9",
   "lastOpenFiles": [
     "AI_Inbox/Test file 1 duplicate.md",
+    "AI_Inbox/Test file 1 duplicate 2.md",
+    "AI_Inbox/Test file 1.md",
     "AGENTS.md",
     "connection_test.md",
-    "AI_Inbox/Test file 1.md",
     "AI_Inbox",
     "AI_Inbox/Agents are taking over!.md",
     "learnrooms_summary.md",
@@ -261,7 +262,6 @@
     "Personal/Education/Skills.md",
     "Personal/Interests/Harry and Via Camping Expeditions.md",
     "Personal/Interests/Via.md",
-    "Personal/Interests/People.md",
     "Personal/Interests.jpeg",
     "Business/Kangaroo Reading on the Toilet.png",
     "Personal/Documents",
