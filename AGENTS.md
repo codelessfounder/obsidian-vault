@@ -22,3 +22,7 @@ This repository is an **Obsidian vault** (personal knowledge management / notes 
 - There is nothing to build, lint, test, or run in this repository.
 - The only tool associated with this repo is Obsidian (a desktop Markdown editor).
 - Any code-related work would need to be scaffolded from scratch.
+
+### Git workflow
+- **Commit directly to `main`** — do not create feature branches or pull requests unless explicitly asked.
+- The repository has no branch protection rules on `main`.
