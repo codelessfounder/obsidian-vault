@@ -11,10 +11,14 @@
             "id": "9de7c7b40001a6c9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AI_Inbox/Test file 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Test file 1"
             }
           }
         ]
@@ -229,9 +233,11 @@
   },
   "active": "9de7c7b40001a6c9",
   "lastOpenFiles": [
-    "AI_Inbox/Agents are taking over!.md",
     "connection_test.md",
+    "AGENTS.md",
+    "AI_Inbox/Test file 1.md",
     "AI_Inbox",
+    "AI_Inbox/Agents are taking over!.md",
     "learnrooms_summary.md",
     "Diary/27-04-26.md",
     "Diary/Dear Diary.md",
@@ -258,8 +264,6 @@
     "Personal/Interests.jpeg",
     "Business/Kangaroo Reading on the Toilet.png",
     "Personal/Interests/Philosophy.md",
-    "Personal/Interests/Restaurants.md",
-    "Personal/Skills/Skill Dexterity.md",
     "Personal/Documents",
     "Personal/Principles.png",
     "Archive/image 2.png",
