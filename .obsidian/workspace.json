@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "connection_test.md",
+                "file": "AI_Inbox/Agents are taking over!.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "connection_test"
+              "title": "Agents are taking over!"
             }
           }
         ]
@@ -233,8 +233,10 @@
   },
   "active": "9de7c7b40001a6c9",
   "lastOpenFiles": [
-    "learnrooms_summary.md",
     "connection_test.md",
+    "AI_Inbox/Agents are taking over!.md",
+    "AI_Inbox",
+    "learnrooms_summary.md",
     "Diary/27-04-26.md",
     "Diary/Dear Diary.md",
     "Diary/test lol.md",
@@ -262,7 +264,6 @@
     "Personal/Interests/Philosophy.md",
     "Personal/Interests/Restaurants.md",
     "Personal/Skills/Skill Dexterity.md",
-    "Personal/Objectives/My human nature.md",
     "Personal/Documents",
     "Personal/Principles.png",
     "Archive/image 2.png",
@@ -277,7 +278,6 @@
     "Personal/Personal Expense Tracker/Category/Category New page/Untitled/Untitled.base",
     "Diary/21/04",
     "Diary/21",
-    "Diary",
-    "Personal/Book Tracker/Databases/Books/Books.base"
+    "Diary"
   ]
 }
