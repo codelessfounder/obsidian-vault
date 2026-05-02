@@ -11,14 +11,10 @@
             "id": "9de7c7b40001a6c9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI_Inbox/Agents are taking over!.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Agents are taking over!"
+              "title": "New tab"
             }
           }
         ]
@@ -233,8 +229,8 @@
   },
   "active": "9de7c7b40001a6c9",
   "lastOpenFiles": [
-    "connection_test.md",
     "AI_Inbox/Agents are taking over!.md",
+    "connection_test.md",
     "AI_Inbox",
     "learnrooms_summary.md",
     "Diary/27-04-26.md",
