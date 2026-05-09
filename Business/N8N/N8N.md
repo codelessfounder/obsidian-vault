@@ -238,5 +238,9 @@ Reddit customer feedback workflow:
 - Push records into tracking table with status lifecycle.
 - Notify ops team via webhook for rapid follow-up.
 
+Reference workflow diagram:
+
+![[Screenshot_2025-08-06_at_5.01.52_pm.png]]
+
 
 

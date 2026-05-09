@@ -128,6 +128,11 @@ Zaeger requirements:
 14. Purchase (buyer details) -for invoice?
 
 
+Reference for structured watch/product detail fields:
+
+![[Screen_Shot_2024-11-19_at_1.07.04_pm.png]]
+
+
 
 Watch dealers like to make notes about the watch in their inventory, so they can update their team members on the status of the watch
 

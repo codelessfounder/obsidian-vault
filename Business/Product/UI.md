@@ -17,6 +17,13 @@
 ![[Screen_Shot_2024-12-02_at_4.39.10_pm.png]]
 
 
+## Analytics dashboard reference
+
+Useful visual reference for Watchcrow-style dashboard / product analytics UI patterns.
+
+![[Screen_Shot_2024-10-17_at_10.48.02_am.png]]
+
+
 
 
 Contra freelancing 
