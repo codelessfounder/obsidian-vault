@@ -62,3 +62,6 @@ OpenClaw is a hobby project and still in beta. Expect sharp edges.     │
 │  **Learn more**                                                             │
 
 │  - https://docs.openclaw.ai/gateway/security
+
+
+[[exa API setup prompt]]
