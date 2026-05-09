@@ -11,12 +11,14 @@
             "id": "9de7c7b40001a6c9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Business/WhatsApp_Image_2024-11-25_at_12.59.08.jpeg"
+                "file": "Personal/Health/Food.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "WhatsApp_Image_2024-11-25_at_12.59.08"
+              "icon": "lucide-file",
+              "title": "Food"
             }
           }
         ]
@@ -231,6 +233,8 @@
   },
   "active": "9de7c7b40001a6c9",
   "lastOpenFiles": [
+    "exa API setup prompt.md",
+    "Business/WhatsApp_Image_2024-11-25_at_12.59.08.jpeg",
     "Business/WhatsApp_Image_2024-11-25_at_12.59.22.jpeg",
     "Business/Screen_Shot_2024-09-17_at_4.26.56_pm.png",
     "Business/Screen_Shot_2024-09-17_at_7.38.51_pm.png",
@@ -240,10 +244,7 @@
     "Business/Screen_Shot_2024-10-28_at_2.27.18_pm.png",
     "Business/Screen_Shot_2024-10-28_at_2.27.39_pm.png",
     "Business/Screen_Shot_2024-10-29_at_12.25.23_pm.png",
-    "Business/Screen_Shot_2024-11-04_at_8.22.10_pm.png",
-    "Business/Screen_Shot_2024-11-19_at_1.07.04_pm.png",
     "Business/OpenClaw.md",
-    "exa API setup prompt.md",
     "Business/Apparate (Marsh) Script.md",
     "Business/Hatch/AI Training.md",
     "AGENTS.md",

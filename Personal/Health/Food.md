@@ -209,6 +209,7 @@ This section mirrors the current grocery inventory so `Food.md` can be your cons
 | Oat Milk | Drinks | 3 | false |  |
 | Olive Oil | Condiments | 1 | true | [] |
 | Onion Powder | Condiments | 1 | true | [] |
+| Oyster Sauce | Condiments | 1 | false | [] |
 | Oregano Leaves | Spices and Herbs |  | true | [] |
 | Parsley Leaves | Spices and Herbs |  | true | [] |
 | Peanut Butter | Condiments | 1 | true | [] |
@@ -222,6 +223,7 @@ This section mirrors the current grocery inventory so `Food.md` can be your cons
 | Sliced Cheese | Dairy |  | true | [] |
 | Smoked Paprika | Spices and Herbs |  | true | [] |
 | Soya Milk | Drinks | 1 | true | [] |
+| Soy Sauce | Condiments | 1 | false | [] |
 | Spaghetti | Dry | 1 | false |  |
 | Sriracha Sauce | Condiments |  | true | [] |
 | Strawberries | Fruits & Veg | 1 | true |  |
