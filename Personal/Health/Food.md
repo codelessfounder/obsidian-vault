@@ -302,3 +302,184 @@ Use this as the supermarket non-food checklist. `In Stock` = `true` if you alrea
 | Pet Litter | Pets | 1 |  | [] | If applicable |
 | Nappies | Baby | 1 |  | [] | If applicable |
 | Baby Wipes | Baby | 1 |  | [] | If applicable/general cleanup |
+
+---
+
+## Recipes
+
+Purpose: a repeatable recipe database for meals I cook and like to eat, so future Obsidian queries can help decide what to eat.
+
+### Recipe entry template
+
+```yaml
+recipe:
+  name:
+  status: to-try | liked | staple
+  tags: [recipe]
+  meal_type: dinner | lunch | breakfast | snack
+  cuisine_style:
+  flavour_profile:
+  main_protein:
+  carb:
+  vegetables:
+  servings:
+  active_time_minutes:
+  total_time_minutes:
+  difficulty: easy | medium | involved
+  effort_level: low | medium | high
+  equipment:
+  good_for:
+  avoid_when:
+  pantry_overlap:
+  shopping_needed:
+  estimated_protein_per_serve:
+  estimated_calories_per_serve:
+  source: personal
+```
+
+### Beef Stir Fry with Rice Noodles
+
+```yaml
+recipe:
+  name: Beef Stir Fry with Rice Noodles
+  status: to-try
+  tags: [recipe, dinner, beef, stir-fry, noodles, high-protein, quick]
+  meal_type: dinner
+  cuisine_style: Asian-inspired
+  flavour_profile: savoury, garlicky, slightly sweet, umami
+  main_protein: beef
+  carb: rice noodles
+  vegetables: flexible; broccoli, carrot, capsicum, zucchini, mushrooms, onion, or tomato/cherry tomatoes
+  servings: 2
+  active_time_minutes: 20
+  total_time_minutes: 30
+  difficulty: easy
+  effort_level: medium
+  equipment: wok or large frying pan, pot/kettle for noodles, knife, chopping board
+  good_for: quick dinner, high-protein meal, using leftover vegetables, noodle craving
+  avoid_when: no soy/oyster-style sauce available, too tired to chop vegetables
+  pantry_overlap: beef, light soy sauce, garlic powder, olive oil, noodles, sriracha, vegetables
+  shopping_needed: rice noodles, oyster sauce if unavailable, fresh stir-fry vegetables
+  estimated_protein_per_serve: 35-45g depending on beef quantity
+  estimated_calories_per_serve: 600-800 depending on oil/noodle portion
+  source: personal
+```
+
+**Why it belongs here**
+
+A fast, satisfying, high-protein dinner built around beef and noodles. Good when I want something savoury and filling without making a heavy mince-and-potato style meal.
+
+**Base ingredients**
+
+| Ingredient | Amount | Notes |
+| --- | ---: | --- |
+| Beef strips or lean ground beef | 300-500g | Strips are ideal; mince works as a practical version |
+| Rice noodles | 150-200g dry | Soak/cook according to packet |
+| Broccoli | 1-2 cups | Or any firm vegetable |
+| Carrot | 1 | Thinly sliced |
+| Onion or red onion | 1/2-1 | Optional but useful |
+| Garlic powder | 1-2 tsp | Or fresh garlic if available |
+| Light soy sauce | 2 tbsp | Salty/umami base |
+| Oyster sauce | 1-2 tbsp | Adds savoury sweetness; optional but recommended |
+| Sriracha | 1-2 tsp | Optional heat |
+| Olive oil or beef tallow | 1-2 tbsp | For frying |
+
+**Optional add-ins**
+
+- Zucchini, mushrooms, capsicum, cherry tomatoes, or cabbage
+- Honey or maple syrup, 1 tsp, if the sauce needs sweetness
+- Sesame oil, ginger, chilli flakes, or lime if available
+- Peanuts or cashews for crunch
+
+**Simple method**
+
+1. Cook or soak the rice noodles, then drain and set aside.
+2. Mix sauce: light soy sauce, oyster sauce, garlic powder, sriracha, and a splash of water.
+3. Fry beef on high heat until browned. Remove if using strips; leave in pan if using mince.
+4. Stir-fry vegetables until just tender.
+5. Add beef back in, then add noodles and sauce. Toss until coated and hot.
+6. Taste and adjust: more soy for salt, sriracha for heat, honey/maple for sweetness, water if too dry.
+
+**Decision cues**
+
+- Choose this when: I want beef, noodles, umami/savoury flavours, and a meal that feels like takeaway but is easy at home.
+- Best fit ingredients already in Food.md: beef, carrots, broccoli, tomatoes/cherry tomatoes, garlic powder, light soy sauce, sriracha, noodles.
+- Pairs well with: kimchi, cucumber, extra vegetables, or a simple protein shake if protein target is high.
+
+**Future query tags**
+
+`#recipe` `#dinner` `#beef` `#stir-fry` `#noodles` `#high-protein` `#quick`
+
+
+### Beef Quesadillas
+
+```yaml
+recipe:
+  name: Beef Quesadillas
+  status: to-try
+  tags: [recipe, lunch, dinner, beef, quesadilla, cheese, tortillas, high-protein, quick, comfort-food]
+  meal_type: lunch or dinner
+  cuisine_style: Mexican-inspired
+  flavour_profile: savoury, cheesy, lightly spicy, crispy, rich
+  main_protein: beef
+  carb: tortillas
+  vegetables: optional; red onion, tomato, capsicum, zucchini, or cucumber/tomato on the side
+  servings: 2
+  active_time_minutes: 15
+  total_time_minutes: 25
+  difficulty: easy
+  effort_level: low
+  equipment: frying pan, spatula, knife, chopping board
+  good_for: quick high-protein meal, comfort food, using tortillas and cheese, low-effort dinner
+  avoid_when: no tortillas or cheese available, wanting a lighter meal, avoiding greasy/rich food
+  pantry_overlap: lean ground beef, tortillas, sliced cheese, garlic powder, onion powder, smoked paprika, sriracha, tomato, red onion
+  shopping_needed: tortillas, cheese, salsa/sour cream/avocado if wanted
+  estimated_protein_per_serve: 35-50g depending on beef and cheese quantity
+  estimated_calories_per_serve: 650-900 depending on tortillas, cheese, and oil
+  source: personal
+```
+
+**Why it belongs here**
+
+A fast, satisfying beef-and-cheese meal that works when I want something crispy, savoury, filling, and easy. Good fallback when tortillas, beef, and cheese are already around.
+
+**Base ingredients**
+
+| Ingredient | Amount | Notes |
+| --- | ---: | --- |
+| Lean ground beef | 300-500g | Main protein; cook with seasoning |
+| Tortillas | 2-4 | One large folded tortilla or two-tortilla stack per serve |
+| Cheese or sliced cheese | 100-200g | Enough to bind the quesadilla; cheddar-style works best |
+| Garlic powder | 1 tsp | Beef seasoning |
+| Onion powder | 1 tsp | Beef seasoning |
+| Smoked paprika | 1 tsp | Beef seasoning |
+| Sriracha or hot sauce | 1-2 tsp | Optional heat |
+| Olive oil or beef tallow | 1 tsp | For crisping the tortilla if needed |
+| Tomato or red onion | Optional | Freshness either inside or on the side |
+
+**Optional add-ins**
+
+- Sour cream, Greek yoghurt, salsa, avocado, guacamole, or kimchi on the side
+- Tomato, red onion, capsicum, zucchini, or mushrooms cooked into the beef
+- Extra smoked paprika, cayenne, chilli flakes, or taco seasoning
+- Lime or coriander if available
+
+**Simple method**
+
+1. Brown the beef in a pan over medium-high heat.
+2. Season with garlic powder, onion powder, smoked paprika, salt if needed, and sriracha/hot sauce if using.
+3. Remove beef or push to the side. Place tortilla in the pan.
+4. Add cheese, beef, optional vegetables, then more cheese to help it hold together.
+5. Fold or top with another tortilla. Cook until golden and crisp on one side.
+6. Flip carefully and crisp the other side until the cheese is melted.
+7. Slice and serve with sour cream, salsa, tomato, cucumber, kimchi, or extra hot sauce.
+
+**Decision cues**
+
+- Choose this when: I want beef, cheese, crunch, and a low-effort comfort meal.
+- Best fit ingredients already in Food.md: lean ground beef, tortillas, sliced cheese, garlic powder, onion powder, smoked paprika, sriracha, tomato, red onion, sour cream.
+- Pairs well with: sour cream/Greek yoghurt, tomato, cucumber, kimchi, or a simple salad to lighten it up.
+
+**Future query tags**
+
+`#recipe` `#lunch` `#dinner` `#beef` `#quesadilla` `#cheese` `#tortillas` `#high-protein` `#quick` `#comfort-food`
