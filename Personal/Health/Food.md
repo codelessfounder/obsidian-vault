@@ -235,3 +235,70 @@ This section mirrors the current grocery inventory so `Food.md` can be your cons
 | Unsweetened Milk | Drinks | 1 | true | [] |
 | Wheat Noodles | Dry |  | true |  |
 | Zucchini | Fruits & Veg | 2 | true |  |
+
+---
+
+## Grocery: Non-food
+
+Use this as the supermarket non-food checklist. `In Stock` = `true` if you already have enough at home, `false` if it should be bought, blank if not yet audited.
+
+| Item | Category | Qty | In Stock | Store | Notes |
+| --- | --- | --- | --- | --- | --- |
+| Toilet Paper | Paper Goods | 1 |  | [] | Bathroom staple |
+| Paper Towels | Paper Goods | 1 |  | [] | Kitchen cleanup |
+| Tissues | Paper Goods | 1 |  | [] | Cold/allergy staple |
+| Napkins | Paper Goods | 1 |  | [] | Optional table/kitchen item |
+| Aluminium Foil | Kitchen Supplies | 1 |  | [] | Cooking/storage |
+| Baking Paper | Kitchen Supplies | 1 |  | [] | Oven/tray liner |
+| Cling Wrap | Kitchen Supplies | 1 |  | [] | Food storage |
+| Ziplock Bags | Kitchen Supplies | 1 |  | [] | Freezer/snacks/storage |
+| Garbage Bags | Kitchen Supplies | 1 |  | [] | Bin liners |
+| Sponges | Cleaning | 1 |  | [] | Dishes/surfaces |
+| Dish Brush | Cleaning | 1 |  | [] | Dishes |
+| Dish Soap | Cleaning | 1 |  | [] | Hand-washing dishes |
+| Dishwashing Tablets | Cleaning | 1 |  | [] | Dishwasher |
+| Dishwasher Rinse Aid | Cleaning | 1 |  | [] | Dishwasher maintenance |
+| Surface Spray | Cleaning | 1 |  | [] | Benches/tables |
+| Disinfectant Wipes | Cleaning | 1 |  | [] | Quick cleaning |
+| Multipurpose Cleaner | Cleaning | 1 |  | [] | General cleaning |
+| Glass Cleaner | Cleaning | 1 |  | [] | Windows/mirrors |
+| Bathroom Cleaner | Cleaning | 1 |  | [] | Shower/sink |
+| Toilet Cleaner | Cleaning | 1 |  | [] | Toilet bowl |
+| Toilet Brush | Cleaning | 1 |  | [] | Replace periodically |
+| Bleach | Cleaning | 1 |  | [] | Heavy disinfecting |
+| Floor Cleaner | Cleaning | 1 |  | [] | Mopping |
+| Laundry Detergent | Laundry | 1 |  | [] | Clothes washing |
+| Fabric Softener | Laundry | 1 |  | [] | Optional laundry item |
+| Stain Remover | Laundry | 1 |  | [] | Clothes stains |
+| Napisan / Laundry Soaker | Laundry | 1 |  | [] | Whites/sheets/towels |
+| Pegs | Laundry | 1 |  | [] | Drying clothes |
+| Hand Soap | Personal Care | 1 |  | [] | Bathroom/kitchen sink |
+| Body Wash | Personal Care | 1 |  | [] | Shower |
+| Shampoo | Personal Care | 1 |  | [] | Hair |
+| Conditioner | Personal Care | 1 |  | [] | Hair |
+| Toothpaste | Personal Care | 1 |  | [] | Dental |
+| Toothbrush | Personal Care | 1 |  | [] | Dental |
+| Dental Floss | Personal Care | 1 |  | [] | Dental |
+| Mouthwash | Personal Care | 1 |  | [] | Dental |
+| Deodorant | Personal Care | 1 |  | [] | Daily use |
+| Razors | Personal Care | 1 |  | [] | Shaving |
+| Shaving Cream | Personal Care | 1 |  | [] | Shaving |
+| Moisturiser | Personal Care | 1 |  | [] | Skin |
+| Sunscreen | Personal Care | 1 |  | [] | Outdoor/UV |
+| Lip Balm | Personal Care | 1 |  | [] | Dry lips |
+| Cotton Buds | Personal Care | 1 |  | [] | Bathroom staple |
+| Cotton Pads | Personal Care | 1 |  | [] | Bathroom/skincare |
+| Band-Aids | Health | 1 |  | [] | First aid |
+| Painkillers | Health | 1 |  | [] | Paracetamol/ibuprofen |
+| Antihistamines | Health | 1 |  | [] | Allergies |
+| Electrolytes | Health | 1 |  | [] | Hydration/sickness |
+| Hand Sanitiser | Health | 1 |  | [] | Travel/bag |
+| Batteries | Household | 1 |  | [] | AA/AAA as needed |
+| Light Bulbs | Household | 1 |  | [] | Check fitting first |
+| Matches / Lighter | Household | 1 |  | [] | Candles/cooking/emergency |
+| Insect Spray | Household | 1 |  | [] | Bugs |
+| Fly Spray | Household | 1 |  | [] | Indoor insects |
+| Pet Food | Pets | 1 |  | [] | If applicable |
+| Pet Litter | Pets | 1 |  | [] | If applicable |
+| Nappies | Baby | 1 |  | [] | If applicable |
+| Baby Wipes | Baby | 1 |  | [] | If applicable/general cleanup |
