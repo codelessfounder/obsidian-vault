@@ -172,70 +172,69 @@ Stuffed peppers with mince
 
 This section is a database of things I buy at the store. `In Stock` is intentionally kept as `false` rather than treated as a live inventory field.
 
-| Ingredient                 | Category         | Qty | In Stock |
-| -------------------------- | ---------------- | --- | -------- |
-| Almond Butter              | Condiments       | 1   | false    |
-| Almonds                    | Nuts             | 1   | false    |
-| Avocado                    | Fruits & Veg     | 3   | false    |
-| Banana                     | Fruits & Veg     | 1   | false    |
-| Berry Essence              | Supplements      | 12  | false    |
-| Bread                      | Carbs            | 1   | false    |
-| Button Mushrooms           | Fruits & Veg     | 1   | false    |
-| Canned Tuna                | Others           | 4   | false    |
-| Canned butter beans        | Others           | 3   | false    |
-| Carrot Juice               | Drinks           | 1   | false    |
-| Carrots                    | Fruits & Veg     | 2   | false    |
-| Cauliflower                | Fruits & Veg     | 1   | false    |
-| Cherry Tomatoes            | Fruits & Veg     |     | false    |
-| Chicken Breast             | Meat & Protein   | 2   | false    |
-| Cucumber                   | Fruits & Veg     | 2   | false    |
-| Egg                        | Meat & Protein   | 10  | false    |
-| Frozen Bagel               | Frozen           | 1   | false    |
-| Frozen Blueberries         | Frozen           | 1   | false    |
-| Fusilli                    | Dry              |     | false    |
-| Garlic Powder              | Condiments       | 1   | false    |
-| Glass Noodle               | Dry              |     | false    |
-| Granola                    | Carbs            | 2   | false    |
-| Greek Yogurt               | Dairy            | 1   | false    |
-| Ingredients New Ingredient |                  |     | false    |
-| Jam                        | Condiments       | 1   | false    |
-| Lean Ground Beef           | Meat & Protein   | 2   | false    |
-| Light Soy Sauce            | Condiments       | 1   | false    |
-| Linguine                   | Dry              |     | false    |
-| Macadamia                  | Nuts             |     | false    |
-| Manuka Honey               | Condiments       | 1   | false    |
-| Maple Syrup                | Condiments       | 1   | false    |
-| Nespresso Pods             | Others           | 4   | false    |
-| Oat Milk                   | Drinks           | 3   | false    |
-| Olive Oil                  | Condiments       | 1   | false    |
-| Onion Powder               | Condiments       | 1   | false    |
-| Oyster Sauce               | Condiments       | 1   | false    |
-| Oregano Leaves             | Spices and Herbs |     | false    |
-| Parsley Leaves             | Spices and Herbs |     | false    |
-| Peanut Butter              | Condiments       | 1   | false    |
-| Peanuts                    | Nuts             | 1   | false    |
-| Pecans                     | Nuts             | 1   | false    |
-| Pineapple                  | Fruits & Veg     | 1   | false    |
-| Potatoes                   | Fruits & Veg     | 5   | false    |
-| Red Onion                  | Fruits & Veg     | 4   | false    |
-| Salmon                     | Meat & Protein   | 2   | false    |
-| Salted Butter              | Dairy            |     | false    |
-| Sliced Cheese              | Dairy            |     | false    |
-| Smoked Paprika             | Spices and Herbs |     | false    |
-| Soya Milk                  | Drinks           | 1   | false    |
-| Soy Sauce                  | Condiments       | 1   | false    |
-| Spaghetti                  | Dry              | 1   | false    |
-| Sriracha Sauce             | Condiments       |     | false    |
-| Strawberries               | Fruits & Veg     | 1   | false    |
-| Sweet Potatoes             | Fruits & Veg     | 4   | false    |
-| Thyme                      | Spices and Herbs |     | false    |
-| Tilapia Fillets            | Frozen           | 3   | false    |
-| Tomato                     | Fruits & Veg     | 5   | false    |
-| Tortillas                  | Dry              |     | false    |
-| Unsweetened Milk           | Drinks           | 1   | false    |
-| Wheat Noodles              | Dry              |     | false    |
-| Zucchini                   | Fruits & Veg     | 2   | false    |
-
+| Ingredient                 | Category         | Protein / 100g | Qty | In Stock |
+| -------------------------- | ---------------- | -------------- | --- | -------- |
+| Almond Butter              | Condiments       | 21g            | 1   | false    |
+| Almonds                    | Nuts             | 21g            | 1   | false    |
+| Avocado                    | Fruits & Veg     | 2g             | 3   | false    |
+| Banana                     | Fruits & Veg     | 1g             | 1   | false    |
+| Berry Essence              | Supplements      | 0g             | 12  | false    |
+| Bread                      | Carbs            | 9g             | 1   | false    |
+| Button Mushrooms           | Fruits & Veg     | 3g             | 1   | false    |
+| Canned Tuna                | Others           | 25g            | 4   | false    |
+| Canned butter beans        | Others           | 7g             | 3   | false    |
+| Carrot Juice               | Drinks           | 1g             | 1   | false    |
+| Carrots                    | Fruits & Veg     | 1g             | 2   | false    |
+| Cauliflower                | Fruits & Veg     | 2g             | 1   | false    |
+| Cherry Tomatoes            | Fruits & Veg     | 1g             |     | false    |
+| Chicken Breast             | Meat & Protein   | 31g            | 2   | false    |
+| Cucumber                   | Fruits & Veg     | 1g             | 2   | false    |
+| Egg                        | Meat & Protein   | 13g            | 10  | false    |
+| Frozen Bagel               | Frozen           | 10g            | 1   | false    |
+| Frozen Blueberries         | Frozen           | 1g             | 1   | false    |
+| Fusilli                    | Dry              | 13g            |     | false    |
+| Garlic Powder              | Condiments       | 16g            | 1   | false    |
+| Glass Noodle               | Dry              | 0g             |     | false    |
+| Granola                    | Carbs            | 10g            | 2   | false    |
+| Greek Yogurt               | Dairy            | 10g            | 1   | false    |
+| Ingredients New Ingredient |                  | N/A            |     | false    |
+| Jam                        | Condiments       | 0g             | 1   | false    |
+| Lean Ground Beef           | Meat & Protein   | 26g            | 2   | false    |
+| Light Soy Sauce            | Condiments       | 8g             | 1   | false    |
+| Linguine                   | Dry              | 13g            |     | false    |
+| Macadamia                  | Nuts             | 8g             |     | false    |
+| Manuka Honey               | Condiments       | 0g             | 1   | false    |
+| Maple Syrup                | Condiments       | 0g             | 1   | false    |
+| Nespresso Pods             | Others           | 0g             | 4   | false    |
+| Oat Milk                   | Drinks           | 1g             | 3   | false    |
+| Olive Oil                  | Condiments       | 0g             | 1   | false    |
+| Onion Powder               | Condiments       | 10g            | 1   | false    |
+| Oyster Sauce               | Condiments       | 1g             | 1   | false    |
+| Oregano Leaves             | Spices and Herbs | 9g             |     | false    |
+| Parsley Leaves             | Spices and Herbs | 22g            |     | false    |
+| Peanut Butter              | Condiments       | 25g            | 1   | false    |
+| Peanuts                    | Nuts             | 26g            | 1   | false    |
+| Pecans                     | Nuts             | 9g             | 1   | false    |
+| Pineapple                  | Fruits & Veg     | 1g             | 1   | false    |
+| Potatoes                   | Fruits & Veg     | 2g             | 5   | false    |
+| Red Onion                  | Fruits & Veg     | 1g             | 4   | false    |
+| Salmon                     | Meat & Protein   | 20g            | 2   | false    |
+| Salted Butter              | Dairy            | 1g             |     | false    |
+| Sliced Cheese              | Dairy            | 25g            |     | false    |
+| Smoked Paprika             | Spices and Herbs | 14g            |     | false    |
+| Soya Milk                  | Drinks           | 3g             | 1   | false    |
+| Soy Sauce                  | Condiments       | 8g             | 1   | false    |
+| Spaghetti                  | Dry              | 13g            | 1   | false    |
+| Sriracha Sauce             | Condiments       | 1g             |     | false    |
+| Strawberries               | Fruits & Veg     | 1g             | 1   | false    |
+| Sweet Potatoes             | Fruits & Veg     | 2g             | 4   | false    |
+| Thyme                      | Spices and Herbs | 9g             |     | false    |
+| Tilapia Fillets            | Frozen           | 20g            | 3   | false    |
+| Tomato                     | Fruits & Veg     | 1g             | 5   | false    |
+| Tortillas                  | Dry              | 8g             |     | false    |
+| Unsweetened Milk           | Drinks           | 3g             | 1   | false    |
+| Wheat Noodles              | Dry              | 12g            |     | false    |
+| Zucchini                   | Fruits & Veg     | 1g             | 2   | false    |
 ---
 
 ## Grocery: Non-food
