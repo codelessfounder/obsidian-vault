@@ -170,138 +170,138 @@ Stuffed peppers with mince
 
 ## Grocery Inventory (Merged from Grocery List)
 
-This section mirrors the current grocery inventory so `Food.md` can be your consolidated food and grocery reference.
+This section is a database of things I buy at the store. `In Stock` is intentionally kept as `false` rather than treated as a live inventory field.
 
-| Ingredient | Category | Qty | In Stock | Store |
-| --- | --- | --- | --- | --- |
-| Almond Butter | Condiments | 1 | false |  |
-| Almonds | Nuts | 1 | false |  |
-| Avocado | Fruits & Veg | 3 | false |  |
-| Banana | Fruits & Veg | 1 | true | [] |
-| Berry Essence | Supplements | 12 | true | [] |
-| Bread | Carbs | 1 | true | [] |
-| Button Mushrooms | Fruits & Veg | 1 | true |  |
-| Canned Tuna | Others | 4 | true |  |
-| Canned butter beans | Others | 3 | true | [] |
-| Carrot Juice | Drinks | 1 | true | [] |
-| Carrots | Fruits & Veg | 2 | false |  |
-| Cauliflower | Fruits & Veg | 1 | false |  |
-| Cherry Tomatoes | Fruits & Veg |  | true | [] |
-| Chicken Breast | Meat & Protein | 2 | false |  |
-| Cucumber | Fruits & Veg | 2 | true |  |
-| Egg | Meat & Protein | 10 | true |  |
-| Frozen Bagel | Frozen | 1 | true | [] |
-| Frozen Blueberries | Frozen | 1 | true | [] |
-| Fusilli | Dry |  | true | [] |
-| Garlic Powder | Condiments | 1 | true |  |
-| Glass Noodle | Dry |  | true |  |
-| Granola | Carbs | 2 | true | [] |
-| Greek Yogurt | Dairy | 1 | false |  |
-| Ingredients New Ingredient |  |  | false | [] |
-| Jam | Condiments | 1 | true |  |
-| Lean Ground Beef | Meat & Protein | 2 | true | [] |
-| Light Soy Sauce | Condiments | 1 | true |  |
-| Linguine | Dry |  | true | [] |
-| Macadamia | Nuts |  | true | [] |
-| Manuka Honey | Condiments | 1 | true |  |
-| Maple Syrup | Condiments | 1 | true |  |
-| Nespresso Pods | Others | 4 | true | [] |
-| Oat Milk | Drinks | 3 | false |  |
-| Olive Oil | Condiments | 1 | true | [] |
-| Onion Powder | Condiments | 1 | true | [] |
-| Oyster Sauce | Condiments | 1 | false | [] |
-| Oregano Leaves | Spices and Herbs |  | true | [] |
-| Parsley Leaves | Spices and Herbs |  | true | [] |
-| Peanut Butter | Condiments | 1 | true | [] |
-| Peanuts | Nuts | 1 | false |  |
-| Pecans | Nuts | 1 | true |  |
-| Pineapple | Fruits & Veg | 1 | true |  |
-| Potatoes | Fruits & Veg | 5 | true |  |
-| Red Onion | Fruits & Veg | 4 | true | [] |
-| Salmon | Meat & Protein | 2 | false |  |
-| Salted Butter | Dairy |  | true | [] |
-| Sliced Cheese | Dairy |  | true | [] |
-| Smoked Paprika | Spices and Herbs |  | true | [] |
-| Soya Milk | Drinks | 1 | true | [] |
-| Soy Sauce | Condiments | 1 | false | [] |
-| Spaghetti | Dry | 1 | false |  |
-| Sriracha Sauce | Condiments |  | true | [] |
-| Strawberries | Fruits & Veg | 1 | true |  |
-| Sweet Potatoes | Fruits & Veg | 4 | true |  |
-| Thyme | Spices and Herbs |  | true | [] |
-| Tilapia Fillets | Frozen | 3 | true |  |
-| Tomato | Fruits & Veg | 5 | true |  |
-| Tortillas | Dry |  | true |  |
-| Unsweetened Milk | Drinks | 1 | true | [] |
-| Wheat Noodles | Dry |  | true |  |
-| Zucchini | Fruits & Veg | 2 | true |  |
+| Ingredient                 | Category         | Qty | In Stock |
+| -------------------------- | ---------------- | --- | -------- |
+| Almond Butter              | Condiments       | 1   | false    |
+| Almonds                    | Nuts             | 1   | false    |
+| Avocado                    | Fruits & Veg     | 3   | false    |
+| Banana                     | Fruits & Veg     | 1   | false    |
+| Berry Essence              | Supplements      | 12  | false    |
+| Bread                      | Carbs            | 1   | false    |
+| Button Mushrooms           | Fruits & Veg     | 1   | false    |
+| Canned Tuna                | Others           | 4   | false    |
+| Canned butter beans        | Others           | 3   | false    |
+| Carrot Juice               | Drinks           | 1   | false    |
+| Carrots                    | Fruits & Veg     | 2   | false    |
+| Cauliflower                | Fruits & Veg     | 1   | false    |
+| Cherry Tomatoes            | Fruits & Veg     |     | false    |
+| Chicken Breast             | Meat & Protein   | 2   | false    |
+| Cucumber                   | Fruits & Veg     | 2   | false    |
+| Egg                        | Meat & Protein   | 10  | false    |
+| Frozen Bagel               | Frozen           | 1   | false    |
+| Frozen Blueberries         | Frozen           | 1   | false    |
+| Fusilli                    | Dry              |     | false    |
+| Garlic Powder              | Condiments       | 1   | false    |
+| Glass Noodle               | Dry              |     | false    |
+| Granola                    | Carbs            | 2   | false    |
+| Greek Yogurt               | Dairy            | 1   | false    |
+| Ingredients New Ingredient |                  |     | false    |
+| Jam                        | Condiments       | 1   | false    |
+| Lean Ground Beef           | Meat & Protein   | 2   | false    |
+| Light Soy Sauce            | Condiments       | 1   | false    |
+| Linguine                   | Dry              |     | false    |
+| Macadamia                  | Nuts             |     | false    |
+| Manuka Honey               | Condiments       | 1   | false    |
+| Maple Syrup                | Condiments       | 1   | false    |
+| Nespresso Pods             | Others           | 4   | false    |
+| Oat Milk                   | Drinks           | 3   | false    |
+| Olive Oil                  | Condiments       | 1   | false    |
+| Onion Powder               | Condiments       | 1   | false    |
+| Oyster Sauce               | Condiments       | 1   | false    |
+| Oregano Leaves             | Spices and Herbs |     | false    |
+| Parsley Leaves             | Spices and Herbs |     | false    |
+| Peanut Butter              | Condiments       | 1   | false    |
+| Peanuts                    | Nuts             | 1   | false    |
+| Pecans                     | Nuts             | 1   | false    |
+| Pineapple                  | Fruits & Veg     | 1   | false    |
+| Potatoes                   | Fruits & Veg     | 5   | false    |
+| Red Onion                  | Fruits & Veg     | 4   | false    |
+| Salmon                     | Meat & Protein   | 2   | false    |
+| Salted Butter              | Dairy            |     | false    |
+| Sliced Cheese              | Dairy            |     | false    |
+| Smoked Paprika             | Spices and Herbs |     | false    |
+| Soya Milk                  | Drinks           | 1   | false    |
+| Soy Sauce                  | Condiments       | 1   | false    |
+| Spaghetti                  | Dry              | 1   | false    |
+| Sriracha Sauce             | Condiments       |     | false    |
+| Strawberries               | Fruits & Veg     | 1   | false    |
+| Sweet Potatoes             | Fruits & Veg     | 4   | false    |
+| Thyme                      | Spices and Herbs |     | false    |
+| Tilapia Fillets            | Frozen           | 3   | false    |
+| Tomato                     | Fruits & Veg     | 5   | false    |
+| Tortillas                  | Dry              |     | false    |
+| Unsweetened Milk           | Drinks           | 1   | false    |
+| Wheat Noodles              | Dry              |     | false    |
+| Zucchini                   | Fruits & Veg     | 2   | false    |
 
 ---
 
 ## Grocery: Non-food
 
-Use this as the supermarket non-food checklist. `In Stock` = `true` if you already have enough at home, `false` if it should be bought, blank if not yet audited.
+Use this as the supermarket non-food database/checklist. `In Stock` is intentionally kept as `false` rather than treated as a live inventory field.
 
-| Item | Category | Qty | In Stock | Store | Notes |
-| --- | --- | --- | --- | --- | --- |
-| Toilet Paper | Paper Goods | 1 |  | [] | Bathroom staple |
-| Paper Towels | Paper Goods | 1 |  | [] | Kitchen cleanup |
-| Tissues | Paper Goods | 1 |  | [] | Cold/allergy staple |
-| Napkins | Paper Goods | 1 |  | [] | Optional table/kitchen item |
-| Aluminium Foil | Kitchen Supplies | 1 |  | [] | Cooking/storage |
-| Baking Paper | Kitchen Supplies | 1 |  | [] | Oven/tray liner |
-| Cling Wrap | Kitchen Supplies | 1 |  | [] | Food storage |
-| Ziplock Bags | Kitchen Supplies | 1 |  | [] | Freezer/snacks/storage |
-| Garbage Bags | Kitchen Supplies | 1 |  | [] | Bin liners |
-| Sponges | Cleaning | 1 |  | [] | Dishes/surfaces |
-| Dish Brush | Cleaning | 1 |  | [] | Dishes |
-| Dish Soap | Cleaning | 1 |  | [] | Hand-washing dishes |
-| Dishwashing Tablets | Cleaning | 1 |  | [] | Dishwasher |
-| Dishwasher Rinse Aid | Cleaning | 1 |  | [] | Dishwasher maintenance |
-| Surface Spray | Cleaning | 1 |  | [] | Benches/tables |
-| Disinfectant Wipes | Cleaning | 1 |  | [] | Quick cleaning |
-| Multipurpose Cleaner | Cleaning | 1 |  | [] | General cleaning |
-| Glass Cleaner | Cleaning | 1 |  | [] | Windows/mirrors |
-| Bathroom Cleaner | Cleaning | 1 |  | [] | Shower/sink |
-| Toilet Cleaner | Cleaning | 1 |  | [] | Toilet bowl |
-| Toilet Brush | Cleaning | 1 |  | [] | Replace periodically |
-| Bleach | Cleaning | 1 |  | [] | Heavy disinfecting |
-| Floor Cleaner | Cleaning | 1 |  | [] | Mopping |
-| Laundry Detergent | Laundry | 1 |  | [] | Clothes washing |
-| Fabric Softener | Laundry | 1 |  | [] | Optional laundry item |
-| Stain Remover | Laundry | 1 |  | [] | Clothes stains |
-| Napisan / Laundry Soaker | Laundry | 1 |  | [] | Whites/sheets/towels |
-| Pegs | Laundry | 1 |  | [] | Drying clothes |
-| Hand Soap | Personal Care | 1 |  | [] | Bathroom/kitchen sink |
-| Body Wash | Personal Care | 1 |  | [] | Shower |
-| Shampoo | Personal Care | 1 |  | [] | Hair |
-| Conditioner | Personal Care | 1 |  | [] | Hair |
-| Toothpaste | Personal Care | 1 |  | [] | Dental |
-| Toothbrush | Personal Care | 1 |  | [] | Dental |
-| Dental Floss | Personal Care | 1 |  | [] | Dental |
-| Mouthwash | Personal Care | 1 |  | [] | Dental |
-| Deodorant | Personal Care | 1 |  | [] | Daily use |
-| Razors | Personal Care | 1 |  | [] | Shaving |
-| Shaving Cream | Personal Care | 1 |  | [] | Shaving |
-| Moisturiser | Personal Care | 1 |  | [] | Skin |
-| Sunscreen | Personal Care | 1 |  | [] | Outdoor/UV |
-| Lip Balm | Personal Care | 1 |  | [] | Dry lips |
-| Cotton Buds | Personal Care | 1 |  | [] | Bathroom staple |
-| Cotton Pads | Personal Care | 1 |  | [] | Bathroom/skincare |
-| Band-Aids | Health | 1 |  | [] | First aid |
-| Painkillers | Health | 1 |  | [] | Paracetamol/ibuprofen |
-| Antihistamines | Health | 1 |  | [] | Allergies |
-| Electrolytes | Health | 1 |  | [] | Hydration/sickness |
-| Hand Sanitiser | Health | 1 |  | [] | Travel/bag |
-| Batteries | Household | 1 |  | [] | AA/AAA as needed |
-| Light Bulbs | Household | 1 |  | [] | Check fitting first |
-| Matches / Lighter | Household | 1 |  | [] | Candles/cooking/emergency |
-| Insect Spray | Household | 1 |  | [] | Bugs |
-| Fly Spray | Household | 1 |  | [] | Indoor insects |
-| Pet Food | Pets | 1 |  | [] | If applicable |
-| Pet Litter | Pets | 1 |  | [] | If applicable |
-| Nappies | Baby | 1 |  | [] | If applicable |
-| Baby Wipes | Baby | 1 |  | [] | If applicable/general cleanup |
+| Item                     | Category         | Qty | In Stock | Notes                         |
+| ------------------------ | ---------------- | --- | -------- | ----------------------------- |
+| Toilet Paper             | Paper Goods      | 1   | false    | Bathroom staple               |
+| Paper Towels             | Paper Goods      | 1   | false    | Kitchen cleanup               |
+| Tissues                  | Paper Goods      | 1   | false    | Cold/allergy staple           |
+| Napkins                  | Paper Goods      | 1   | false    | Optional table/kitchen item   |
+| Aluminium Foil           | Kitchen Supplies | 1   | false    | Cooking/storage               |
+| Baking Paper             | Kitchen Supplies | 1   | false    | Oven/tray liner               |
+| Cling Wrap               | Kitchen Supplies | 1   | false    | Food storage                  |
+| Ziplock Bags             | Kitchen Supplies | 1   | false    | Freezer/snacks/storage        |
+| Garbage Bags             | Kitchen Supplies | 1   | false    | Bin liners                    |
+| Sponges                  | Cleaning         | 1   | false    | Dishes/surfaces               |
+| Dish Brush               | Cleaning         | 1   | false    | Dishes                        |
+| Dish Soap                | Cleaning         | 1   | false    | Hand-washing dishes           |
+| Dishwashing Tablets      | Cleaning         | 1   | false    | Dishwasher                    |
+| Dishwasher Rinse Aid     | Cleaning         | 1   | false    | Dishwasher maintenance        |
+| Surface Spray            | Cleaning         | 1   | false    | Benches/tables                |
+| Disinfectant Wipes       | Cleaning         | 1   | false    | Quick cleaning                |
+| Multipurpose Cleaner     | Cleaning         | 1   | false    | General cleaning              |
+| Glass Cleaner            | Cleaning         | 1   | false    | Windows/mirrors               |
+| Bathroom Cleaner         | Cleaning         | 1   | false    | Shower/sink                   |
+| Toilet Cleaner           | Cleaning         | 1   | false    | Toilet bowl                   |
+| Toilet Brush             | Cleaning         | 1   | false    | Replace periodically          |
+| Bleach                   | Cleaning         | 1   | false    | Heavy disinfecting            |
+| Floor Cleaner            | Cleaning         | 1   | false    | Mopping                       |
+| Laundry Detergent        | Laundry          | 1   | false    | Clothes washing               |
+| Fabric Softener          | Laundry          | 1   | false    | Optional laundry item         |
+| Stain Remover            | Laundry          | 1   | false    | Clothes stains                |
+| Napisan / Laundry Soaker | Laundry          | 1   | false    | Whites/sheets/towels          |
+| Pegs                     | Laundry          | 1   | false    | Drying clothes                |
+| Hand Soap                | Personal Care    | 1   | false    | Bathroom/kitchen sink         |
+| Body Wash                | Personal Care    | 1   | false    | Shower                        |
+| Shampoo                  | Personal Care    | 1   | false    | Hair                          |
+| Conditioner              | Personal Care    | 1   | false    | Hair                          |
+| Toothpaste               | Personal Care    | 1   | false    | Dental                        |
+| Toothbrush               | Personal Care    | 1   | false    | Dental                        |
+| Dental Floss             | Personal Care    | 1   | false    | Dental                        |
+| Mouthwash                | Personal Care    | 1   | false    | Dental                        |
+| Deodorant                | Personal Care    | 1   | false    | Daily use                     |
+| Razors                   | Personal Care    | 1   | false    | Shaving                       |
+| Shaving Cream            | Personal Care    | 1   | false    | Shaving                       |
+| Moisturiser              | Personal Care    | 1   | false    | Skin                          |
+| Sunscreen                | Personal Care    | 1   | false    | Outdoor/UV                    |
+| Lip Balm                 | Personal Care    | 1   | false    | Dry lips                      |
+| Cotton Buds              | Personal Care    | 1   | false    | Bathroom staple               |
+| Cotton Pads              | Personal Care    | 1   | false    | Bathroom/skincare             |
+| Band-Aids                | Health           | 1   | false    | First aid                     |
+| Painkillers              | Health           | 1   | false    | Paracetamol/ibuprofen         |
+| Antihistamines           | Health           | 1   | false    | Allergies                     |
+| Electrolytes             | Health           | 1   | false    | Hydration/sickness            |
+| Hand Sanitiser           | Health           | 1   | false    | Travel/bag                    |
+| Batteries                | Household        | 1   | false    | AA/AAA as needed              |
+| Light Bulbs              | Household        | 1   | false    | Check fitting first           |
+| Matches / Lighter        | Household        | 1   | false    | Candles/cooking/emergency     |
+| Insect Spray             | Household        | 1   | false    | Bugs                          |
+| Fly Spray                | Household        | 1   | false    | Indoor insects                |
+| Pet Food                 | Pets             | 1   | false    | If applicable                 |
+| Pet Litter               | Pets             | 1   | false    | If applicable                 |
+| Nappies                  | Baby             | 1   | false    | If applicable                 |
+| Baby Wipes               | Baby             | 1   | false    | If applicable/general cleanup |
 
 ---
 
