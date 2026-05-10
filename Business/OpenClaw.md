@@ -65,3 +65,5 @@ OpenClaw is a hobby project and still in beta. Expect sharp edges.     │
 
 
 [[exa API setup prompt]]
+
+i I can
