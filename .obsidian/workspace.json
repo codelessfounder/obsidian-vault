@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/OpenClaw.md",
+                "file": "Business/exa API setup prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OpenClaw"
+              "title": "exa API setup prompt"
             }
           }
         ]
@@ -231,10 +231,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e8f86dca18778e6",
+  "active": "9de7c7b40001a6c9",
   "lastOpenFiles": [
-    "Business/Model Context Protocol (MCP).md",
+    "AGENTS.md",
+    "Business/exa API setup prompt.md",
+    "connection_test.md",
     "Business/OpenClaw.md",
+    "openclaw-note.md",
+    "Business/Model Context Protocol (MCP).md",
     "Business/WhatsApp_Image_2024-11-25_at_12.57.43.jpeg",
     "Business/WhatsApp_Image_2024-11-25_at_12.57.48.jpeg",
     "Business/WhatsApp_Image_2024-11-25_at_12.58.12.jpeg",
@@ -243,7 +247,6 @@
     "Business/WhatsApp_Image_2024-11-25_at_12.59.22.jpeg",
     "Diary/Stories.md",
     "Business/Zeller Verification Document.md",
-    "openclaw-note.md",
     "Diary/Rubric.md",
     "Diary/27-04-26.md",
     "Diary/23-04-26.md",
@@ -251,20 +254,17 @@
     "Diary/01-01-25.md",
     "Diary/10-05-26.md",
     "Personal/Health/Food.md",
-    "exa API setup prompt.md",
     "Business/Screen_Shot_2024-09-17_at_4.26.56_pm.png",
     "Business/Screen_Shot_2024-09-17_at_7.38.51_pm.png",
     "Business/Screen_Shot_2024-09-17_at_7.38.51_pm 1.png",
     "Business/Screen_Shot_2024-09-18_at_4.50.15_pm.png",
     "Business/Apparate (Marsh) Script.md",
     "Business/Hatch/AI Training.md",
-    "AGENTS.md",
     "AI_Inbox/Test file 1 duplicate 4.md",
     "AI_Inbox/Test file 1 duplicate 3.md",
     "AI_Inbox/Test file 1 duplicate 2.md",
     "AI_Inbox/Test file 1 duplicate.md",
     "AI_Inbox/Test file 1.md",
-    "connection_test.md",
     "AI_Inbox",
     "AI_Inbox/Agents are taking over!.md",
     "learnrooms_summary.md",
