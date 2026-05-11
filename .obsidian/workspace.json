@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/11-05-26.md",
+                "file": "Business/AI Training.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11-05-26"
+              "title": "AI Training"
             }
           }
         ],
@@ -246,10 +246,51 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "136dc145c0f230d9",
+  "floating": {
+    "id": "d4958a436209e7aa",
+    "type": "floating",
+    "children": [
+      {
+        "id": "fc0ce4842f31b078",
+        "type": "window",
+        "children": [
+          {
+            "id": "681c5f44b5bcdfc6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "216da2acae8c1034",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Business/CV.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "CV"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1441,
+        "y": 25,
+        "width": 1003,
+        "height": 1323,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "216da2acae8c1034",
   "lastOpenFiles": [
-    "Diary/Stories.md",
+    "Business/AI Training.md",
+    "Business/CV.md",
     "Diary/11-05-26.md",
+    "Diary/Stories.md",
     "Business/Apparate (Marsh) Script.md",
     "Business/exa API setup prompt.md",
     "AGENTS.md",
@@ -275,7 +316,6 @@
     "Business/Screen_Shot_2024-09-17_at_7.38.51_pm.png",
     "Business/Screen_Shot_2024-09-17_at_7.38.51_pm 1.png",
     "Business/Screen_Shot_2024-09-18_at_4.50.15_pm.png",
-    "Business/Hatch/AI Training.md",
     "AI_Inbox/Test file 1 duplicate 4.md",
     "AI_Inbox/Test file 1 duplicate 3.md",
     "AI_Inbox/Test file 1 duplicate 2.md",
@@ -284,7 +324,6 @@
     "AI_Inbox",
     "AI_Inbox/Agents are taking over!.md",
     "learnrooms_summary.md",
-    "Diary/Dear Diary.md",
     "Personal/Diary",
     "Personal/Documents",
     "Archive/Grocery List/Ingredients/Ingredients.base",
