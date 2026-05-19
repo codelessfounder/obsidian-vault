@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/Customer acquisition/Customer acquisition.md",
+                "file": "Personal/Health/Habits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Customer acquisition"
+              "title": "Habits"
+            }
+          },
+          {
+            "id": "cbe72911cf0b6378",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hello world.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "hello world"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -209,7 +223,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Diary/Rubric.md",
+                "file": "hello world.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -237,10 +251,21 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Rubric"
+              "title": "Graph of hello world"
+            }
+          },
+          {
+            "id": "3814f7d2d52d327d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -260,8 +285,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e93aaa8e2df1747d",
+  "active": "cbe72911cf0b6378",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "hello world.md",
+    "AGENTS.md",
+    "connection_test.md",
+    "Personal/Health/Habits.md",
+    "AI_Inbox/Test file 1 duplicate 5.md",
+    "Personal/Health/Food.md",
+    "Personal/Interests/Movies.md",
+    "Business/Customer acquisition/Customer acquisition.md",
     "Business/Customer discovery/Customer discovery.md",
     "Business/Compliance/Compliance.md",
     "Business/Untitled.png",
@@ -280,8 +314,6 @@
     "Diary/Stories.md",
     "Business/Apparate (Marsh) Script.md",
     "Business/exa API setup prompt.md",
-    "AGENTS.md",
-    "connection_test.md",
     "Business/OpenClaw.md",
     "openclaw-note.md",
     "Business/Model Context Protocol (MCP).md",
@@ -296,15 +328,8 @@
     "Diary/27-04-26.md",
     "Diary/23-04-26.md",
     "Diary/21-04-26.md",
-    "Diary/01-01-25.md",
-    "Diary/10-05-26.md",
-    "Personal/Health/Food.md",
     "Business/Screen_Shot_2024-09-17_at_4.26.56_pm.png",
     "Business/Screen_Shot_2024-09-17_at_7.38.51_pm.png",
-    "AI_Inbox/Test file 1 duplicate 4.md",
-    "AI_Inbox/Test file 1 duplicate 3.md",
-    "AI_Inbox/Test file 1 duplicate 2.md",
-    "AI_Inbox/Test file 1 duplicate.md",
     "AI_Inbox",
     "Personal/Diary",
     "Personal/Documents"
