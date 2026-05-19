@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hello world.md",
+                "file": "Sync Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hello world"
+              "title": "Sync Test"
             }
           }
         ],
@@ -223,7 +223,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hello world.md",
+                "file": "Sync Test.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -251,7 +251,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of hello world"
+              "title": "Graph of Sync Test"
             }
           },
           {
@@ -287,8 +287,9 @@
   },
   "active": "cbe72911cf0b6378",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "hello world.md",
+    "Sync Test.md",
+    "conflict-files-obsidian-git.md",
     "AGENTS.md",
     "connection_test.md",
     "Personal/Health/Habits.md",
@@ -327,7 +328,6 @@
     "Diary/Rubric.md",
     "Diary/27-04-26.md",
     "Diary/23-04-26.md",
-    "Diary/21-04-26.md",
     "Business/Screen_Shot_2024-09-17_at_4.26.56_pm.png",
     "Business/Screen_Shot_2024-09-17_at_7.38.51_pm.png",
     "AI_Inbox",
