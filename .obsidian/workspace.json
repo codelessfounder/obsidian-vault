@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/Workflow Automation/Workflow Automation.md",
+                "file": "Business/Workflow Automation/AI automation job - notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Workflow Automation"
+              "title": "AI automation job - notes"
             }
           }
         ],
@@ -195,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Business/Workflow Automation/Workflow Automation.md",
+                "file": "Business/Workflow Automation/AI automation job - notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -223,7 +223,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Workflow Automation"
+              "title": "Graph of AI automation job - notes"
             }
           },
           {
@@ -257,10 +257,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "136dc145c0f230d9",
+  "active": "7e8f86dca18778e6",
   "lastOpenFiles": [
-    "hello world.md",
     "Business/Workflow Automation/Workflow Automation.md",
+    "hello world.md",
     "Business/Workflow Automation",
     "Sync Test.md",
     "The Quick Brown Fox.md",
