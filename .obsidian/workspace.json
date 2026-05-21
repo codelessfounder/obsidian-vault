@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Suds/About Suds.md",
+                "file": "Business/Design/UI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "About Suds"
+              "title": "UI"
             }
           }
         ],
@@ -195,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Archive/Suds/About Suds.md",
+                "file": "Business/Design/UI.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -223,7 +223,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of About Suds"
+              "title": "Graph of UI"
             }
           },
           {
@@ -259,6 +259,15 @@
   },
   "active": "136dc145c0f230d9",
   "lastOpenFiles": [
+    "Business/Customer acquisition/Customer acquisition.md",
+    "Business/App Dev",
+    "Business/AI/Untitled",
+    "Business/Disco/Disco MVP Product Strategy.md",
+    "Business/Dev (Product).md",
+    "Business/April 2026.md",
+    "Business/Apparate (Marsh) Script.md",
+    "Business/Design/UI.md",
+    "Archive/Suds/About Suds.md",
     "Business/Workflow Automation/AI automation job - notes.md",
     "Business/Workflow Automation/Workflow Automation.md",
     "hello world.md",
@@ -273,7 +282,6 @@
     "connection_test.md",
     "AI_Inbox/Test file 1 duplicate 5.md",
     "Personal/Interests/Movies.md",
-    "Business/Customer acquisition/Customer acquisition.md",
     "Business/Customer discovery/Customer discovery.md",
     "Business/Compliance/Compliance.md",
     "Business/Untitled.png",
@@ -288,22 +296,13 @@
     "Business/Watchcrow",
     "Business/CV.md",
     "Diary/11-05-26.md",
-    "Diary/Stories.md",
-    "Business/Apparate (Marsh) Script.md",
-    "Business/exa API setup prompt.md",
-    "Business/OpenClaw.md",
-    "openclaw-note.md",
-    "Business/Model Context Protocol (MCP).md",
     "Business/WhatsApp_Image_2024-11-25_at_12.57.43.jpeg",
     "Business/WhatsApp_Image_2024-11-25_at_12.57.48.jpeg",
     "Business/WhatsApp_Image_2024-11-25_at_12.58.12.jpeg",
     "Business/WhatsApp_Image_2024-11-25_at_12.58.20.jpeg",
     "Business/WhatsApp_Image_2024-11-25_at_12.59.08.jpeg",
     "Business/WhatsApp_Image_2024-11-25_at_12.59.22.jpeg",
-    "Business/Zeller Verification Document.md",
     "Business/Screen_Shot_2024-09-17_at_4.26.56_pm.png",
-    "Business/Screen_Shot_2024-09-17_at_7.38.51_pm.png",
-    "AI_Inbox",
-    "Personal/Diary"
+    "Business/Screen_Shot_2024-09-17_at_7.38.51_pm.png"
   ]
 }

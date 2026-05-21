@@ -1,120 +1,131 @@
 ---
 
 ---
-business insurance, public liability - broker will go over the specifics
-
-Skip Medical Centres
-[https://app.close.com/leads/save_Yj9lrT6aZUHvf5HokRvA3IotoTnYspyFOT459LVL3WZ/](https://app.close.com/leads/save_Yj9lrT6aZUHvf5HokRvA3IotoTnYspyFOT459LVL3WZ/)
-
-[https://app.close.com/lead/lead_Mt2ATZBrhacCk3bTZrTysEdDmoOcrHEeO4IYfj5Rzxq/](https://app.close.com/lead/lead_Mt2ATZBrhacCk3bTZrTysEdDmoOcrHEeO4IYfj5Rzxq/)
-
-### **Insurance Intro**
-
-"Hey there, it’s Harry from Marsh Insurance. 
-
-awatts@marinertvl.com
-
-Aaron 
-Who handled insurance policy renewal for you guys?
-
-When do you guys usually renew your business’s insurance policies? 
-
-I was just reaching out to put you guys in touch with one of our brokers who will send you some more information on our insurance policies - how does that sound?
-
- If no - was there a reason as to why you don’t want to receive an email? 
 
 
-Great, I’ll just ask you a couple of questions just so our broker has a bit more context of your business:
+**Grid Systems**
 
-1. When is your policy due for renewal?
-2. How are you currently managing insurance? Do you use a broker or go directly with an insurer 
-3. Generally, what assets do you have under management?
-4. What’s your estimated currently Policy value?
-5. Are you the sole decision maker?
+**Goal:**
 
-giantormand@gmail.com
-December 
-Leon 
+Create **uniform, well-aligned designs** that adapt seamlessly to different screen sizes and enhance readability.
 
-jignesh panchal
-Business 
-jigs239@gmail.com
-
-[annette.myer@conquestrg.com.au](mailto:annette.myer@conquestrg.com.au) 
-
-
-What is your full name and email?
-
-info@organicinstinct.net.au
-
-ahmed helou
-
-raj buttar 
-
-Operations manager 
-
-raj@livewellhc.com.au
-
-Do you have any context over the current insurance policy?
-
-That’s totally fine - what I could do is get one of our brokers to send you an email with some info on our policy details for when it comes time to review (of course, no commitment at all at this stage), how do you feel about that?
-
-Thanks! have a good day!
-
-
-
-
-- **A**sset Scope – What key assets are we protecting?
-- **D**ecision Authority – Who else is involved in the sign-off?
-- **A**pproach (Current Management) – How is it managed now (Broker/Direct/Bank)?
-- **P**remium Scale – Are we talking thousands or millions?
-- **T**imeline (Renewal) – When does the current policy expire?
-- **E**xasperations (Pain Points) – What is your biggest frustration or "itch"?
-- **D**elivery (Next Steps/Email) – When should we benchmark, and what is your email?
-
-### **Current Management**
-
-"To route you correctly, **how is your insurance managed?** Do you use a broker, go direct to an insurer, or is it through a bank? Also, who is your current provider and have you been with them long?"
-
-### **Premium Scale**
-
-"To match you with the right advisor, what is your **total premium is**? Are we looking at tens of thousands, or is it up in the multi-million range?"
-
-### **Asset Scope**
-
-In term of asset scope, what kind of key assets are you currently managing?
-
-### **Pain Points**
-
-"What’s your **biggest frustration** with your current cover? Is there anything specific you’d want to see improved when the renewal comes up?"
-
-### **Renewal Timeline**
-
-"Do you know the **actual renewal date** for your current policy?"
-
-### **Decision Authority**
-
-"Are you the **main decision maker** for the insurance program, or do you work with others on the review?"
-
-### **Next Steps**
-
-"When should we **benchmark your cover**? I can have an advisor reach out this week, or we can wait until closer to the renewal—what works best?"
-
-### Email
-
-I’ll just grab your email now and have a broker reach out to discuss the technicalities. Thanks for your time."
+- **12-Column Grid**: A responsive grid system that allows flexibility across multiple devices by using 12 columns for layouts.
+- **Baseline Grids**: Aligning text and visual elements to a vertical grid for better legibility and visual harmony.
+- **Modular Grids**: Dividing layouts into regular-sized modules to ensure consistency in the placement of UI elements.
+- **Golden Ratio**: Using a 1:1.618 ratio to achieve visually balanced and pleasing layouts.
 
 ---
 
-# takeover: 
+**Typography Hierarchy**
 
+**Goal:**
 
+Create a **clear and readable text hierarchy** that improves comprehension and visual appeal.
 
-Marsh contacts:
+- **Font Pairing**: Combining two or more complementary fonts (e.g., serif with sans-serif) to create contrast and visual interest.
+- **Heading Hierarchy**: Structuring text with varying font sizes and weights (e.g., H1, H2) to clearly differentiate headings and subheadings.
+- **Line Spacing**: Adjusting the space between lines of text to make it easier to read and less crowded.
+- **Letter Spacing (Tracking/Kerning)**: Modifying the spacing between letters to enhance readability and aesthetic appeal.
 
-**Andrew Lawther**
+---
 
-- **Radha Challapalli**
-    - Email: radha.challapalli@marsh.com
-    - Permission: Editor
+**Colour Theory and Palettes**
 
+**Goal:**
+
+Create a **visually harmonious design** that leverages colour to evoke emotions, improve usability, and align with brand identity.
+
+- **Monochromatic Colour Scheme**: Using various shades and tints of a single colour to maintain a clean and cohesive look.
+- **Analogous Colour Scheme**: Selecting colours next to each other on the colour wheel for a more harmonious appearance.
+- **Complementary Colour Scheme**: Using colours from opposite sides of the colour wheel to create contrast and draw attention.
+- **Contrast for Accessibility**: Ensuring that text and backgrounds have sufficient contrast for users with visual impairments.
+
+---
+
+**Iconography**
+
+**Goal:**
+
+Ensure **icons are universally recognizable** and improve usability while maintaining visual harmony across the app.
+
+- **Icon Sets**: Using a cohesive set of icons to create consistency in the visual language.
+- **Metaphorical Icons**: Designing icons that represent real-world analogies (e.g., a trash bin icon for deleting items).
+- **Scalable Vector Icons (SVGs)**: Implementing vector-based icons that scale smoothly across devices without losing quality.
+- **Icon Labelling**: Adding text labels to icons to avoid confusion, especially for complex or abstract symbols.
+
+---
+
+**Button Design**
+
+**Goal:**
+
+Design **engaging and intuitive buttons** that drive user actions, improve usability, and provide feedback on interactions.
+
+- **Primary vs Secondary Buttons**: Differentiating between actions (e.g., “Submit” vs “Cancel”) through varying button styles, colours, or sizes.
+- **Call-to-Action (CTA) Buttons**: Highlighting key actions with bold colours and clear text like “Buy Now” or “Sign Up.”
+- **Hover and Click Effects**: Adding visual feedback, such as colour changes or shadow effects, when a user hovers over or clicks a button.
+- **Size and Padding**: Ensuring buttons are large enough for easy clicking or tapping with enough padding for touch interactions.
+
+---
+
+**Responsive Design**
+
+**Goal:**
+
+Ensure the app provides a **consistent and intuitive experience** across different devices, from mobile phones to desktops.
+
+- **Fluid Grids**: Using percentage-based layouts that adjust dynamically to different screen sizes.
+- **Breakpoints**: Setting predefined points where the layout or design changes to suit various screen sizes (e.g., mobile, tablet, desktop).
+- **Flexible Media**: Ensuring that images and other media elements resize correctly without distortion.
+- **Mobile-First Design**: Designing for smaller screens first, and then progressively enhancing the design for larger screens.
+
+---
+
+**Micro-Interactions**
+
+**Goal:**
+
+Provide **instant feedback and subtle engagement cues**, making the app feel responsive and alive to user actions.
+
+- **Loading Animations**: Feedback during loading processes to reduce perceived waiting time and keep users engaged.
+- **Hover Effects**: Visual or interactive changes when users hover over clickable items (e.g., enlarging buttons or changing colours).
+- **Button Feedback**: Showing visual effects like colour shifts or shadows to indicate when buttons are pressed.
+- **Notification Badges**: Small dynamic icons, such as red dots or numbers, to alert users of updates or new information.
+
+---
+
+**Visual Consistency (Design Systems)**
+
+**Goal:**
+
+Maintain **visual and interaction consistency**, making the app easy to use and predictable for users.
+
+- **Design Systems**: Using libraries of reusable UI components (e.g., buttons, forms, icons) based on consistent styles, such as Google’s Material Design or Apple’s Human Interface Guidelines.
+- **Style Guides**: Developing and following a style guide to standardize colours, typography, and other visual elements across the app.
+- **Atomic Design**: Breaking down the UI into smaller components (atoms, molecules) and combining them to build larger, more complex interfaces.
+
+---
+
+**Interaction Feedback**
+
+**Goal:**
+
+Enhance the **user's sense of control and understanding** of the system’s state, increasing overall usability and satisfaction.
+
+- **Success and Error States**: Using visual feedback (e.g., green for success, red for error) after user actions such as form submissions.
+- **Progress Indicators**: Showing feedback like loading bars or spinners to inform users when processes are happening (e.g., file uploads).
+- **Inline Validation**: Providing real-time feedback as users complete forms (e.g., displaying green checkmarks or error messages).
+- **Undo/Redo Actions**: Offering feedback for reversible actions, allowing users to undo a previous step (e.g., restoring deleted items).
+
+---
+
+**Animation and Motion Design**
+
+**Goal:**
+
+Use **motion design** to guide users and make transitions smoother, improving flow and engagement within the app.
+
+- **Page Transitions**: Smooth animations during navigation to provide a sense of continuity between screens.
+- **Onboarding Animations**: Animated tutorials or walkthroughs that guide new users through the app’s functionality.
+- **Micro-Animations**: Small motion effects, like icons shifting or buttons expanding, to provide feedback on interactions.
+- **Animated Feedback**: Using motion to indicate the result of user actions, such as items disappearing smoothly after being deleted.

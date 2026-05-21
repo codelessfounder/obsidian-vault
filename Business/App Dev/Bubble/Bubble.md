@@ -5,9 +5,9 @@
 
 [[Step by Step Guide]]
 
-[[Business/Bubble/Skills]]
+[[Business/App Dev/Bubble/Skills]]
 
-[[Business/Bubble/Principles]]
+[[Business/App Dev/Bubble/Principles]]
 
 [[Stripe Integration]]
 
@@ -167,8 +167,8 @@ Build chrome extension in bubble:
 
 ## Exam resources
 
-- [[Exam/Core Concepts]]
-- [[Exam/Practice questions]]
+- [[Core Concepts]]
+- [[Practice questions]]
 
 ## Recommended plugins
 
