@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hello world.md",
+                "file": "Business/Workflow Automation/Workflow Automation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hello world"
+              "title": "Workflow Automation"
             }
           }
         ],
@@ -195,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hello world.md",
+                "file": "Business/Workflow Automation/Workflow Automation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -223,7 +223,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of hello world"
+              "title": "Graph of Workflow Automation"
             }
           },
           {
@@ -257,11 +257,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e8f86dca18778e6",
+  "active": "136dc145c0f230d9",
   "lastOpenFiles": [
-    "Business/Untitled",
-    "Sync Test.md",
     "hello world.md",
+    "Business/Workflow Automation/Workflow Automation.md",
+    "Business/Workflow Automation",
+    "Sync Test.md",
     "The Quick Brown Fox.md",
     "Business/AI Training.md",
     "Personal/Health/Food.md",
@@ -303,7 +304,6 @@
     "Business/Screen_Shot_2024-09-17_at_4.26.56_pm.png",
     "Business/Screen_Shot_2024-09-17_at_7.38.51_pm.png",
     "AI_Inbox",
-    "Personal/Diary",
-    "Personal/Documents"
+    "Personal/Diary"
   ]
 }
