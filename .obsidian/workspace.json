@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/Workflow Automation/AI automation job - notes.md",
+                "file": "Archive/Suds/About Suds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI automation job - notes"
+              "title": "About Suds"
             }
           }
         ],
@@ -195,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Business/Workflow Automation/AI automation job - notes.md",
+                "file": "Archive/Suds/About Suds.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -223,7 +223,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of AI automation job - notes"
+              "title": "Graph of About Suds"
             }
           },
           {
@@ -257,8 +257,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e8f86dca18778e6",
+  "active": "136dc145c0f230d9",
   "lastOpenFiles": [
+    "Business/Workflow Automation/AI automation job - notes.md",
     "Business/Workflow Automation/Workflow Automation.md",
     "hello world.md",
     "Business/Workflow Automation",
@@ -300,7 +301,6 @@
     "Business/WhatsApp_Image_2024-11-25_at_12.59.08.jpeg",
     "Business/WhatsApp_Image_2024-11-25_at_12.59.22.jpeg",
     "Business/Zeller Verification Document.md",
-    "Diary/Rubric.md",
     "Business/Screen_Shot_2024-09-17_at_4.26.56_pm.png",
     "Business/Screen_Shot_2024-09-17_at_7.38.51_pm.png",
     "AI_Inbox",
