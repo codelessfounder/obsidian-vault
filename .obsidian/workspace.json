@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/Workflow Automation/Workflow Automation.md",
+                "file": "Personal/Finances/Bills.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Workflow Automation"
+              "title": "Bills"
             }
           }
         ],
@@ -195,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Business/Workflow Automation/Workflow Automation.md",
+                "file": "Personal/Finances/Bills.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -223,7 +223,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Workflow Automation"
+              "title": "Graph of Bills"
             }
           },
           {
@@ -259,6 +259,8 @@
   },
   "active": "136dc145c0f230d9",
   "lastOpenFiles": [
+    "Business/Workflow Automation/Workflow Automation.md",
+    "Personal/Finances/Bills.md",
     "Personal/Interests/Movies.md",
     "Business/Design/UI.md",
     "Business/Customer acquisition/Customer acquisition.md",
@@ -270,7 +272,6 @@
     "Business/Apparate (Marsh) Script.md",
     "Archive/Suds/About Suds.md",
     "Business/Workflow Automation/AI automation job - notes.md",
-    "Business/Workflow Automation/Workflow Automation.md",
     "hello world.md",
     "Business/Workflow Automation",
     "Sync Test.md",
