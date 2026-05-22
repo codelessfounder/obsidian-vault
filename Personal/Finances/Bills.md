@@ -7,4 +7,8 @@ A list of all my bills:
 4. Home internet: $40 per month
 5. Cursor: $30 per month
 6. Braddah: $20 per week
-7. 
+7. Rent: $1100 per month 
+8. Amazon Prime: $10
+9. Stan: $15
+10. 
+   
