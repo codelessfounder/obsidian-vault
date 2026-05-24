@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Personal/Finances/Bills.md",
+                "file": "Personal/Interests/Movies.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,7 +208,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Bills"
+              "title": "Graph of Movies"
             }
           },
           {
@@ -217,12 +217,22 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "694eeb9bab73a028",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -244,8 +254,9 @@
   },
   "active": "9de7c7b40001a6c9",
   "lastOpenFiles": [
-    "Personal/Interests/Kinks.md",
+    "Personal/Interests/Dating.md",
     "Personal/Interests/Movies.md",
+    "Personal/Interests/Kinks.md",
     "Personal/Interests/Movies.md.dedup.tmp",
     "Personal/Interests/Movies.md.bak_20260525-001558",
     "Personal/Interests/Interests.md",
