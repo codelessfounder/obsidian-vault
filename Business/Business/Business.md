@@ -56,11 +56,6 @@ Slop Media
 - A content company that provides Ad creatives for companies who want to do social media ads. 
 
 
----
-
-Write an Andrew Tate Quote Philosophy book in the style of meditations - and audiobook and then sell it 
-
-“Meditatetions” 
 
 
 

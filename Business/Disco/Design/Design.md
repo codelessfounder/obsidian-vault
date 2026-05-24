@@ -4,7 +4,7 @@
 
 [[UX]]
 
-[[Business/Design/UI]]
+[[Business/Disco/Design/UI]]
 
 stack: 
 

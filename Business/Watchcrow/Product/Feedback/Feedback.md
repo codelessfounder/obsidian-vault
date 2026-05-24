@@ -40,9 +40,9 @@ Hey mate, a quick question - what I’m really trying to do is make sure that ev
 
 Zaeger references:
 
-- [[Product/Feedback/Zaeger/November transcript]]
-- [[Product/Feedback/Zaeger/Key learnings]]
-- [[Product/Feedback/Zaeger/25 November 2024]]
+- [[November transcript]]
+- [[Key learnings]]
+- [[25 November 2024]]
 
 19 December 2024 notes:
 

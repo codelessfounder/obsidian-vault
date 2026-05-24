@@ -2,7 +2,7 @@
 
 ---
 
-[[Business/Customer discovery/Business model simulations/Test 3 6% + $0.30, fee applied to original amount/Simulation code]]
+[[Business/Disco/Customer discovery/Business model simulations/Test 3 6% + $0.30, fee applied to original amount/Simulation code]]
 
 ---
 

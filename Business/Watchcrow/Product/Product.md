@@ -4,15 +4,15 @@
 
 [[Problem]]
 
-[[Business/Product/Evangelism]]
+[[Business/Watchcrow/Product/Evangelism]]
 
 [[Payments]]
 
-[[Business/Product/Future products/Future products]]
+[[Business/Watchcrow/Product/Future products/Future products]]
 
 [[Features]]
 
-[[Business/Product/UI]]
+[[Business/Watchcrow/Product/UI]]
 
 [[Competitors]]
 

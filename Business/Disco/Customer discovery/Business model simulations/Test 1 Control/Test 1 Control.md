@@ -2,7 +2,7 @@
 
 ---
 
-[[Business/Customer discovery/Business model simulations/Test 1 Control/simulation code]]
+[[Business/Disco/Customer discovery/Business model simulations/Test 1 Control/simulation code]]
 
 
 Pricing probabiilities

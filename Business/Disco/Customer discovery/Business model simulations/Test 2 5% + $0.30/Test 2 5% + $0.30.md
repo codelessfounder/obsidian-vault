@@ -2,7 +2,7 @@
 
 ---
 
-[[Business/Customer discovery/Business model simulations/Test 2 5% + $0.30/Simulation code]]
+[[Business/Disco/Customer discovery/Business model simulations/Test 2 5% + $0.30/Simulation code]]
 
 ---
 

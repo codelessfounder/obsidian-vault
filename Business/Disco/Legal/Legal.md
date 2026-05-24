@@ -3,9 +3,9 @@
 ---
 
 
-[[Legal/NDA/For friends]]
+[[For friends]]
 
-[[Legal/NDA/for IP]]
+[[for IP]]
 
 [[GLI Product test]]
 
