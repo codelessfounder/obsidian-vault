@@ -21,26 +21,26 @@
 | Central do Brasil                     | Drama, Foreign | no      |        |
 | The deer hunter                       | War, Drama | no      |        |
 | Raging bull                           | Biography, Drama | no      |        |
-| Legend                                |          | no      |        |
-| Salt Burn                             |          | Yes     |        |
-| Poor things                           |          | no      |        |
-| The greatest beer run ever            |          | no      |        |
-| The death of Stalin                   |          | Yes     |        |
-| Parasite                              |          | Yes     |        |
-| Seven                                 |          | no      |        |
-| Battle Royale                         |          | Yes     |        |
-| Jerry & Marge go large                |          | no      |        |
-| Perfect days                          |          | no      |        |
-| Blow                                  |          | no      |        |
-| Margin call                           |          | Yes     | 1.5/5  |
-| The American Friend                   |          | no      |        |
-| Little miss sunshine                  |          | no      |        |
-| Zodiac (serial killer)                |          | no      |        |
-| Léon                                  |          | no      |        |
-| The conversation                      |          | no      |        |
-| Joint Security Area (Korean Cinema)   |          | no      |        |
-| Dr Strange Love (Kubric)              |          | no      |        |
-| Black Narcissus 1947                  |          | no      |        |
+| Legend                                | Fantasy, Adventure | no      |        |
+| Salt Burn                             | Drama, Thriller | Yes     |        |
+| Poor things                           | Drama, Romance | no      |        |
+| The greatest beer run ever            | Documentary, History | no      |        |
+| The death of Stalin                   | History, Drama | Yes     |        |
+| Parasite                              | Drama, Thriller | Yes     |        |
+| Seven                                 | Crime, Thriller | no      |        |
+| Battle Royale                         | Action, Drama | Yes     |        |
+| Jerry & Marge go large                | Biography, Drama | no      |        |
+| Perfect days                          | Drama, Adventure | no      |        |
+| Blow                                  | Biography, Crime | no      |        |
+| Margin call                           | Drama, Thriller | Yes     | 1.5/5  |
+| The American Friend                   | Crime, Drama | no      |        |
+| Little miss sunshine                  | Comedy, Drama | no      |        |
+| Zodiac (serial killer)                | Thriller, Crime | no      |        |
+| Léon                                  | Action, Crime | no      |        |
+| The conversation                      | Thriller, Mystery | no      |        |
+| Joint Security Area (Korean Cinema)   | Drama, War | no      |        |
+| Dr Strange Love (Kubric)              | Drama, Comedy | no      |        |
+| Black Narcissus 1947                  | Drama, Mystery | no      |        |
 | The cranes are flying                 |          | no      |        |
 | Swiss army man                        |          | no      |        |
 | Jungle                                |          | no      |        |
