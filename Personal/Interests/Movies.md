@@ -1,26 +1,26 @@
 
 | Title                                 | Category | Watched | Rating |
 | ------------------------------------- | -------- | ------- | ------ |
-| Crouching tiger, hidden Dragon        |          | no      |        |
-| Feather and loathing in Las Vegas     |          | no      |        |
-| The damned United                     |          | no      |        |
-| Before night falls                    |          | no      |        |
-| Hunger                                |          | no      |        |
-| 24 hour party people                  |          | no      |        |
-| Mr turner                             |          | no      |        |
-| Searching for Bobby Fischer           |          | no      |        |
-| Shine 1996                            |          | no      |        |
-| The beautiful life of Henry Sugar     |          | Yes     |        |
-| Past Lives                            |          | no      |        |
-| All quiet on the western front        |          | no      |        |
-| 1917                                  |          | no      |        |
-| Barry Linden                          |          | Yes     |        |
-| Fitz Coraldo                          |          | no      |        |
-| A touch of evil                       |          | no      |        |
-| City of god                           |          | no      |        |
-| Central do Brasil                     |          | no      |        |
-| The deer hunter                       |          | no      |        |
-| Raging bull                           |          | no      |        |
+| Crouching tiger, hidden Dragon        | Drama, Action | no      |        |
+| Feather and loathing in Las Vegas     | Comedy, Adventure | no      |        |
+| The damned United                     | Drama, Biography | no      |        |
+| Before night falls                    | Biography, Drama | no      |        |
+| Hunger                                | Biography, History | no      |        |
+| 24 hour party people                  | Biography, History | no      |        |
+| Mr turner                             | Biography, History | no      |        |
+| Searching for Bobby Fischer           | Biography, Drama | no      |        |
+| Shine 1996                            | Biography, Drama | no      |        |
+| The beautiful life of Henry Sugar     | Animation, Drama | Yes     |        |
+| Past Lives                            | Drama, Romance | no      |        |
+| All quiet on the western front        | War, Drama | no      |        |
+| 1917                                  | War, Drama | no      |        |
+| Barry Linden                          | Drama, History | Yes     |        |
+| Fitz Coraldo                          | Adventure, Drama | no      |        |
+| A touch of evil                       | Crime, Drama | no      |        |
+| City of god                           | Crime, Drama | no      |        |
+| Central do Brasil                     | Drama, Foreign | no      |        |
+| The deer hunter                       | War, Drama | no      |        |
+| Raging bull                           | Biography, Drama | no      |        |
 | Legend                                |          | no      |        |
 | Salt Burn                             |          | Yes     |        |
 | Poor things                           |          | no      |        |
@@ -60,7 +60,6 @@
 | Phenomenon                            |          | no      |        |
 | Eyes Wide Shut                        |          | no      |        |
 | Passion of the Christ                 |          | no      |        |
-| Central do Brasil                     |          | no      |        |
 | The matrix                            |          | no      |        |
 | Warfare                               |          | no      |        |
 | Tenet                                 |          | no      |        |
@@ -72,16 +71,13 @@
 | Two for the Money                     |          | no      |        |
 | Dog day afternoon                     |          | no      |        |
 | Gambling movie mark wahlber           |          | no      |        |
-| Eyes wide shut                        |          | no      |        |
 | Legion                                |          | no      |        |
 | There will be blood                   |          | no      |        |
 | Grand Budapest hotel                  |          | no      |        |
 | Lawrence of Arabia                    |          | no      |        |
 | 2001 space odyssey                    |          | no      |        |
-| Past lives                            |          | no      |        |
 | Evil Dead Rise                        |          | no      |        |
 | Sinners                               |          | no      |        |
-| Perfect days                          |          | no      |        |
 | Malignant                             |          | no      |        |
 | John Wick Chapter 4                   |          | no      |        |
 | Zack snider’s Justice League          |          | no      |        |
@@ -94,7 +90,6 @@
 | Oppenheimer                           |          | no      |        |
 | Dune part 2                           |          | no      |        |
 | Naked 1993                            |          | no      |        |
-| The hunt                              |          | no      |        |
 | Requiem for a dream                   |          | no      |        |
 | Eternal sunshine of the spotless mind |          | no      |        |
 | Dead poets society                    |          | no      |        |
@@ -104,7 +99,6 @@
 | Prisoners Jake Gylenhaal              |          | no      |        |
 | Rush 2013                             |          | no      |        |
 | Obsession                             |          | no      |        |
-| The Matrix                            |          | Yes     | 5/5    |
 
 ---
 
