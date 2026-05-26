@@ -58,21 +58,21 @@
 | Pan's Labyrinth                       | Fantasy Drama  | no      |        |
 | Vicky Cristina Barcelona              | Romance        | no      |        |
 | Phenomenon                            | Drama Sci-Fi  | no      |        |
-| Eyes Wide Shut                        |          | no      |        |
-| Passion of the Christ                 |          | no      |        |
-| The matrix                            |          | no      |        |
-| Warfare                               |          | no      |        |
-| Tenet                                 |          | no      |        |
-| This is England                       |          | no      |        |
-| adolescence                           |          | no      |        |
-| Yi Yi                                 |          | no      |        |
-| Taste of Cherry                       |          | no      |        |
-| The hunt                              |          | no      |        |
-| Two for the Money                     |          | no      |        |
-| Dog day afternoon                     |          | no      |        |
-| Gambling movie mark wahlber           |          | no      |        |
-| Legion                                |          | no      |        |
-| There will be blood                   |          | no      |        |
+| Eyes Wide Shut                        | Thriller | no      |        |
+| Passion of the Christ                 | Drama    | no      |        |
+| The matrix                            | Sci-Fi   | no      |        |
+| Warfare                               | War      | no      |        |
+| Tenet                                 | Sci-Fi   | no      |        |
+| This is England                       | Drama    | no      |        |
+| adolescence                           | Drama    | no      |        |
+| Yi Yi                                 | Drama    | no      |        |
+| Taste of Cherry                       | Drama    | no      |        |
+| The hunt                              | Thriller | no      |        |
+| Two for the Money                     | Comedy   | no      |        |
+| Dog day afternoon                     | Crime    | no      |        |
+| Gambling movie mark wahlber           | Crime    | no      |        |
+| Legion                                | War      | no      |        |
+| There will be blood                   | Biography| no      |        |
 | Grand Budapest hotel                  |          | no      |        |
 | Lawrence of Arabia                    |          | no      |        |
 | 2001 space odyssey                    |          | no      |        |
