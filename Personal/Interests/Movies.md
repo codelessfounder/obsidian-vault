@@ -41,7 +41,7 @@
 | Joint Security Area (Korean Cinema)   | Drama, War | no      |        |
 | Dr Strange Love (Kubric)              | Drama, Comedy | no      |        |
 | Black Narcissus 1947                  | Drama, Mystery | no      |        |
-| The cranes are flying                 |          | no      |        |
+| The cranes are flying                 | Drama        | no      |        |
 | Swiss army man                        | Comedy Sci-Fi | no      |        |
 | Jungle                                | Adventure      | no      |        |
 | Iron claw                             | Biography     | no      |        |
@@ -73,9 +73,9 @@
 | Gambling movie mark wahlber           | Crime    | no      |        |
 | Legion                                | War      | no      |        |
 | There will be blood                   | Biography| no      |        |
-| Grand Budapest hotel                  |          | no      |        |
-| Lawrence of Arabia                    |          | no      |        |
-| 2001 space odyssey                    |          | no      |        |
+| Grand Budapest hotel                  | Comedy       | no      |        |
+| Lawrence of Arabia                    | Drama        | no      |        |
+| 2001 space odyssey                    | Sci-Fi       | no      |        |
 | Evil Dead Rise                        |          | no      |        |
 | Sinners                               |          | no      |        |
 | Malignant                             |          | no      |        |
