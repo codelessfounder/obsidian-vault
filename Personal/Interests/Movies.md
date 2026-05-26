@@ -42,22 +42,22 @@
 | Dr Strange Love (Kubric)              | Drama, Comedy | no      |        |
 | Black Narcissus 1947                  | Drama, Mystery | no      |        |
 | The cranes are flying                 |          | no      |        |
-| Swiss army man                        |          | no      |        |
-| Jungle                                |          | no      |        |
-| Iron claw                             |          | no      |        |
-| Society of the snow                   |          | no      |        |
-| Alien Romulus                         |          | no      |        |
-| Snatch                                |          | no      |        |
-| Apocalypse now                        |          | no      |        |
-| The boy in the striped pyjamas        |          | no      |        |
-| Enter the dragon                      |          | no      |        |
-| The Devil’s advocate                  |          | no      |        |
-| Pusher (1,2,3)                        |          | no      |        |
-| Prisoners                             |          | no      |        |
-| Ultimu Azul                           |          | no      |        |
-| Pan’s Labyrinth                       |          | no      |        |
-| Vicky Cristina Barcelona              |          | no      |        |
-| Phenomenon                            |          | no      |        |
+| Swiss army man                        | Comedy Sci-Fi | no      |        |
+| Jungle                                | Adventure      | no      |        |
+| Iron claw                             | Biography     | no      |        |
+| Society of the snow                   | Drama          | no      |        |
+| Alien Romulus                         | Horror Sci-Fi  | no      |        |
+| Snatch                                | Crime Comedy   | no      |        |
+| Apocalypse now                        | War           | no      |        |
+| The boy in the striped pyjamas        | Drama          | no      |        |
+| Enter the dragon                      | Action         | no      |        |
+| The Devil's advocate                  | Thriller       | no      |        |
+| Pusher (1,2,3)                        | Crime         | no      |        |
+| Prisoners                             | Thriller       | no      |        |
+| Ultimu Azul                           | Drama          | no      |        |
+| Pan's Labyrinth                       | Fantasy Drama  | no      |        |
+| Vicky Cristina Barcelona              | Romance        | no      |        |
+| Phenomenon                            | Drama Sci-Fi  | no      |        |
 | Eyes Wide Shut                        |          | no      |        |
 | Passion of the Christ                 |          | no      |        |
 | The matrix                            |          | no      |        |
@@ -80,7 +80,7 @@
 | Sinners                               |          | no      |        |
 | Malignant                             |          | no      |        |
 | John Wick Chapter 4                   |          | no      |        |
-| Zack snider’s Justice League          |          | no      |        |
+| Zack snider's Justice League          |          | no      |        |
 | Aftersun                              |          | no      |        |
 | Nope                                  |          | no      |        |
 | Top Gun Maverick                      |          | no      |        |
@@ -114,17 +114,17 @@ Top 5 movies
 
 4. Kung Fu Panda
 
-5. Harry Potter and the Goblet of fire 
+5. Harry Potter and the Goblet of fire
 
-6. The Twin Towers 
+6. The Twin Towers
 
 7. King Kong
 
-8. Transformers 
+8. Transformers
 
-9. Spider-Man 2 
+9. Spider-Man 2
 
-10. Barry Lyndon 
+10. Barry Lyndon
 
 
 
@@ -153,28 +153,28 @@ Favourite actors:
 
 9. Sacha Baron Cohen
 
-10. Christian Bale 
+10. Christian Bale
 
-11. Alfred Molina 
+11. Alfred Molina
 
-12. Alan Rickman 
+12. Alan Rickman
 
-13. Emma Watson 
+13. Emma Watson
 
-14. Adrian Brody 
+14. Adrian Brody
 
-15. Christopher Lee 
+15. Christopher Lee
 
 ---
 
 
-Favourite villains: 
+Favourite villains:
 
 
 
 1.  Tai Lung (Kung Fu Panda)
 
-2. Raoul Silva (Skyfall) 
+2. Raoul Silva (Skyfall)
 
 
 ---
@@ -192,7 +192,7 @@ Favourite TV shows:
 
 4. Breaking bad
 
-5. Game of Thrones 
+5. Game of Thrones
 
 ---
 
