@@ -91,7 +91,7 @@
 | Dune part 2                           |          | no      |        |
 | Naked 1993                            |          | no      |        |
 | Requiem for a dream                   |          | no      |        |
-| Eternal sunshine of the spotless mind |          | no      |        |
+| Eternal sunshine of the spotless mind | Sci-Fi | no      |        |
 | Dead poets society                    |          | no      |        |
 | Manchester by the sea                 |          | no      |        |
 | Nocturnal animals                     |          | no      |        |
