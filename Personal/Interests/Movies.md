@@ -76,9 +76,9 @@
 | Grand Budapest hotel                  | Comedy       | no      |        |
 | Lawrence of Arabia                    | Drama        | no      |        |
 | 2001 space odyssey                    | Sci-Fi       | no      |        |
-| Evil Dead Rise                        |          | no      |        |
-| Sinners                               |          | no      |        |
-| Malignant                             |          | no      |        |
+| Evil Dead Rise                        | Horror        | no      |        |
+| Sinners                               | Thriller      | no      |        |
+| Malignant                             | Horror        | no      |        |
 | John Wick Chapter 4                   |          | no      |        |
 | Zack snider's Justice League          |          | no      |        |
 | Aftersun                              |          | no      |        |
