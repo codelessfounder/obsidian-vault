@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6c7a621369104f53",
@@ -256,11 +257,11 @@
   "lastOpenFiles": [
     "Personal/Interests/Kinks.md",
     "Personal/Interests/Movies.md",
+    "Personal/Interests/Interests.md",
     "Personal/Interests/People.md",
     "2026-05-25.md",
     "Archive/Grocery List/Ingredients/Ingredients.base",
     "Archive/Grocery List/Grocery List.md",
-    "Personal/Interests/Interests.md",
     "Personal/Interests/Dating.md",
     "Personal/Interests/Movies.md.dedup.tmp",
     "Personal/Interests/Movies.md.bak_20260525-001558",

@@ -86,7 +86,7 @@
 | Top Gun Maverick                      |                      | no      |        |
 | One battle after another              |                      | no      |        |
 | Furiosa Mad Max saga                  |                      | no      |        |
-| Dune part 1                           |                      | no      |        |
+| Dune part 1                           |                      | Yes     |        |
 | Oppenheimer                           |                      | no      |        |
 | Dune part 2                           |                      | no      |        |
 | Naked 1993                            |                      | no      |        |
