@@ -25,14 +25,12 @@
             "id": "1da76d0bd4ce7d87",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Personal/Things to buy.md",
-                "mode": "source",
-                "source": false
+                "file": "Business/image.png"
               },
-              "icon": "lucide-file",
-              "title": "Things to buy"
+              "icon": "lucide-image",
+              "title": "image"
             }
           }
         ],
@@ -195,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Personal/Things to buy.md",
+                "file": "Business/image.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -223,7 +221,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Things to buy"
+              "title": "Graph of image"
             }
           },
           {
