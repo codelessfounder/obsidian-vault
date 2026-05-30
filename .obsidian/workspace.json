@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Interests/Movies.md",
+                "file": "hello world.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Movies"
-            }
-          },
-          {
-            "id": "1da76d0bd4ce7d87",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Business/image.png"
-              },
-              "icon": "lucide-image",
-              "title": "image"
+              "title": "hello world"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Business/image.png",
+                "file": "hello world.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,7 +208,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of image"
+              "title": "Graph of hello world"
             }
           },
           {
@@ -265,53 +252,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1da76d0bd4ce7d87",
+  "active": "9de7c7b40001a6c9",
   "lastOpenFiles": [
+    "2026-05-25.md",
+    "Business/The Lonely Founder/IMG_6852.jpeg",
+    "Business/Screenshot_2025-11-15_at_12.51.10_pm.png",
+    "Business/Screenshot_2025-05-20_at_5.25.04_pm.png",
+    "Business/Screen_Shot_2024-10-29_at_12.25.23_pm.png",
+    "Business/IMG_6893.png",
+    "Business/Screen_Shot_2024-09-18_at_4.50.15_pm.png",
+    "Business/Disco/Evangelism.md",
+    "Business/Watchcrow/Dump.md",
+    "Business/Venture Capital/Untitled 1.png",
+    "Business/Venture Capital/Venture Capital.md",
+    "Business/Venture Capital",
+    "Archive/Volintern.md",
+    "Business/Bad Hand Co/Bad Hand Co.md",
+    "Business/Bad Hand Co",
+    "Business/The Lonely Founder/The Lonely Founder.md",
+    "Business/The Lonely Founder",
+    "Business/Workflow Automation/Interviews.md",
+    "Business/Forex/Forex.md",
+    "Business/Füd",
+    "Business/Forex",
+    "Business/AI/exa API setup prompt.md",
+    "Business/Disco/Marketplace.md",
+    "Business/Disco/Engine.md",
+    "Business/Füd/Füd.md",
+    "Business/App Dev/Screen_Shot_2025-02-14_at_1.49.19_pm.png",
+    "Business/AI/Screenshot_2025-05-22_at_6.45.50_pm.png",
+    "Business/Disco/Screenshot_2025-10-05_at_2.03.14_pm.png",
+    "Business/Market Loot",
+    "Business/Dunny",
+    "Business/AI Training/AI Training.md",
+    "Business/AI Training",
     "Personal/Things to buy.md",
     "Personal/Interests/Movies.md",
     "Personal/Interests/Kinks.md",
     "Personal/Interests/Interests.md",
     "Personal/Interests/People.md",
-    "2026-05-25.md",
     "Archive/Grocery List/Ingredients/Ingredients.base",
     "Archive/Grocery List/Grocery List.md",
     "Personal/Interests/Dating.md",
     "Personal/Interests/Movies.md.dedup.tmp",
-    "Personal/Interests/Movies.md.bak_20260525-001558",
-    "Business/Untitled 1.png",
-    "Personal/Interests/Movies.md.bak_20260524-234517",
-    "Business/The Lonely Founder.md",
     "Business/AI/Model Context Protocol (MCP).md",
-    "Business/Kangaroo Reading on the Toilet.png",
-    "Business/exa API setup prompt.md",
     "Business/Disco/Marketing.md",
-    "Business/Marketloot.md",
-    "Business/Interviews.md",
-    "Business/CV/April 2026.md",
-    "Business/CV",
-    "Business/Disco/Dev (Product).md",
-    "Business/Harry's Odyssey/Codeless Techstack.md",
-    "Business/Harry's Odyssey/Tools/Tools.md",
-    "Business/Harry's Odyssey",
-    "Business/Apparate/Marsh Script.md",
-    "Business/AI Training.md",
-    "Business/Apparate",
-    "Business/Untitled.md",
-    "Business/Screenshot_2026-04-10_at_10.28.58_am.png",
-    "Business/Screenshot_2026-03-22_at_11.42.58_pm.png",
-    "Business/Screenshot_2026-04-13_at_6.52.23_pm.png",
-    "Business/Screenshot_2026-04-13_at_6.53.08_pm.png",
-    "Business/Screenshot_2026-04-14_at_9.47.10_am.png",
-    "Business/Screenshot_2026-04-14_at_9.49.49_am.png",
-    "Business/Screenshot_2026-04-14_at_11.09.03_am.png",
-    "Business/Screenshot_2026-04-14_at_12.48.21_pm.png",
-    "Business/Business/Business.md",
-    "Business/Business/Misc.md",
-    "Archive/CV Chrome Extension.md",
-    "Business/Volintern.md",
-    "Business/AI/AI.md",
-    "Business/Disco/five-steps-to-launch-an-online-casino-inlcuding-timeline.pdf",
-    "Business/Disco/consulting-eng.pdf",
-    "Business/App Dev"
+    "Business/Marketloot/Marketloot.md",
+    "Business/CV/April 2026.md"
   ]
 }

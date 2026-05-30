@@ -9,7 +9,7 @@
 
 [[Misc]]
 
-[[Bad Hand]]
+[[Bad Hand Co]]
 
 [[Pitchly - Gamified Pitch Night Software]]
 
