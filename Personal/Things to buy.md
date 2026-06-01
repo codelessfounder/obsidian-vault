@@ -6,14 +6,16 @@ One time:
 3.  tyres 
 4. Cologne 
 5. Curl cream
+6. steel pot
+7. tool kit
    
    
    recurring:
-6. incense 
-7. protein powder
-8. creatine 
-9. Nose strips 
-10. Mouth tape 
-11. Hair products
+8. incense 
+9. protein powder
+10. creatine 
+11. Nose strips 
+12. Mouth tape 
+13. Hair products
 
 
