@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hello world.md",
+                "file": "Business/Apparate/Trade Credit Policy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hello world"
+              "title": "Trade Credit Policy"
             }
           }
         ]
@@ -62,16 +62,6 @@
               },
               "icon": "lucide-search",
               "title": "Search"
-            }
-          },
-          {
-            "id": "0c64a2c1208e6bd5",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
             }
           }
         ]
@@ -180,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hello world.md",
+                "file": "Business/Apparate/Trade Credit Policy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,7 +198,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of hello world"
+              "title": "Graph of Trade Credit Policy"
             }
           },
           {
@@ -254,6 +244,11 @@
   },
   "active": "9de7c7b40001a6c9",
   "lastOpenFiles": [
+    "Business/Apparate/Marsh Script.md",
+    "Business/Apparate/Trade Credit Policy.md",
+    "Business/Evangelism/No-code myths.md",
+    "Business/Evangelism/USP.md",
+    "hello world.md",
     "2026-05-25.md",
     "Business/The Lonely Founder/IMG_6852.jpeg",
     "Business/Screenshot_2025-11-15_at_12.51.10_pm.png",
@@ -294,10 +289,6 @@
     "Archive/Grocery List/Ingredients/Ingredients.base",
     "Archive/Grocery List/Grocery List.md",
     "Personal/Interests/Dating.md",
-    "Personal/Interests/Movies.md.dedup.tmp",
-    "Business/AI/Model Context Protocol (MCP).md",
-    "Business/Disco/Marketing.md",
-    "Business/Marketloot/Marketloot.md",
-    "Business/CV/April 2026.md"
+    "Personal/Interests/Movies.md.dedup.tmp"
   ]
 }
