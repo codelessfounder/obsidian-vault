@@ -8,14 +8,16 @@ One time:
 5. Curl cream
 6. steel pot
 7. tool kit
+8. air fryer 
    
    
-   recurring:
-8. incense 
-9. protein powder
-10. creatine 
-11. Nose strips 
-12. Mouth tape 
-13. Hair products
+recurring:
+
+1. incense 
+2. protein powder
+3. creatine 
+4. Nose strips 
+5. Mouth tape 
+6. Hair products
 
 
