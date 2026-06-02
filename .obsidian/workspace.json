@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Things to buy.md",
+                "file": "Business/Openclaw/Cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Things to buy"
+              "title": "Cheatsheet"
             }
           }
         ]
@@ -170,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Personal/Things to buy.md",
+                "file": "Business/Openclaw/Cheatsheet.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,7 +198,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Things to buy"
+              "title": "Graph of Cheatsheet"
             }
           },
           {
@@ -244,6 +244,9 @@
   },
   "active": "9de7c7b40001a6c9",
   "lastOpenFiles": [
+    "Personal/Things to buy.md",
+    "Business/Openclaw/Cheatsheet.md",
+    "Business/Openclaw",
     "Business/Apparate/Trade Credit Policy.md",
     "Business/Apparate/Marsh Script.md",
     "Business/Evangelism/No-code myths.md",
@@ -281,14 +284,11 @@
     "Business/Dunny",
     "Business/AI Training/AI Training.md",
     "Business/AI Training",
-    "Personal/Things to buy.md",
     "Personal/Interests/Movies.md",
     "Personal/Interests/Kinks.md",
     "Personal/Interests/Interests.md",
     "Personal/Interests/People.md",
     "Archive/Grocery List/Ingredients/Ingredients.base",
-    "Archive/Grocery List/Grocery List.md",
-    "Personal/Interests/Dating.md",
-    "Personal/Interests/Movies.md.dedup.tmp"
+    "Archive/Grocery List/Grocery List.md"
   ]
 }
