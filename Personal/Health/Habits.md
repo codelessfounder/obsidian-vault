@@ -3,7 +3,7 @@
 ---
 [[Personal/Health/Food]]
 
-[[Personal/Health/Powerlifting]]
+[[Personal/Interests/Powerlifting]]
 
 ---
 
