@@ -94,3 +94,10 @@ Categories I want to know about
 4. Free stuff 
 5. Tech
 
+
+
+important conditions: 
+
+- location radius 
+- Item count
+
