@@ -21,3 +21,9 @@ recurring:
 6. Hair products
 
 
+
+---
+
+BenQ x500i Projector OR  BenQ x3100i
+
+
