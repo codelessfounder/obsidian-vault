@@ -100,4 +100,5 @@ important conditions:
 
 - location radius 
 - Item count
+- listed in the last 24hrs
 
