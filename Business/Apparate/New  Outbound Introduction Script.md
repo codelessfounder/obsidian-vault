@@ -16,7 +16,7 @@ Was it yourself who handled organisation's commercial insurance program, risk ma
 
 We're speaking with organisations in your sector to understand how they currently manage their commercial insurance arrangements, whether they would be interested in speaking with a Marsh representative regarding their commercial insurance arrangements.
 
-This is not a sales call for retail insurance products and we are not seeking to provide personal financial advice.
+~~This is not a sales call for retail insurance products and we are not seeking to provide personal financial advice.~
 
 Would you be open to a brief discussion regarding your current commercial insurance arrangements?"
 
@@ -29,10 +29,6 @@ Would you like someone from Marsh to follow up with you regarding this matter?"
 ### Consent Confirmation
 
 "Thank you. I'll note that you have requested further contact from Marsh regarding your organisation's commercial insurance arrangements and I'll arrange for the appropriate Marsh representative to follow up."
-
-### If Not Interested
-
-"No problem at all. Thank you for your time today and I'll update our records accordingly."
 
 ### Compliance Guidelines
 
