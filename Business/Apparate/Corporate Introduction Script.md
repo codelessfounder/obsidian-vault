@@ -8,7 +8,9 @@ Was it yourself who handled organisation's commercial insurance program, risk ma
 
 ### If YES
 
-All I wanted to do was get one our brokers to make an introduction via email and see if you guys can find some alignment  in regards to your commercial insurance arrangements,  - How would you feel about one of our brokers making an introduction?  ~~whether they would be interested in speaking with a Marsh representative regarding their commercial insurance arrangements.~~
+All I wanted to do was get one our brokers to make an introduction via email to discuss the your current commerical insurance and risk policies, and to see see if you guys can find some alignment, how do that sound?
+
+~~whether they would be interested in speaking with a Marsh representative regarding their commercial insurance arrangements.~~
 ~~This is not a sales call for retail insurance products and we are not seeking to provide personal financial advice.~~~
 ~~Would you be open to a brief discussion regarding your current commercial insurance arrangements?"
 
