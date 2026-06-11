@@ -6,7 +6,7 @@
 
 "Good morning/afternoon, It's from Apparate, calling on behalf of Marsh Australia.
 
-I'm calling in regards to business's commercial insurance and risk management arrangements.
+I'm calling in regards to commercial insurance policy renewal.
 
 We are only contacting businesses regarding commercial insurance matters relevant to their organisation.
 
