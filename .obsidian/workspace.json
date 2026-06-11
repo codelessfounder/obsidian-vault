@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/Apparate/New  Outbound Introduction Script.md",
+                "file": "Business/Apparate/Corporate Introduction Script.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New  Outbound Introduction Script"
+              "title": "Corporate Introduction Script"
             }
           },
           {
@@ -198,7 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Business/Apparate/New  Outbound Introduction Script.md",
+                "file": "Business/Apparate/Corporate Introduction Script.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,7 +226,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of New  Outbound Introduction Script"
+              "title": "Graph of Corporate Introduction Script"
             }
           },
           {
@@ -273,7 +273,7 @@
   "active": "9de7c7b40001a6c9",
   "lastOpenFiles": [
     "Business/Apparate/Marsh Script.md",
-    "Business/Apparate/New  Outbound Introduction Script.md",
+    "Business/Apparate/Corporate Introduction Script.md",
     "Business/Apparate/Trade Credit Policy.md",
     "Business/Workflow Automation/CRUD and CRON.md",
     "Business/App Dev/CS Degree Knowledge vs Self Taught.md",
