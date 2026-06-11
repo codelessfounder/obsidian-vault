@@ -141,3 +141,24 @@ an instagram account dedicated to asians invading white people’s homes to inst
 - the Bidet bandit 
 
 
+---
+
+ad example:
+https://youtube.com/shorts/msVfwEOV6fM?si=yKf34-qCUN2-a1nU
+
+---
+
+bidets installed yourself are illegal: (so are fridges and washing machines)
+
+https://youtube.com/shorts/7uCTI_avy_o?si=guLJ9UfKw5HL7yNT
+
+bidet installation graphic:
+
+"""https://youtube.com/shorts/JuA6-X91B0g?si=1qiaI26gDg2VmARq""""
+
+competitor:
+https://youtube.com/shorts/BcvWKLW2-c4?si=lPeKIlUOVfLVClWT
+
+---
+
+
