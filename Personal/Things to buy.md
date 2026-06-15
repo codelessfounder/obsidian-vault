@@ -51,6 +51,9 @@ Furniture (essentials):
 - over the toilet storage (mid centruty)
 - Candle 
 - plants and orchid 
+- heated clothes rack
+
+
 
 
 
