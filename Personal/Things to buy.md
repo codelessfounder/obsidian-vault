@@ -49,6 +49,9 @@ Furniture (essentials):
 - bathroom lamp, no overhead lighting 
 - trash can 
 - over the toilet storage (mid centruty)
+- Candle 
+- plants and orchid 
+
 
 
 
@@ -66,3 +69,11 @@ cleaning:
 5. scrubbing brush 
 6. laundry scent booster 
 7. new washing machine 
+
+
+
+kitchen:
+- runner rug 
+- dining table and chair 
+- fridge on the counter 
+- lamp 
