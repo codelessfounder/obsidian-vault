@@ -43,7 +43,12 @@ Furniture (essentials):
 - remove book storage place 
 - vacuum cleaner 
 - take out shelves 
-- 
+- towel display and hamper 
+- display white 4 towels 
+- hand towels  and face towels 
+- bathroom lamp, no overhead lighting 
+- trash can 
+- over the toilet storage (mid centruty)
 
 
 
@@ -51,3 +56,13 @@ Decor:
 
 - organise desk ()
 
+
+cleaning: 
+
+1. mould cleaner 
+2. microfibre towels 
+3. windex and multi surface 
+4. vacuum 
+5. scrubbing brush 
+6. laundry scent booster 
+7. new washing machine 
