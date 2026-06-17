@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Things to buy.md",
+                "file": "Personal/Interests/B180 CDI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Things to buy"
+              "title": "B180 CDI"
             }
           }
         ],
@@ -213,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Personal/Things to buy.md",
+                "file": "Personal/Interests/B180 CDI.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -241,7 +241,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Things to buy"
+              "title": "Graph of B180 CDI"
             }
           },
           {
@@ -287,6 +287,7 @@
   },
   "active": "a6ff7926c6402ab5",
   "lastOpenFiles": [
+    "Personal/Things to buy.md",
     "Business/Apparate/Corporate Introduction Script.md",
     "Business/Dunny/Dunny Bidets.md",
     "Business/Apparate/Marsh Script.md",
@@ -295,7 +296,6 @@
     "Business/App Dev/CS Degree Knowledge vs Self Taught.md",
     "Business/Marketloot/Marketloot.md",
     "Business/Workflow Automation/Workflow Automation.md",
-    "Personal/Things to buy.md",
     "Personal/Interests/Powerlifting.md",
     "USER.md",
     "Dump.md",

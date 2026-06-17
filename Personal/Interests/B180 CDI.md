@@ -319,3 +319,20 @@ B180 checklist
 - [ ] **Seatbelt warning buzzer** activates
 - [ ] **Parking sensors** (if equipped) beep when reversing
 - [ ] **Electronic seat adjustment** (if applicable)
+
+
+---
+
+
+Blueslip:
+
+Here is the checklist and estimated repair costs for a 2010 Mercedes-Benz B180 CDI blue slip.
+
+**Blue Slip Inspection Fee (NSW Gov Regulated):** $80 AUD
+
+- **Front Suspension Bushings & Sway Bar Links** (Check for clunks) | _Cost if fail:_ $250 – $550 (Parts + Labor)
+- **CV Joint Boots** (Check front driveshafts for tears/grease leaks) | _Cost if fail:_ $200 – $350 per side
+- **Exterior Lights & Indicators** (Every bulb must work, including plates) | _Cost if fail:_ $5 – $20 per globe
+- **Windscreen $800 new windscreen
+- **Tyres** (Minimum 1.5mm depth; look closely for scrubbed/bald inner edges) | _Cost if fail:_ $130 – $220 per tyre + $80 alignment
+
