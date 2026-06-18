@@ -129,3 +129,14 @@ Use **motion design** to guide users and make transitions smoother, improving fl
 - **Onboarding Animations**: Animated tutorials or walkthroughs that guide new users through the app’s functionality.
 - **Micro-Animations**: Small motion effects, like icons shifting or buttons expanding, to provide feedback on interactions.
 - **Animated Feedback**: Using motion to indicate the result of user actions, such as items disappearing smoothly after being deleted.
+
+
+
+--- 
+
+Lead template:
+
+**Lead:** 
+**POC:** 
+**Link:** 
+**Notes:** 
