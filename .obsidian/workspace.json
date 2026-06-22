@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/Apparate/Marsh Script.md",
+                "file": "Business/Dunny/Dunny.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Marsh Script"
+              "title": "Dunny"
             }
           }
         ],
@@ -283,12 +283,13 @@
   },
   "active": "559e34c4f7a644af",
   "lastOpenFiles": [
+    "Business/Dunny/Kangaroo Reading on the Toilet.png",
+    "Business/Apparate/Marsh Script.md",
     "Business/Workflow Automation/Workflow Automation.md",
     "Personal/Interests/B180 CDI.md",
     "Personal/Things to buy.md",
     "Business/Apparate/Corporate Introduction Script.md",
-    "Business/Dunny/Dunny Bidets.md",
-    "Business/Apparate/Marsh Script.md",
+    "Business/Dunny/Dunny.md",
     "Business/Apparate/Trade Credit Policy.md",
     "Business/Workflow Automation/CRUD and CRON.md",
     "Business/App Dev/CS Degree Knowledge vs Self Taught.md",
@@ -319,7 +320,6 @@
     "Business/The Lonely Founder/The Lonely Founder.md",
     "Business/The Lonely Founder",
     "Business/Workflow Automation/Interviews.md",
-    "Business/Forex/Forex.md",
     "Business/Füd",
     "Business/Forex",
     "Business/App Dev/Screen_Shot_2025-02-14_at_1.49.19_pm.png",

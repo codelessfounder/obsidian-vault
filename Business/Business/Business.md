@@ -19,7 +19,7 @@
 
 [[CV Chrome Extension]]
 
-[[Dunny Bidets]]
+[[Dunny]]
 
 
 

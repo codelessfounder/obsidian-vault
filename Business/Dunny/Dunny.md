@@ -164,4 +164,14 @@ https://youtube.com/shorts/BcvWKLW2-c4?si=lPeKIlUOVfLVClWT
 
 features
 - front/rear
-- 
+
+
+
+---
+Aresmeta updates:
+
+- include wrench to adjust bolts 
+- have toggle to move water (this removes the need for the feminin button
+- Well designed manual 
+-  box (apple style opening experience)
+
