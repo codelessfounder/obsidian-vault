@@ -65,4 +65,4 @@ Would you be interested in being contacted by a Marsh representative to discuss 
 
 
 
-""all I wanted to do with get one of our brokers at marsh who specialise in_____ complex winery insurance and risk policies to make an introduction via email and see if they're some alignment""
+""all I wanted to do with get one of our brokers at marsh who specialise in_____ complex winery policies to make an introduction via email and see if they're some alignment""
