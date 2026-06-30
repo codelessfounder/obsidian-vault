@@ -52,6 +52,7 @@ Furniture (essentials):
 - Candle 
 - plants and orchid 
 - heated clothes rack
+- Hiroshi Nagai Tennis poster 
 
 
 
@@ -80,3 +81,5 @@ kitchen:
 - dining table and chair 
 - fridge on the counter 
 - lamp 
+
+
