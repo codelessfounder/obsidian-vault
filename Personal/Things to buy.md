@@ -53,6 +53,9 @@ Furniture (essentials):
 - plants and orchid 
 - heated clothes rack
 - Hiroshi Nagai Tennis poster 
+- linbyn mirro ikea 
+- toiletry bag
+- 
 
 
 
