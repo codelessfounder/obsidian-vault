@@ -52,7 +52,7 @@ Furniture (essentials):
 - Candle 
 - plants and orchid 
 - heated clothes rack
-- Hiroshi Nagai Tennis poster 
+- Hiroshi Nagai Tennis poster https://www.etsy.com/au/listing/4309224108/hiroshi-nagai-print-tennis-court-fine?ls=a&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=tennis+court+hiroshi+nagai&ref=sc_gallery-1-1&sr_prefetch=1&pf_from=search&pro=1&sts=1&plkey=EuKIRVnyPyzUgDAqwOf84eLITZ8f%3ALT7485e866064110f09ee40ad9462c3aac8b51525a&variation0=5437860242&variation1=5437860196
 - linbyn mirro ikea 
 - toiletry bag
 - 
