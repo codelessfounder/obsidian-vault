@@ -84,5 +84,7 @@ kitchen:
 - dining table and chair 
 - fridge on the counter 
 - lamp 
+  
+  
 
 
