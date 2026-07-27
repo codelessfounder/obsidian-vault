@@ -29,9 +29,11 @@ Problem: Bidets in Australia to be from retailers are expensive:
 
 Benefits
 
-- Does just 
-- Environmentally
+- Environmentally friendly compared to toilet paper 
+- cost effective based on toilet paper
 - Does a better job at cleaning 
+- Boujee 
+
 
 
 [bdaymate.com](http://bdaymate.com/) is available 
@@ -162,8 +164,11 @@ https://youtube.com/shorts/BcvWKLW2-c4?si=lPeKIlUOVfLVClWT
 ---
 
 
-features
-- front/rear
+features for Dunny 
+- tap-style water output 
+- moveable nozzle, slider (no male/female buttons)
+- Pressure changer 
+- Self cleaning 
 
 
 
