@@ -123,7 +123,7 @@ logo:
 
 ![[Screenshot_2025-10-23_at_6.09.06_pm.png]]
 
-[[Kangaroo Reading on the Toilet.png]]
+[[dunnylogov1.png]]
 
 
 fitting:
