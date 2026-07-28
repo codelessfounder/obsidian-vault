@@ -187,6 +187,24 @@ Tushy: the american "dunny"
 https://hellotushy.com/?srsltid=AfmBOooGh1MJ7VADe0gNPMz7vGKwanz9XeuAXY_TymDQGBrShqYv0iKi
 
 copt this model
+Tushy have great box design 
+
+
+
+---
+
+launch checklist:
+
+1. box design 
+2. instruction manual design 
+3. Bidet CAD files 
+4. ecom site 
+5. meta campaign 
+6. first prototype 
+7. test prototype 
+8. order 20 bidets 
+9. partner with plumbers with discount code 
+10. 
 
 
 
