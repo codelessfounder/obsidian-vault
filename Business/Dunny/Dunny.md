@@ -180,3 +180,13 @@ Aresmeta updates:
 - Well designed manual 
 -  box (apple style opening experience)
 
+
+---
+
+Tushy: the american "dunny"
+https://hellotushy.com/?srsltid=AfmBOooGh1MJ7VADe0gNPMz7vGKwanz9XeuAXY_TymDQGBrShqYv0iKi
+
+copt this model
+
+
+
