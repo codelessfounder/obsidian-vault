@@ -41,10 +41,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Business/Dunny/dunnylogov2.png"
+                "file": "Business/Dunny/dunnylogov3.png"
               },
               "icon": "lucide-image",
-              "title": "dunnylogov2"
+              "title": "dunnylogov3"
             }
           }
         ],
@@ -281,8 +281,9 @@
   },
   "active": "559e34c4f7a644af",
   "lastOpenFiles": [
-    "Business/Dunny/dunnylogov1.png",
     "Business/Dunny/dunnylogov2.png",
+    "Business/Dunny/dunnylogov3.png",
+    "Business/Dunny/dunnylogov1.png",
     "Business/Dunny/Dunny.md",
     "Personal/Things to buy.md",
     "Business/Apparate/Corporate Introduction Script.md",
