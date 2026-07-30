@@ -1,7 +1,7 @@
 
 ### Opening
 
-"Good morning/afternoon, It's Harry from Apparate, calling on behalf of Marsh Australia's Franchise Team.
+"Good morning/afternoon, It's Harry calling on behalf of Marsh Australia's Franchise Team.
 
 
 Look I'm sure you're super busy so I wont take up more than a couple of minutes  - I was just wondering if it was yourself who handled decisions around risk management and insurance for (company name) or if you delegated that to someone else in the business?
