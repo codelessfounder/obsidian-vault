@@ -1,7 +1,7 @@
 
 ### Opening
 
-"Hey Anil It's Harry calling on behalf of Marsh Australia's Franchise Team.
+"Hey It's Harry calling on behalf of Marsh Australia's Franchise Team.
 
 
 Look I'm sure you're super busy so I wont take up more than a couple of minutes  - I was just wondering if it was yourself who handled decisions around risk management and insurance for (company name) or if you delegated that to someone else in the business?
@@ -10,7 +10,7 @@ All I wanted to do was get our senior franchise head of risk to make an introduc
 ### Objections
 
 *where did you get this number?*
-****Yeah so we have an enterprise CRM that we use for outreach - happy make a note to  contact you on a different work number if that's what you prefer****
+****Yeah so we have an enterprise CRM that we use for outreach database which is where I found your number - happy make a note to  contact you on a different work number if that's what you prefer****
 
 
 
