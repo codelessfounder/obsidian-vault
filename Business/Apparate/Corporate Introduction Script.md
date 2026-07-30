@@ -10,7 +10,7 @@ All I wanted to do was get our senior franchise head of risk to make an introduc
 ### Objections
 
 *where did you get this number?*
-****Yeah so we have an enterprise CRM that we use - happy to use make a note to  contact you on a different work number if that's what you prefer****
+****Yeah so we have an enterprise CRM that we use for outreach - happy make a note to  contact you on a different work number if that's what you prefer****
 
 
 
