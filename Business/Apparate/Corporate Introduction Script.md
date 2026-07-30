@@ -19,7 +19,7 @@ Associations:
 "Hey It's Harry calling on behalf of Marsh Insurance's association/institute partner's Team.
 
 
-Look I'm sure you're super busy so I wont take up more than a couple of minutes  - I was just wondering if (company name) has an existing parternship with an insurance broker  for the members of your association, or if the institude made insurance recommendations to its members?
+Look I'm sure you're super busy so I wont take up more than a couple of minutes  - I was just wondering if (company name) has an existing parternship with an insurance broker  for the members of your association, or if you guys made insurance recommendations to your members?
 
 All I wanted to do was get our senior franchise head of risk to make an introduction via email and see if there might be some alignment between Marsh and (company), how does that sound? 
 
