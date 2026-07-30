@@ -1,10 +1,23 @@
 
 ### Opening
 
-"Good morning/afternoon, It's from Apparate, calling on behalf of Marsh Australia.
-I'm calling in regards to commercial insurance policy renewal.
-We are only contacting businesses regarding commercial insurance matters relevant to their organisation.
-Was it yourself who handled organisation's commercial insurance program, risk management, or insurance renewals?"
+"Good morning/afternoon, It's Harry from Apparate, calling on behalf of Marsh Australia's Franchise Team.
+
+
+Look I'm sure you're super busy so I wont take up more than a couple of minutes  - I was just wondering if it was yourself who handled decisions around risk management and insurance for (company name) or if you delegated that to someone else in the business?
+
+All I wanted to do was get our senior franchise head of risk to make an introduction via email and see if there might be some alignment between Marsh and (company), how does that sound? 
+### Objections
+
+*where did you get this number?*
+****Yeah so we have enterprise grade CRM that we use - happy to use make a note to  contact you on a different work number if that's what you prefer****
+
+
+
+
+
+
+
 
 ### If YES
 
