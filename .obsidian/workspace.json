@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#0E4A56",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,13 +96,15 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -280,12 +282,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0cef537faf5dbf1",
+  "active": "559e34c4f7a644af",
   "lastOpenFiles": [
+    "Business/Dunny/dunnylogo_colour.jpg",
     "Business/Dunny/dunnylogov3.png",
+    "Business/Dunny/Dunny.md",
     "Business/Dunny/dunnylogov1.png",
     "Business/Dunny/dunnylogov2.png",
-    "Business/Dunny/Dunny.md",
     "Personal/Interests/BJJ.md",
     "Personal/Interests/B180 CDI Mechanic Checklist.md",
     "Personal/Interests/B180 CDI.md",
@@ -317,7 +320,6 @@
     "Business/IMG_6893.png",
     "Business/Screen_Shot_2024-09-18_at_4.50.15_pm.png",
     "Business/Disco/Evangelism.md",
-    "Business/Venture Capital/Untitled 1.png",
     "Business/Venture Capital",
     "Business/Bad Hand Co",
     "Business/The Lonely Founder",
