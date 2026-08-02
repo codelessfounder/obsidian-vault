@@ -11,14 +11,10 @@
             "id": "9de7c7b40001a6c9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Business/Dunny/Dunny Bidets.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Dunny Bidets"
+              "title": "New tab"
             }
           },
           {
@@ -39,12 +35,14 @@
             "id": "559e34c4f7a644af",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Business/Dunny/dunnylogov3.png"
+                "file": "Business/Dunny/Dunny.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "dunnylogov3"
+              "icon": "lucide-file",
+              "title": "Dunny"
             }
           }
         ],
@@ -283,10 +281,10 @@
   },
   "active": "559e34c4f7a644af",
   "lastOpenFiles": [
+    "Business/Dunny/dunnylogov3.png",
     "Business/Dunny/dunnylogov1.png",
     "Business/Dunny/dunnylogov2.png",
     "Business/Dunny/Dunny.md",
-    "Business/Dunny/dunnylogov3.png",
     "Personal/Interests/BJJ.md",
     "Personal/Interests/B180 CDI Mechanic Checklist.md",
     "Personal/Interests/B180 CDI.md",

@@ -204,7 +204,20 @@ launch checklist:
 7. test prototype 
 8. order 20 bidets 
 9. partner with plumbers with discount code 
-10. 
+
+
+
+---
+
+Colour palette: 
+
+
+1. Coastal water blue: #0E4A56
+2. Eucalyptus Gold #8C803E 
+3. Coral Sand Aqua #DDF0ED
+
+
+   
 
 
 
