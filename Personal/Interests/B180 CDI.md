@@ -345,7 +345,7 @@ https://www.tiktok.com/@theozwire/video/7280827126813707527?is_from_webapp=1&sen
 Sale listing: 
 
 
-Considering selling my  2010 Mercedes B-Class B180 CDI
+For sale is my 2010 Mercedes B-Class B180 CDI. 
 
 
 THE GOOD:
