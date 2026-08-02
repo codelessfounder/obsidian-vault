@@ -212,9 +212,11 @@ launch checklist:
 Colour palette: 
 
 
-1. Coastal water blue: #0E4A56
-2. Eucalyptus Gold #8C803E 
-3. Coral Sand Aqua #DDF0ED
+1. Primary: #D0E1FD
+2. Secondary: #FAF7EC
+3. Black: #00000
+4. Eucalyptus Gold #8C803E 
+
 
 
    

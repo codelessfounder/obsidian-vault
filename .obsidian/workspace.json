@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#0E4A56",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -279,7 +280,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "559e34c4f7a644af",
+  "active": "f0cef537faf5dbf1",
   "lastOpenFiles": [
     "Business/Dunny/dunnylogov3.png",
     "Business/Dunny/dunnylogov1.png",
