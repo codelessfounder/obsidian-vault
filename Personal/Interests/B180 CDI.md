@@ -361,7 +361,8 @@ THE GOOD:
 THE BAD:
 
 - Paint isn't amazing
-- 
+- the front bumper has quite a few paint chips 
+- the rear bumper is slightly loose, but I bought it like that and it has never budged the whole time I've owned it. 
 
 
 
