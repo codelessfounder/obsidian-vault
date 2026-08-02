@@ -342,4 +342,30 @@ https://www.tiktok.com/@theozwire/video/7280827126813707527?is_from_webapp=1&sen
 
 
 
+Sale listing: 
+
+
+THE GOOD:
+
+- mechanically great - last serviced by a mercedes specialist on The Northern Beaches, of which I can provide paperwork for. 
+- 12 months registration
+- Brand new tyres fitted last month 
+- New wipers and light bulbs
+- Transmission has been serviced recently
+- Factory heated electric seats 
+- Factory optional upgrade Harman Kardon surround sound speakers
+- 
+
+
+
+THE BAD:
+
+- Paint isn't amazing
+- 
+
+
+
+
+
+
 
