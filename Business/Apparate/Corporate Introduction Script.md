@@ -28,8 +28,13 @@ All I wanted to do was get our senior association head of risk to make an introd
 Valuations (NZ)
 
 
+Hey It's Harry calling on behalf of Marsh Insurance's valuations Team.
 
+Was it yourself who handles insurance policy renewal and oversees company asset valuation for insurance purposes?
 
+I was just wondering how did you guys handled asset valuations for your insurance policies and if you had a separate process for determining valuations separate from your policy renewal or if it was all part of one process?
+
+All I wanted to do was get our head of valuations to make an introduction via email and see if there might be some alignment between Marsh and (company) creating some more  defensible insurance valuations for the company, and as a result potentially assisting with some more favourable insurance broking -  how does that sound? 
 
 
 
