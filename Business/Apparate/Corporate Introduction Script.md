@@ -28,7 +28,7 @@ All I wanted to do was get our senior association head of risk to make an introd
 Valuations (NZ)
 
 
-Hey It's Harry calling on behalf of Marsh Insurance's valuations Team.
+Hey It's Harry calling on behalf of Marsh Insurance's Valuations Team.
 
 Was it yourself who handles insurance policy renewal and oversees company asset valuation for insurance purposes?
 
