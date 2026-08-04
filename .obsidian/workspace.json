@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/Dunny/Dunny.md",
+                "file": "Business/Apparate/Corporate Introduction Script.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dunny"
+              "title": "Corporate Introduction Script"
             }
           }
         ],
@@ -285,6 +285,7 @@
   "active": "559e34c4f7a644af",
   "lastOpenFiles": [
     "Business/Dunny/dunnylogo_colour.jpg",
+    "Business/Dunny/Screenshot_2025-10-23_at_6.09.06_pm.png",
     "Business/Dunny/dunnylogov3.png",
     "Business/Dunny/Dunny.md",
     "Business/Dunny/dunnylogov1.png",
