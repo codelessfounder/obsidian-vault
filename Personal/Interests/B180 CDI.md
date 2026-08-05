@@ -346,7 +346,7 @@ Sale listing:
 
 
 For sale is my 2010 Mercedes B-Class B180 CDI. 
-ideal for someone who wants a solid and comfortable daily driver to get from A to B
+ideal for someone who wants a solid daily driver to get from A to B - it’s mechanically sorted, cheap to maintain, and ready to be driven without any maintenance needed. 
 
 
 THE GOOD:
