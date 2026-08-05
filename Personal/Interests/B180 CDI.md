@@ -346,41 +346,43 @@ Sale listing:
 
 
 For sale is my 2010 Mercedes B-Class B180 CDI. 
-ideal for someone who wants a solid daily driver to get from A to B - it’s mechanically sorted, cheap to maintain, and ready to be driven without any maintenance needed. 
+
+Ideal for someone who wants a solid daily driver to get from A to B - it’s mechanically sorted, cheap to maintain and ready to be driven without any maintenance needed. 
+
+It's certainly not pristine from the outside, so it's probably not for someone who considers that to be important -  more for someone who wants an honest little hatchback to whip them around the city. 
 
 
 THE GOOD:
 
-- mechanically great - last serviced by a mercedes specialist on The Northern Beaches, of which I can provide paperwork for. 
+- Mechanically great - last serviced by a Mercedes specialist on The Northern Beaches, of which I can provide paperwork for. 
 - 12 months registration left (Jun 2027)
 - New tyres fitted last month (can provide receipts)
 - New wipers and light bulbs (can provide receipts)
-- Transmission has been serviced recently
+- Transmission service has been documented, so no need to worry about that any time soon. 
 - Factory optioned heated electric leather seats 
-- Factory optioned upgrade Harman Kardon surround sound speakers
+- Factory optioned Harman Kardon surround sound speakers (best speakers I've ever owned in a car)
 - Factory optioned Front and rear parking sensors
-- Factory optioned driver luma
-- Super economical - the little 4 cyclinder diesel holds its own and regularly does 6-7L/100km in city driving.
-- Boot space is crazy big for the size of the car 
-
-
-
+- Factory optioned driver lumbar support
+- Super economical - the little 4 cylinder diesel holds its own and regularly does 6-7L/100km in city driving.
+- Boot space is large given the size of the car 
 
 THE BAD:
 
 - Paint isn't amazing
-- the front bumper has quite a few paint chips - the car's design mean to be quite low, so it sometimes scrapes going over speedbumps.
+- the front bumper has quite a few paint chips - the car's design mean to be quite low, so it sometimes scrapes going over speed bumps.
 - the rear bumper is slightly loose, but I bought it like that and it has never budged the whole time I've owned it. 
-- The parking sensors a little temperamental - they sometimes beep when the car first turns on, but there's a button inside the car to disable them so I just turn them off. 
+- The parking sensors are a little temperamental - they sometimes beep when the car first turns on, but there's a button inside the car to disable them so I just turn them off. 
+- Sunroof is great for additional light but it doesn't open. 
 
 
+200k+ kms on a little diesel engine is about right for the age, and if maintained properly you could easily get another 200k+ out of it. 
 
-This car is for someone who wants something reliable to get them from A to B  while they sit in some nice leather seats. Its a great place to sit. It's certainly not pristine from the outside, so its not for someone who needs a car that looks perfect from the outside. It's for someone who wants a reliable hatchback to whip them around the city. Ready for someone to jump in and start driving -  no immediate servicing or things that needs attention. Parts have actually been cheap and accessible in my ownership, despite some of the misconceptions about servicing a german car. 200k+ kms on a little diesel engine is about right for the age, and if maintained properly you could easily get another 200k+ out of it. 
 
-
-This car is still my daily, so I'm, not in a rush to sell at all - only listed it because I'm considering upgrading to a 4x4, but if it doesn't sell I'll happily keep it. 
+This car is still my daily driver so I'm no rush to sell at all - only listed it because I'm considering upgrading to a 4x4, but if it doesn't sell I'll happily keep it. 
 
 If you have any questions, feel free to send them through. 
+
+Car is located in Balgowlah 2093. 
 
 Thanks,
 Harry
