@@ -38,6 +38,25 @@ All I wanted to do was get our head of valuations to make an introduction via em
 
 
 
+Swim Schools:
+
+Hey It's Harry calling on behalf of Marsh Insurance's Fitness team. 
+
+I was just wondering if you knew who handled insurance policy renewal and decisions around insurance? 
+
+Marsh's fitness insurance team have come up with some pretty favourable insurance schemes for swim schools recently - all I wanted to do was send over some information and see if it might be beneficial for you guys, how does that sound? 
+
+
+
+
+swim schools: https://www.secureaffinity.marsh.com/bs2/ui/au/swim-school/?locale=en
+
+swim teachers: https://www.secureaffinity.marsh.com/bs2/ui/au/swim-teachers/?locale=en
+
+Generic link: https://www.au.marsh.com/business/gyms-fitness-centers/swim-schools.html
+
+
+
 
 
 

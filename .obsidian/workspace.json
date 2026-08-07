@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -296,10 +296,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da94c693775ed33d",
+  "active": "559e34c4f7a644af",
   "lastOpenFiles": [
-    "Business/Apparate/Corporate Introduction Script.md",
     "Personal/Interests/B180 CDI.md",
+    "Business/Apparate/Corporate Introduction Script.md",
     "Personal/Interests/Books.md",
     "Business/Dunny/dunnylogo_colour.jpg",
     "Business/Dunny/Screenshot_2025-10-23_at_6.09.06_pm.png",
