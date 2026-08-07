@@ -42,7 +42,7 @@ Swim Schools:
 
 Hey It's Harry calling on behalf of Marsh Insurance's Fitness team. 
 
-I was just wondering if you knew who handled insurance policy renewal and decisions around insurance? 
+I was just wondering if you knew who handled insurance policy renewal and decisions around insurance for the aquatic centre? 
 
 Marsh's fitness insurance team have come up with some pretty favourable insurance schemes for swim schools recently - all I wanted to do was send over some information and see if it might be beneficial for you guys, how does that sound? 
 
