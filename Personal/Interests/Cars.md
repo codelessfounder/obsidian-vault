@@ -58,6 +58,7 @@
 - Mercedes-Benz R300 CDI
 - Mercedes-Benz S500 (W221)
 - Mercedes-Benz S63 AMG
+- Mercedes-Benz SL63 AMG 2009
 - Mercedes-Benz SLS AMG
 - Mercedes-Benz T1 Sprinter
 - Mercedes-Benz Vito (W638)
