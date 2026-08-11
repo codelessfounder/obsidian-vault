@@ -69,7 +69,7 @@ I was just wondering if it was yourself who handled decisions around safety syst
 
 Do you know if you guys currently use a dedicated platform for incident reporting, or are parts of the process still managed manually/spreadsheet-based?
 
-Marsh has recently partnered with HSI Donesafe software which we've found has helped simplify Work Health and Safety Processes, All I wanted to do was get our Head of Risk to make an introduction via email - and see if it would be something favourable for you guys, how does that sound? 
+Marsh has recently partnered with HSI Donesafe software which we've found has helped simplify Work Health and Safety Processes, so All I wanted to do was get our Head of Risk to make an introduction via email - and see if it would be something favourable for you guys, how does that sound? 
 
 They can benchmark what you’re currently doing, identify any operational gaps, and provide some perspective around platform effectiveness, reporting maturity, and broader safety governance.
 
