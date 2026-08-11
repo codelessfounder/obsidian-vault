@@ -62,7 +62,9 @@ Donesafe:
 
 Hey It's Harry calling on behalf of Marsh Insurance's Work Health and Safety team. 
 
-I was just wondering if it was yourself who handled decisions around safety systems, incident  reporting and general WHS reporting internally, or if that was someone else? 
+I was just wondering if you know
+
+I was just wondering if it was yourself who handled decisions around safety systems and incident reporting, or if that was someone else? 
 
 Do you know if you guys currently use a dedicated platform for incident reporting, or are parts of the process still managed manually/spreadsheet-based?
 
