@@ -61,8 +61,7 @@ Donesafe:
 
 
 Hey It's Harry calling on behalf of Marsh Insurance's Work Health and Safety team. 
-
-I was just wondering if you knew who handled Work Health and Safety? 
+I was just wondering if you knew who handled Work Health and Safety Decisions at ____? 
 
 I was just wondering if it was yourself who handled decisions around safety systems and incident reporting, or if that was someone else? 
 
