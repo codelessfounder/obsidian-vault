@@ -62,13 +62,13 @@ Donesafe:
 
 Hey It's Harry calling on behalf of Marsh Insurance's Work Health and Safety team. 
 
-I was just wondering if you know
+I was just wondering if you knew who handled Work Health and Safety? 
 
 I was just wondering if it was yourself who handled decisions around safety systems and incident reporting, or if that was someone else? 
 
 Do you know if you guys currently use a dedicated platform for incident reporting, or are parts of the process still managed manually/spreadsheet-based?
 
-All I wanted to do was get one of our Head of WHS Risk to make an introduction via email and see if there might be some alignment between Marsh and (company) for , how does that sound? 
+All I wanted to do was get one of our Head of WHS Risk to make an introduction via email - Marsh has recently partnered with Donesafe and see if there might be some alignment between Marsh and (company) for , how does that sound? 
 
 They can benchmark what you’re currently doing, identify any operational gaps, and provide some perspective around platform effectiveness, reporting maturity, and broader safety governance.
 
