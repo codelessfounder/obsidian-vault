@@ -66,7 +66,9 @@ I was just wondering if it was yourself who handled decisions around safety syst
 
 Do you know if you guys currently use a dedicated WHS platform, or are parts of the process still managed manually/spreadsheet-based?
 
-All I wanted to do was get our senior franchise head of risk to make an introduction via email and see if there might be some alignment between Marsh and (company), how does that sound? 
+All I wanted to do was get one of our Head of WHS Risk to make an introduction via email and see if there might be some alignment between Marsh and (company) for , how does that sound? 
+
+They can benchmark what you’re currently doing, identify any operational gaps, and provide some perspective around platform effectiveness, reporting maturity, and broader safety governance.
 
 
 
