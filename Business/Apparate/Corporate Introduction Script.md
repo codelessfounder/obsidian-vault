@@ -64,7 +64,7 @@ Hey It's Harry calling on behalf of Marsh Insurance's Work Health and Safety tea
 
 I was just wondering if it was yourself who handled decisions around safety systems, incident  reporting and general WHS reporting internally, or if that was someone else? 
 
-Do you know if you guys currently use a dedicated WHS platform, or are parts of the process still managed manually/spreadsheet-based?
+Do you know if you guys currently use a dedicated platform for incident reporting, or are parts of the process still managed manually/spreadsheet-based?
 
 All I wanted to do was get one of our Head of WHS Risk to make an introduction via email and see if there might be some alignment between Marsh and (company) for , how does that sound? 
 
