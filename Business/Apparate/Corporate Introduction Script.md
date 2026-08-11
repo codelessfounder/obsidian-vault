@@ -60,14 +60,16 @@ Generic link: https://www.au.marsh.com/business/gyms-fitness-centers/swim-school
 Donesafe: 
 
 
-Hey It's Harry calling on behalf of Marsh Insurance's Work Health and Safety team. 
+Hey It's Harry calling on behalf of Marsh Insurance's Work, Health and Safety team. 
+
+
 I was just wondering if you knew who handled Work Health and Safety Decisions at ____? 
 
 I was just wondering if it was yourself who handled decisions around safety systems and incident reporting, or if that was someone else? 
 
 Do you know if you guys currently use a dedicated platform for incident reporting, or are parts of the process still managed manually/spreadsheet-based?
 
-Marsh has recently partnered with Donesafe HSI software to help simplify Work Health and Safety Processes, All I wanted to do was get our Head of Risk to make an introduction via email - and see if Marsh can provide something a bit more favourable, how does that sound? 
+Marsh has recently partnered with Donesafe HSI software which we've found has helped simplify Work Health and Safety Processes, All I wanted to do was get our Head of Risk to make an introduction via email - and see if it would be something favourable for you guys, how does that sound? 
 
 They can benchmark what you’re currently doing, identify any operational gaps, and provide some perspective around platform effectiveness, reporting maturity, and broader safety governance.
 
