@@ -65,7 +65,7 @@ Hey It's Harry calling on behalf of Marsh Insurance's Work, Health and Safety te
 
 I was just wondering if you knew who handled Work Health and Safety Decisions at ____? 
 
-I was just wondering if it was yourself who handled decisions around safety systems and incident reporting, or if that was someone else? 
+I was just wondering if it was yourself who handled decisions around safety systems and incident reporting (software) for _____, or if that was someone else? 
 
 Do you know if you guys currently use a dedicated platform for incident reporting, or are parts of the process still managed manually/spreadsheet-based?
 
