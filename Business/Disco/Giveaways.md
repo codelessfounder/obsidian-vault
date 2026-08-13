@@ -11,6 +11,9 @@ List of things that would be cool to giveaway:
 7. season stuff (e.g. a coat, its getting cold)
 8. Tradie tools 
 9. new sofa 
+10. a year's supply of toilet paper 
+11. Beef mince 
+
 
 
 
@@ -21,4 +24,5 @@ Cool partnerships:
 3. Miele Australia 
 4. Woolworths/Coles 
 5. IKEA 
-6. 
+6. Butcher Crowd 
+7. 
