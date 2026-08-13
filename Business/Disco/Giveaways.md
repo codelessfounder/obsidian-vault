@@ -8,4 +8,5 @@ List of things that would be cool to giveaway:
 4. a new washing machine 
 5. A new clothes wardrobe
 6. a new shitbox (raffle my car??)
-7. 
+7. season stuff (e.g. a coat, its getting cold)
+8. 

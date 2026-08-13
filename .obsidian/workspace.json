@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -296,11 +296,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da94c693775ed33d",
+  "active": "559e34c4f7a644af",
   "lastOpenFiles": [
+    "Business/Apparate/Corporate Introduction Script.md",
     "Personal/Interests/B180 CDI.md",
     "Business/Disco/Giveaways.md",
-    "Business/Apparate/Corporate Introduction Script.md",
     "Personal/Interests/Cars.md",
     "Personal/Things to buy.md",
     "Personal/Interests/Books.md",
