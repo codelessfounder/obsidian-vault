@@ -1,0 +1,8 @@
+
+List of things that would be cool to giveaway:
+
+
+1. 100L of Milk 
+2. 1 tonne of rice 
+3. a year's supply of rokeby 
+4. 
