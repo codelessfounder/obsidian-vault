@@ -12,6 +12,9 @@ All I wanted to do was get our senior franchise head of risk to make an introduc
 *where did you get this number?*
 ****Yeah so we have an enterprise CRM that we use for outreach database which is where I found your number - happy make a note to  contact you on a different work number if that's what you prefer****
 
+---
+
+
 
 
 Associations:
@@ -22,6 +25,9 @@ Associations:
 Look I'm sure you're super busy so I wont take up more than a couple of minutes  - I was just wondering if (company name) has an existing parternship with an insurance broker  for the members of your association, or if you guys made insurance recommendations to your members?
 
 All I wanted to do was get our senior association head of risk to make an introduction via email and see if there might be some alignment between Marsh and (company), how does that sound? 
+
+---
+
 
 
 
@@ -36,6 +42,9 @@ I was just wondering how did you guys handled asset valuations for your insuranc
 
 All I wanted to do was get our head of valuations to make an introduction via email and see if there might be some alignment between Marsh and (company) creating some more  defensible insurance valuations for the company, and as a result potentially assisting with some more favourable insurance broking -  how does that sound? 
 
+---
+
+
 
 
 Swim Schools:
@@ -45,6 +54,11 @@ Hey It's Harry calling on behalf of Marsh Insurance's Fitness team.
 I was just wondering if you knew who handled insurance policy renewal and decisions around insurance for the aquatic centre? 
 
 Marsh's fitness insurance team have come up with some pretty favourable insurance schemes for swim schools recently - all I wanted to do was send over some information and see if it might be beneficial for you guys, how does that sound? 
+
+
+---
+
+
 
 
 
@@ -77,7 +91,18 @@ test
 
 
 
+---
 
+
+Aerospace
+
+"Hey It's Harry calling on behalf of Marsh Australia's Engineering Team.
+
+I was just wondering if you knew who handled insurance policy renewal and decisions around insurance
+
+Look I'm sure you're super busy so I wont take up more than a couple of minutes  - I was just wondering if it was yourself who handled decisions around risk management and insurance for (company name) or if you delegated that to someone else in the company?
+
+All I wanted to do was get our senior franchise head of risk to make an introduction via email and see if there might be some alignment between Marsh and (company), how does that sound? 
 
 
 
