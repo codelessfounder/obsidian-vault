@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -314,8 +314,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "589bf9e5da598e66",
+  "active": "da94c693775ed33d",
   "lastOpenFiles": [
+    "Business/Apparate/Corporate Introduction Script.md",
     "Business/Designspeed/Branding.md",
     "Business/Designspeed/test file.md",
     "Business/Designspeed/MoreTax.md",
@@ -323,7 +324,6 @@
     "Personal/Interests/Cars.md",
     "Personal/Interests/Books.md",
     "Business/Disco/Giveaways.md",
-    "Business/Apparate/Corporate Introduction Script.md",
     "Business/Designspeed",
     "Personal/Interests/B180 CDI.md",
     "Personal/Things to buy.md",
