@@ -51,16 +51,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/Apparate/Corporate Introduction Script.md",
+                "file": "Business/Designspeed/Branding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Corporate Introduction Script"
+              "title": "Branding"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -296,9 +296,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "559e34c4f7a644af",
+  "active": "da94c693775ed33d",
   "lastOpenFiles": [
+    "Business/Designspeed/Tax.md",
+    "Business/Designspeed/Branding.md",
+    "Business/Designspeed/Untitled",
     "Business/Apparate/Corporate Introduction Script.md",
+    "Business/Designspeed",
     "Business/Disco/Giveaways.md",
     "Personal/Interests/B180 CDI.md",
     "Personal/Interests/Cars.md",
@@ -328,8 +332,6 @@
     "Business/Openclaw/Cheatsheet.md",
     "Business/Openclaw",
     "Business/Evangelism/No-code myths.md",
-    "Business/Evangelism/USP.md",
-    "hello world.md",
     "Business/The Lonely Founder/IMG_6852.jpeg",
     "Business/Screenshot_2025-11-15_at_12.51.10_pm.png",
     "Business/Screenshot_2025-05-20_at_5.25.04_pm.png",
@@ -341,8 +343,6 @@
     "Business/Füd",
     "Business/Forex",
     "Business/Market Loot",
-    "Business/Dunny",
-    "Business/AI Training",
-    "Archive/Grocery List/Ingredients/Ingredients.base"
+    "Business/Dunny"
   ]
 }
