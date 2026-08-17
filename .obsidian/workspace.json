@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/Designspeed/Branding.md",
+                "file": "Business/Designspeed/test file.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Branding"
+              "title": "test file"
             }
           },
           {
@@ -316,13 +316,14 @@
   },
   "active": "da94c693775ed33d",
   "lastOpenFiles": [
+    "Business/Designspeed/MoreTax.md",
+    "Business/Designspeed/test file.md",
+    "Business/Designspeed/test file",
+    "Business/Designspeed/Branding.md",
     "Personal/Interests/Cars.md",
     "Personal/Interests/Books.md",
     "Business/Disco/Giveaways.md",
-    "Business/Designspeed/Branding.md",
     "Business/Apparate/Corporate Introduction Script.md",
-    "Business/Designspeed/Tax.md",
-    "Business/Designspeed/Untitled",
     "Business/Designspeed",
     "Personal/Interests/B180 CDI.md",
     "Personal/Things to buy.md",
@@ -349,7 +350,6 @@
     "Dump.md",
     "Business/Openclaw/Cheatsheet.md",
     "Business/Openclaw",
-    "Business/Evangelism/No-code myths.md",
     "Business/The Lonely Founder/IMG_6852.jpeg",
     "Business/Screenshot_2025-11-15_at_12.51.10_pm.png",
     "Business/Screenshot_2025-05-20_at_5.25.04_pm.png",
