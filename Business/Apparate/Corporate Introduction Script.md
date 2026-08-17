@@ -98,11 +98,11 @@ Aerospace
 
 "Hey It's Harry calling on behalf of Marsh Australia's Engineering Team.
 
-I was just wondering if you knew who handled insurance policy renewal and decisions around insurance
-
 Look I'm sure you're super busy so I wont take up more than a couple of minutes  - I was just wondering if it was yourself who handled decisions around risk management and insurance for (company name) or if you delegated that to someone else in the company?
 
-All I wanted to do was get our senior franchise head of risk to make an introduction via email and see if there might be some alignment between Marsh and (company), how does that sound? 
+All I wanted to do was get our senior head of risk at Marsh to make an introduction via email and see if there might be some alignment between Marsh and (company), how does that sound? 
+
+
 
 
 
