@@ -98,6 +98,8 @@
 | 91  | Work Rules!                                        | Laszlo Bock                                  | Leadership / HR                     |
 | 92  | Twice                                              | Mitch Albom                                  | TBA                                 |
 | 93  | Tuesdays                                           | Mitch Albom                                  | TBA                                 |
+| 94  | The Singularity is Nearer                          | Ray                                          | Kurzweil                            |
+|     |                                                    |                                              |                                     |
 
 
 
