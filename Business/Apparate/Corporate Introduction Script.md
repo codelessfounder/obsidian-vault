@@ -100,7 +100,7 @@ Aerospace
 
 Look I'm sure you're super busy so I wont take up more than a couple of minutes  - I was just wondering if it was yourself who handled decisions around risk management and insurance for (company name) or if you delegated that to someone else in the company?
 
-I'm not sure if you were aware, but Marsh All I wanted to do was get our senior head of risk at Marsh to make an introduction via email and see if there might be some alignment between Marsh and (company), how does that sound? 
+I'm not sure if you were aware, but Marsh Manages the Commonwealth Department of Defence’s **Naval Shipbuilding and Sustainment Program**.All I wanted to do was get our senior head of risk at Marsh to make an introduction via email and see if there might be some alignment between Marsh and (company), how does that sound? 
 
 
 - Marsh not only places the **largest volume of premium globally and across the Pacific**, but also has deep sector expertise.
