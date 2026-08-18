@@ -96,11 +96,15 @@ test
 
 Aerospace
 
-"Hey It's Harry calling on behalf of Marsh Insurance's Engineering/Defence/Space Team.
+"Hey It's Harry calling on behalf of Marsh Insurance's Defence and Space Engineering Team.
 
 Look I'm sure you're super busy so I wont take up more than a couple of minutes  - I was just wondering if it was yourself who handled decisions around risk management and insurance for (company name) or if you delegated that to someone else in the company?
 
-I'm not sure if you were aware, but Marsh Manages the Commonwealth Department of Defence’s **Naval Shipbuilding and Sustainment Program**.All I wanted to do was get our senior head of risk at Marsh to make an introduction via email and see if there might be some alignment between Marsh and (company), how does that sound? 
+I'm not sure if you were aware, but Marsh Manages the Commonwealth Department of Defence’s **Naval Shipbuilding and Sustainment Program**.All I wanted to do was get our senior head of Marsh's defence and space engineering team to make an introduction via email and see if there might be some alignment between Marsh and (company) in regards to insight into **Commonwealth contracts, complex liability structures, and defence and space related procurement, how does that sound? 
+
+
+- It addresses **professional indemnity, cyber, and general liability** needs.
+**Commonwealth contracts, complex liability structures, and defence and space related procurement
 
 
 - Marsh not only places the **largest volume of premium globally and across the Pacific**, but also has deep sector expertise.
@@ -110,7 +114,7 @@ I'm not sure if you were aware, but Marsh Manages the Commonwealth Department of
 - **NOIA**
 - **H&B Defence**
 - - Titomic
-- insight into **Commonwealth contracts, complex liability structures, and defence and space related procurement**.
+
 
 - The offering is relevant to businesses such as:
     - assembly services
@@ -119,7 +123,7 @@ I'm not sure if you were aware, but Marsh Manages the Commonwealth Department of
     - data analysts
 
 
-- It addresses **professional indemnity, cyber, and general liability** needs.
+
 
 hare our **expertise and insights**, particularly around:
 
