@@ -100,7 +100,7 @@ Aerospace
 
 Look I'm sure you're super busy so I wont take up more than a couple of minutes  - I was just wondering if it was yourself who handled decisions around risk management and insurance for (company name) or if you delegated that to someone else in the company?
 
-All I wanted to do was get our senior head of risk at Marsh to make an introduction via email and see if there might be some alignment between Marsh and (company), how does that sound? 
+I'm not sure if you were aware, but Marsh All I wanted to do was get our senior head of risk at Marsh to make an introduction via email and see if there might be some alignment between Marsh and (company), how does that sound? 
 
 
 - Marsh not only places the **largest volume of premium globally and across the Pacific**, but also has deep sector expertise.
@@ -121,7 +121,11 @@ All I wanted to do was get our senior head of risk at Marsh to make an introduct
 
 - It addresses **professional indemnity, cyber, and general liability** needs.
 
+hare our **expertise and insights**, particularly around:
 
+- navigating **Commonwealth contracts**
+- improving commercial terms for clients
+- identifying where this product can support broader client opportunities
 
 
 
