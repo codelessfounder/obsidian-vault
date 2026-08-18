@@ -96,12 +96,30 @@ test
 
 Aerospace
 
-"Hey It's Harry calling on behalf of Marsh Insurance's Engineering Team.
+"Hey It's Harry calling on behalf of Marsh Insurance's Engineering/Defence/Space Team.
 
 Look I'm sure you're super busy so I wont take up more than a couple of minutes  - I was just wondering if it was yourself who handled decisions around risk management and insurance for (company name) or if you delegated that to someone else in the company?
 
 All I wanted to do was get our senior head of risk at Marsh to make an introduction via email and see if there might be some alignment between Marsh and (company), how does that sound? 
 
+
+- Marsh not only places the **largest volume of premium globally and across the Pacific**, but also has deep sector expertise.
+- We also support key clients nationwide including:
+- **Babcock Australasia**
+- **Electro Optic Systems**
+- **NOIA**
+- **H&B Defence**
+- - Titomic
+- insight into **Commonwealth contracts, complex liability structures, and defence and space related procurement**.
+
+- The offering is relevant to businesses such as:
+    - assembly services
+    - parts manufacturers
+    - consultancy firms
+    - data analysts
+
+
+- It addresses **professional indemnity, cyber, and general liability** needs.
 
 
 
