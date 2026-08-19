@@ -101,7 +101,7 @@ Aerospace
 Look I'm sure you're super busy so I wont take up more than a couple of minutes  - I was just wondering if it was yourself who handled decisions around risk management and insurance procurement for (company name) or if you delegated that to someone else in the company?
 
 
-All I wanted to do was get our senior head of Marsh's defence and space engineering team to make an introduction via email and maybe share some insights into **Commonwealth contracts, complex liability structures, and defence and space related procurement, how does that sound? 
+All I wanted to do was get our senior head of Marsh's defence and space engineering team to make an introduction via email and maybe share some insights into our **Commonwealth contracts, and knowledge around complex liability structures, and defence and space related procurement, how does that sound? 
 
 I'm not sure if you were aware, but Marsh Manages the Commonwealth Department of Defence’s **Naval Shipbuilding and Sustainment Program**.
 
