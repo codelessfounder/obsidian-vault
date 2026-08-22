@@ -30,7 +30,7 @@ Cool partnerships:
 
 ---
 
-Mid Giveaways - Ordinary prizes for ordinary punters
+Mid Rewards - Ordinary prizes for ordinary punters
 
 *what the hell am I going to do with a Ferrari?*
 
@@ -45,7 +45,9 @@ Mid
 
 user flows
 1. buying entries and tokens (subscription)
-2. 
+2. entering a competition 
+
+
 
 
 
