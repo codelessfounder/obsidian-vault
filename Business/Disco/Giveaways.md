@@ -58,6 +58,26 @@ admin flows
 
 
 ---
+legal:
+
+- Proprietary Limited Company (Pty Ltd) Registration
+- State Motor Dealer Licence(s) (required for transferring more than 4 vehicles annually)
+- High-Risk Payment Gateway & Merchant Account Approvals
+- NSW Trade Promotion Gaming Authority
+- ACT Trade Promotion Permit(s)
+- SA Trade Promotion Licence(s)
+- Master Trade Promotion Terms & Conditions
+- Unclaimed Prize Redraw Policy & Procedure Document
+- Certified Random Number Generator (RNG) System & Audit Certificate
+- Documented Fair Market Valuations (RRP / Auction comps per ACL standards)
+- Genuine Standalone Membership Product Infrastructure (software, physical goods, or active perks)
+- Written IP & Brand Usage Agreements with Partner Merchants
+- Spam Act 2003 Compliant Opt-In & Unsubscribe Mechanisms
+- Privacy Act 1988 Privacy Policy & Data Handling Procedures
+- Public Winner Publication & Draw Record-Keeping System
+
+---
+
 
 
 
