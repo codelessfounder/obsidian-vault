@@ -44,7 +44,8 @@ Mid
 ---
 
 user flows
-1. buying tokens 
+1. buying entries and tokens (subscription)
+2. 
 
 
 
