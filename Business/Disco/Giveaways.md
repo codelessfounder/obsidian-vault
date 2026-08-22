@@ -41,6 +41,12 @@ users submit items they want bought off of them by Mid
 Mid 
 
 
+---
+
+user flows
+1. buying tokens 
+
+
 
 
 
