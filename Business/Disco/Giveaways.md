@@ -46,6 +46,15 @@ Mid
 user flows
 1. buying entries and tokens (subscription)
 2. entering a competition 
+3. finding out who the winner is 
+4. sign up/log in 
+
+
+
+admin flows
+1. upload an item to be given away
+
+
 
 
 
