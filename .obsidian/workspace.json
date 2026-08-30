@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Giveaways"
             }
+          },
+          {
+            "id": "0b4c7077775906ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business/Apparate/Corporate Introduction Script.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Corporate Introduction Script"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -300,10 +314,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "589bf9e5da598e66",
+  "active": "0b4c7077775906ba",
   "lastOpenFiles": [
-    "Business/Apparate/Corporate Introduction Script.md",
     "Business/Disco/Giveaways.md",
+    "Business/Apparate/Corporate Introduction Script.md",
     "Business/Designspeed/Branding.md",
     "Business/Designspeed/test file.md",
     "Business/Designspeed/MoreTax.md",
