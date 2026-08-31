@@ -141,7 +141,7 @@ Snap Printing:
 
 Hey it's Harry calling on behalf of Marsh Insurance's Franchise Team. 
 
-you may have seen the email from Glenn announcing that Marsh has been appointed as Snap Printing Head Office’s preferred insurance broker. 
+I was just wondering of you received the email from Glenn announcing that Marsh has been appointed as Snap Printing Head Office’s preferred insurance broker. 
 
  Look, I'm sure you're super busy so I won't take up more than a couple of minutes - We’re building a master program specifically for franchisees to deliver network-wide savings—with participating stores already seeing around 15% savings on total cost of risk alongside our claims management.
 
