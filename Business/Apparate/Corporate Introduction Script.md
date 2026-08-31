@@ -139,7 +139,7 @@ hare our **expertise and insights**, particularly around:
 
 Snap Printing:
 
-Hey it's Harry calling on behalf of Marsh Australia's Franchise Team. 
+Hey it's Harry calling on behalf of Marsh Insurance's Franchise Team. 
 
 you may have seen the email from Glenn announcing that Marsh has been appointed as Snap Head Office’s preferred insurance broker. 
 
