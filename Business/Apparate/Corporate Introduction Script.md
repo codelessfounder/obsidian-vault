@@ -140,12 +140,12 @@ hare our **expertise and insights**, particularly around:
 Snap Printing:
 
 Hey it's Harry calling on behalf of Marsh Australia's Franchise Team. 
-Look, I'm sure you're super busy so I won't take up more than a couple of minutes—you may have seen the email from Glenn announcing that Marsh has been appointed as Snap Head Office’s preferred insurance broker. 
-I was just wondering if it was yourself who handles decisions around commercial insurance and risk management arrangements for (company name), or if you delegated that to someone else in the company?"
 
+you may have seen the email from Glenn announcing that Marsh has been appointed as Snap Head Office’s preferred insurance broker. 
 
-We’re building a master program specifically for franchisees to deliver network-wide savings—with participating stores already seeing around 15% savings on total cost of risk alongside our claims management.
-We're speaking with franchise owners to confirm you've received that update from Glenn, along with the email from Marsh containing the link to upload your current insurance info for a quote. All I wanted to do was get our senior franchise team to send that link through via SMS or email so we can build out this head-office-supported master program—how does that sound?"
+ Look, I'm sure you're super busy so I won't take up more than a couple of minutes - We’re building a master program specifically for franchisees to deliver network-wide savings—with participating stores already seeing around 15% savings on total cost of risk alongside our claims management.
+
+We're speaking with franchise owners to confirm you've received that update from Glenn, along with the email from Marsh containing the link to upload your current insurance info for a quote. All I wanted to do was get our senior franchise team to make an introduction via phone or email so we can starting building out this head-office-supported master program—how does that sound?"
 
 
 
