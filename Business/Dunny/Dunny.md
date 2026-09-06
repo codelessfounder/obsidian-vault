@@ -231,3 +231,5 @@ Colour palette:
 - Clean button 
 - pressure slider 
 - hose direction slider 
+
+

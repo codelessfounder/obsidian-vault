@@ -53,14 +53,12 @@
             "id": "f3c94152fae62320",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Business/Dunny/Dunny.md",
-                "mode": "source",
-                "source": false
+                "file": "Business/Dunny/dunnylogo_colour.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Dunny"
+              "icon": "lucide-image",
+              "title": "dunnylogo_colour"
             }
           },
           {
@@ -330,6 +328,12 @@
   },
   "active": "f3c94152fae62320",
   "lastOpenFiles": [
+    "Business/Dunny/dunnylogov1.png",
+    "Business/Dunny/dunnylogov2.png",
+    "Business/Dunny/dunnylogov3.png",
+    "Business/Dunny/Screenshot_2025-10-23_at_6.09.06_pm.png",
+    "Business/Dunny/dunnylogo_colour.jpg",
+    "Business/Dunny/Dunny.md",
     "IMG_3060 2.heic",
     "Personal/Interests/Books.md",
     "Business/Designspeed/Branding.md",
@@ -342,12 +346,6 @@
     "Business/Designspeed",
     "Personal/Interests/B180 CDI.md",
     "Personal/Things to buy.md",
-    "Business/Dunny/dunnylogo_colour.jpg",
-    "Business/Dunny/Screenshot_2025-10-23_at_6.09.06_pm.png",
-    "Business/Dunny/dunnylogov3.png",
-    "Business/Dunny/Dunny.md",
-    "Business/Dunny/dunnylogov1.png",
-    "Business/Dunny/dunnylogov2.png",
     "Personal/Interests/BJJ.md",
     "Personal/Interests/B180 CDI Mechanic Checklist.md",
     "Diary/Bad habits.md",
@@ -374,7 +372,6 @@
     "Business/The Lonely Founder",
     "Business/Füd",
     "Business/Forex",
-    "Business/Market Loot",
-    "Business/Dunny"
+    "Business/Market Loot"
   ]
 }
