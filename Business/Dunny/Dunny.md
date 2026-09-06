@@ -230,4 +230,4 @@ Colour palette:
 - on button 
 - Clean button 
 - pressure slider 
-- moving 
+- hose direction slider 
