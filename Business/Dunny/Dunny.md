@@ -229,7 +229,7 @@ Colour palette:
 - off button 
 - on button 
 - Clean button 
-- pressure slider 
+- pressure adjuster wheel (plus, minus)
 - hose direction slider 
 
 

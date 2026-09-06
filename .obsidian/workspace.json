@@ -53,12 +53,14 @@
             "id": "f3c94152fae62320",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Business/Dunny/dunnylogo_colour.jpg"
+                "file": "Business/Dunny/Dunny.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "dunnylogo_colour"
+              "icon": "lucide-file",
+              "title": "Dunny"
             }
           },
           {
@@ -328,11 +330,11 @@
   },
   "active": "f3c94152fae62320",
   "lastOpenFiles": [
+    "Business/Dunny/dunnylogo_colour.jpg",
     "Business/Dunny/dunnylogov1.png",
     "Business/Dunny/dunnylogov2.png",
     "Business/Dunny/dunnylogov3.png",
     "Business/Dunny/Screenshot_2025-10-23_at_6.09.06_pm.png",
-    "Business/Dunny/dunnylogo_colour.jpg",
     "Business/Dunny/Dunny.md",
     "IMG_3060 2.heic",
     "Personal/Interests/Books.md",
