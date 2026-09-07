@@ -152,7 +152,11 @@ I think you also have an email Marsh containing the link to upload your current 
 
 Independent Schools:
 
-Hey there, it's Harry calling
+Hey there, it's Harry calling calling on behalf of Marsh Insurance's Education Team, how are you going? 
+
+Just wonderinf if you knew who handled insurance policy renewal and decisions around insurance for the school? 
+
+All I wanted to do was put you in touch with the head our education team at marsh via email, just so they can make a bit of an introduction and 
 
 
 
