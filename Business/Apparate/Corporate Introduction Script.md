@@ -156,7 +156,7 @@ Hey there, it's Harry calling calling on behalf of Marsh Insurance's Education T
 
 Just wonderinf if you knew who handled insurance policy renewal and decisions around insurance for the school? 
 
-All I wanted to do was put you in touch with the head our education team at marsh via email, just so they can make a bit of an introduction and 
+All I wanted to do was put you in touch with the head our education team at marsh via email, just so they can make a bit of an introduction and see if there might be a possibility of us offering you something a bit more favourable, how does that sound?
 
 
 
