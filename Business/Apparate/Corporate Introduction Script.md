@@ -166,7 +166,7 @@ Apparate Appointment setting service:
 
 Good morning, its Harry calling fromm Apparate, how you you going? 
 
-Look, I'm sure you're super busy - is hiring an outbound sales team for lead qualification and appointment for your setting something you've been interested in? 
+Look, I'm sure you're super busy - is hiring an external outbound sales team for lead qualification and appointment for your firm something you've been interested in? 
 
 Apparate is a sydney based sales agency serving Australia with potentially 30 staff available to deploy, we do B2B appointment setting, lead follow up and reactivation. 
 
