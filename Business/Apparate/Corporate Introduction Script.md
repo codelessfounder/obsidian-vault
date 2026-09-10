@@ -164,13 +164,11 @@ All I wanted to do was put you in touch with the head our education team at mars
 Apparate Appointment setting service:
 
 
-Good morning, its Harry calling from Apparate Group, how you you going? 
-
 I'll be honest, I'm chasing business - do you have a spare couple of minutes?
 
 We're sorta chasing two clients at the moment:
 - we have about 10 sales reps that we want to deploy externally for a mortgage broker who wants to receive new warm leads as well as reactivating old leads 
-- We also have some pretty skilled workflow automation specialists who have 
+- We also have some pretty skilled workflow automation specialists who have experience automating parts of mortgage brokers daily and monthly workflows so they have time to focus on the bigger picture work.
 
 
 Was it yourself you who handled decisions around lead generation and sales pipelines for the brokerage? 
