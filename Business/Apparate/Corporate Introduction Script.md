@@ -172,6 +172,8 @@ Apparate is a sydney based sales agency serving Australia with potentially 30 st
 
 It's $99 for the first month to see if you get any results, and then if you're keen to stay on then its around $6500 a month. Of course, You'd have to be seeing results to get to that stage. 
 
+I can send over a calendly linka dn you can book a meeting with our CEO to discuss further, if 'you're keen.
+
 Only say yes if you're keen, I don't want to waste your time or mine. 
 
 
