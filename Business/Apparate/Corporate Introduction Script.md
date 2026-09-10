@@ -174,6 +174,8 @@ Look, I'm sure you're super busy - is hiring an external outbound sales team for
 
 Apparate is a sydney based sales agency serving Australia with potentially 30 staff available to deploy, we do B2B appointment setting, lead follow up and reactivation. 
 
+We use pretty sophisticated data enrichment software to find prospective lead information. 
+
 It's $99 for the first month to see if you get any results, and then if you're keen to stay on then its around $6500 a month. Of course, You'd have to be seeing results to get to that stage. 
 
 I can send over a calendly linka dn you can book a meeting with our CEO to discuss further, if 'you're keen.
