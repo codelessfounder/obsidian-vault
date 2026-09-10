@@ -168,8 +168,10 @@ I'll be honest, I'm chasing business - do you have a spare couple of minutes?
 
 We're sorta chasing two clients at the moment:
 - we have about 10 sales reps that we want to deploy externally for a mortgage broker who wants to receive new warm leads as well as reactivating old leads 
-- We also have some pretty skilled workflow automation specialists who have experience automating parts of mortgage brokers daily and monthly workflows so they have time to focus on the bigger picture work.
+- We also have some pretty skilled workflow automation specialists who have experience using AI agents to automate parts of mortgage brokers daily and monthly workflows so they have time to focus on the bigger picture work (with human in the loop)
 
+How are you currently refilling your sales pipeline? 
+Are there any parts of your daily workflow that you feel c
 
 Was it yourself you who handled decisions around lead generation and sales pipelines for the brokerage? 
 
