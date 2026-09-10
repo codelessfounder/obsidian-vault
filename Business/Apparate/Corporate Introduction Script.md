@@ -166,6 +166,8 @@ Apparate Appointment setting service:
 
 Good morning, its Harry calling from Apparate Group, how you you going? 
 
+I'll be honest, I'm chasing business - do you have a spare 
+
 Was it yourself you who handled decisions around lead generation and sales pipelines for the brokerage? 
 
 Look, I'm sure you're super busy - is hiring an external outbound sales team for lead qualification and appointment settings for your firm something you've been interested in? 
