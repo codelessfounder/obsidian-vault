@@ -168,7 +168,7 @@ Good morning, its Harry calling from Apparate, how you you going?
 
 Was it yourself you who handled decisions around lead generation and sales pipelines for the brokerage? 
 
-Look, I'm sure you're super busy - is hiring an external outbound sales team for lead qualification and appointment for your firm something you've been interested in? 
+Look, I'm sure you're super busy - is hiring an external outbound sales team for lead qualification and appointment settings for your firm something you've been interested in? 
 
 Apparate is a sydney based sales agency serving Australia with potentially 30 staff available to deploy, we do B2B appointment setting, lead follow up and reactivation. 
 
