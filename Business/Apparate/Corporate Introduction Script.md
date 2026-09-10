@@ -164,7 +164,9 @@ All I wanted to do was put you in touch with the head our education team at mars
 Apparate Appointment setting service:
 
 
-Good morning, its Harry calling fromm Apparate, how you you going? 
+Good morning, its Harry calling from Apparate, how you you going? 
+
+Was it yourself you who handled decisions around lead generation for the 
 
 Look, I'm sure you're super busy - is hiring an external outbound sales team for lead qualification and appointment for your firm something you've been interested in? 
 
