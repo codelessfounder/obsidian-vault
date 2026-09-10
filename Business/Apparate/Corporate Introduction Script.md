@@ -164,7 +164,7 @@ All I wanted to do was put you in touch with the head our education team at mars
 Apparate Appointment setting service:
 
 
-Good morning, its Harry calling from Apparate, how you you going? 
+Good morning, its Harry calling from Apparate Group, how you you going? 
 
 Was it yourself you who handled decisions around lead generation and sales pipelines for the brokerage? 
 
