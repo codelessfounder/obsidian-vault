@@ -200,6 +200,15 @@ Kind regards,
 Harry @ Apparate
 
 
+---
+
+qualified leads link:
+
+[https://app.apparate.com.au/w/ws_2f0969dd1f474cc2a87087f849e30c0c/campaign/1788997075152/contacts?outcome=Qualified](https://app.apparate.com.au/w/ws_2f0969dd1f474cc2a87087f849e30c0c/campaign/1788997075152/contacts?outcome=Qualified)
+
+
+
+
 
 
 
