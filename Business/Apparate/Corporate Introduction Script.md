@@ -172,6 +172,8 @@ Apparate is a sydney based sales agency serving Australia with potentially 30 st
 
 It's $99 for the month to see if you get any results, and then if you're keen to stay on then 
 
+Only say yes if you're keen, I don't want to waste your time or mine. 
+
 
 
 
