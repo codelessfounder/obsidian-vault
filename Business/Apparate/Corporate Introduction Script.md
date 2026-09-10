@@ -166,7 +166,7 @@ Apparate Appointment setting service:
 
 Good morning, its Harry calling fromm Apparate, how you you going? 
 
-Look, I'm sure you're super busy, 
+Look, we're 
 
 
 
