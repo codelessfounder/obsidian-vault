@@ -166,7 +166,7 @@ Apparate Appointment setting service:
 
 Good morning, its Harry calling from Apparate Group, how you you going? 
 
-I'll be honest, I'm chasing business - do you have a spare 
+I'll be honest, I'm chasing business - do you have a spare couple of minutes?
 
 Was it yourself you who handled decisions around lead generation and sales pipelines for the brokerage? 
 
