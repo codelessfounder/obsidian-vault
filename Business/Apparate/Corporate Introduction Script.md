@@ -168,6 +168,10 @@ Good morning, its Harry calling from Apparate Group, how you you going?
 
 I'll be honest, I'm chasing business - do you have a spare couple of minutes?
 
+We're sorta chasing two clients at the moment:
+- we have about 10 
+
+
 Was it yourself you who handled decisions around lead generation and sales pipelines for the brokerage? 
 
 Look, I'm sure you're super busy - is hiring an external outbound sales team for lead qualification and appointment settings for your firm something you've been interested in? 
