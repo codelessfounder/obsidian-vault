@@ -166,7 +166,7 @@ Apparate Appointment setting service:
 
 Good morning, its Harry calling from Apparate, how you you going? 
 
-Was it yourself you who handled decisions around lead generation for the 
+Was it yourself you who handled decisions around lead generation and sales pipelines for the brokerage? 
 
 Look, I'm sure you're super busy - is hiring an external outbound sales team for lead qualification and appointment for your firm something you've been interested in? 
 
@@ -177,6 +177,27 @@ It's $99 for the first month to see if you get any results, and then if you're k
 I can send over a calendly linka dn you can book a meeting with our CEO to discuss further, if 'you're keen.
 
 Only say yes if you're keen, I don't want to waste your time or mine. 
+
+
+
+---
+
+SMS reach out template:
+
+Hey Tammie, 
+
+Thanks for the call -  below is a link to our company page:
+
+https://www.apparate.com.au/
+
+Here's a Calendly link too so you guys can have a chat with our CEO, Louis:
+
+https://calendly.com/louis-apparate/30min
+
+If you have any questions, let me know!
+
+Kind regards,
+Harry @ Apparate
 
 
 
