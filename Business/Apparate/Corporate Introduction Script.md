@@ -166,7 +166,9 @@ Apparate Appointment setting service:
 
 Good morning, its Harry calling fromm Apparate, how you you going? 
 
-Look, I'm sure you're super busy - is hiring an outbound sales team something you've been interested int 
+Look, I'm sure you're super busy - is hiring an outbound sales team for lead qualification and appointment setting something you've been interested in? 
+
+
 
 
 
