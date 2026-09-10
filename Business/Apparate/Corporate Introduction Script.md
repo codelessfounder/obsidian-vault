@@ -178,6 +178,8 @@ We use pretty sophisticated data enrichment software to find prospective lead in
 
 It's $99 for the first month to see if you get any results, and then if you're keen to stay on then its around $6500 a month. Of course, You'd have to be seeing results to get to that stage. 
 
+in terms of leads and new business, what are you ACTUALLY looking for? 
+
 I can send over a calendly linka dn you can book a meeting with our CEO to discuss further, if 'you're keen.
 
 Only say yes if you're keen, I don't want to waste your time or mine. 
