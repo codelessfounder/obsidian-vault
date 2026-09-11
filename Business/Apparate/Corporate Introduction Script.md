@@ -171,7 +171,7 @@ We're sorta chasing two clients at the moment:
 - We also have some pretty skilled workflow automation specialists who have experience using AI agents to automate parts of mortgage brokers daily and monthly workflows so they have time to focus on the bigger picture work (with human in the loop)
 
 How are you currently refilling your sales pipeline? 
-Are there any parts of your daily workflow that you feel c
+Are there any parts of your daily workflow that you feel could be automated? 
 
 Was it yourself you who handled decisions around lead generation and sales pipelines for the brokerage? 
 
