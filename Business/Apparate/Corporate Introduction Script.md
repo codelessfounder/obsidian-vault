@@ -172,6 +172,7 @@ We're sorta chasing two clients at the moment:
 
 How are you currently refilling your sales pipeline? 
 Are there any parts of your daily workflow that you feel could be automated? 
+What
 
 Was it yourself you who handled decisions around lead generation and sales pipelines for the brokerage? 
 
