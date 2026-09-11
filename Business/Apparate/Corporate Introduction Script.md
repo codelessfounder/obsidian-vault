@@ -186,7 +186,7 @@ It's $99 for the first month to see if you get any results, and then if you're k
 
 in terms of leads and new business, what are you ACTUALLY looking for? 
 
-I can send over a calendly linka dn you can book a meeting with our CEO to discuss further, if 'you're keen.
+I can send over a calendly linka dn you can book a meeting with our CEO to discuss further so they can make an introduction adn see if there an opporunity for us to work together, be it sales or workflow automations if 'you're keen.
 
 Only say yes if you're keen, I don't want to waste your time or mine. 
 
