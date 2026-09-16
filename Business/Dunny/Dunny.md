@@ -259,3 +259,6 @@ canton fair phase 2 october bathroom
 minimum comes from parts 
 learn the suppliers bringing the number from?
 biggest cost on shipped requirements 
+
+
+what if it sucks?
