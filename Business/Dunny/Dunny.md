@@ -262,3 +262,11 @@ biggest cost on shipped requirements
 
 
 what if it sucks?
+
+keep planning and research
+onde room will gave 
+minimum bulk order 
+costs
+mason has contacts in china 
+30-40% 
+3rd party to check to fulfil the order.
