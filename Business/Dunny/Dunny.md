@@ -274,3 +274,4 @@ mason has contacts in china
 
 margins will come from brand 
 who gives a crap 
+hire a brand designer 
