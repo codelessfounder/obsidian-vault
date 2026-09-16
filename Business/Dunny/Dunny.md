@@ -270,3 +270,7 @@ costs
 mason has contacts in china 
 30-40% 
 3rd party to check to fulfil the order.
+
+
+margins will come from brand 
+who gives a crap 
