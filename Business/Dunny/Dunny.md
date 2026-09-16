@@ -231,6 +231,8 @@ Colour palette:
 - Clean button 
 - pressure adjuster wheel (plus, minus)
 - hose direction slider 
+- aerated water stream for soft feel 
+
 
 
 ---
