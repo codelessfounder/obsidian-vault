@@ -233,3 +233,12 @@ Colour palette:
 - hose direction slider 
 
 
+---
+
+first sketch
+
+
+![[dunny sketch.png]]
+
+
+
