@@ -228,6 +228,8 @@ Leads who are looking to refinance
 refinance settles quickest 
 Price depends on the volume 
 minimum trial is 50-100 
+typical ln size: $400-600k 
+
 
 
 
