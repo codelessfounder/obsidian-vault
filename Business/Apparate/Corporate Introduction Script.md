@@ -195,6 +195,22 @@ Only say yes if you're keen, I don't want to waste your time or mine.
 
 
 ---
+Corewave Mortgage Brokers:
+
+
+
+ddd
+
+d
+d
+d
+
+
+---
+
+
+
+
 
 SMS reach out template:
 
