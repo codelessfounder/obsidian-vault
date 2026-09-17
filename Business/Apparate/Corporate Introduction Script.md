@@ -209,7 +209,7 @@ How big is your team currently? if you guys were able to get another 2-3 enquiri
 One thing - its only refinancing leads, not first home buyers, asset, commercial etc. 
 have you bought leads before? 
 
-I can send over a calendly linka dn you can book a meeting with Ben, our CEO - he has a bit more context on how we get the leads to you and how pricing works for the lead packages. When is best for you? 
+What I wanted to do was send over a calendly link for a  meeting with Ben, our CEO - he has a bit more context on how we get the leads to you and how pricing works for the lead packages. When is best for you to jump on a quick 30 min call? 
 
 
 
