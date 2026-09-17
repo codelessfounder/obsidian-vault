@@ -201,6 +201,9 @@ Hey ___ it's Harry  from Corewave group, How you going?
 
 I'll be honest, I'm chasing business - do you have a spare couple of minutes?
 
+Do you guys do refinancing? 
+
+
 We'd be happy to put you in touch with a broker that does buy leads 
 
 
@@ -215,7 +218,9 @@ ICP:
 - 3+ brokers and admin/backend staff etc 
 - Have bought leads 
 - can invest 5-10k
-- 
+- How big's are you team at the moment? Could you guys handle an extra 2-3 enquiries a day?
+-  have you bought leads before? 
+
 
 minimum requirements:
 - 1 broker with backend staff and assistant (2-3 people inside the business )
@@ -226,11 +231,6 @@ minimum requirements:
 DQ:
 - only wants first home or asset or commercial 
 - can't handle consistent enquiries 
-
-
-profiling Qs:
-- have you bought leads before? 
-- How big's are you team at the moment? Could you guys handle an extra 2-3 enquiries a day?
 
 
 
