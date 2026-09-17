@@ -214,10 +214,12 @@ minimum requirements:
 - Do you have capacity to write more loans for refinance 
 - Can you afford to book leads?
 - Are you open to diversifying the way you get leads? 
+- If you were able to take on 2-3 enquiries per day?
 
 DQ:
 - only wants first home or asset or commercial 
-- 
+- can't handle consistent enquiries 
+
 
 
 
@@ -229,6 +231,8 @@ refinance settles quickest
 Price depends on the volume 
 minimum trial is 50-100 
 typical ln size: $400-600k 
+These people will be enquiries 
+
 
 
 
