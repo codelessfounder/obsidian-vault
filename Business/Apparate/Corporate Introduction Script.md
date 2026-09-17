@@ -210,7 +210,7 @@ ICP:
 minimum requirements:
 - 1 broker with backend staff and assistant (2-3 people inside the business )
 - Do you have capacity to write more loans for refinance 
-- 
+- Can you afford to
 
 DQ:
 - only wants first home or asset or commercial 
@@ -223,6 +223,7 @@ I have leads to give you
 qualified, serviceable 
 Leads who are looking to refinance 
 refinance settles quickest 
+Price depends on the volume 
 
 
 [https://calendly.com/bengreeningjames/meeting-with-ben-1](https://calendly.com/bengreeningjames/meeting-with-ben-1)
