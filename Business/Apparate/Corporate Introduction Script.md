@@ -197,13 +197,12 @@ Only say yes if you're keen, I don't want to waste your time or mine.
 ---
 Corewave Mortgage Brokers:
 
+whats the commission split?
+are we okay with $50 per booked appointment?
+What information do you NEED them to know before they book?
+What disqualifies them?
 
 
-ddd
-
-d
-d
-d
 
 
 ---
