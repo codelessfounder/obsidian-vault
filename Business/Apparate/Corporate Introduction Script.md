@@ -206,6 +206,8 @@ Where are these leads from?
 ICP:
 - 3+ brokers and admin/backend staff etc 
 - Have bought leads 
+- can invest 5-10k
+- 
 
 minimum requirements:
 - 1 broker with backend staff and assistant (2-3 people inside the business )
