@@ -197,6 +197,12 @@ Only say yes if you're keen, I don't want to waste your time or mine.
 ---
 Corewave Mortgage Brokers:
 
+Hey ___ it's Harry  from Corewave group, How you going? 
+
+I'll be honest, I'm chasing business - do you have a spare couple of minutes?
+
+
+
 whats the commission split?
 are we okay with $50 per booked appointment?
 What information do you NEED them to know before they book?
