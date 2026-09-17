@@ -203,6 +203,18 @@ I'll be honest, I'm chasing business - do you have a spare couple of minutes?
 
 Do you guys do refinancing? 
 
+We're looking for a mortgage brokers who do refinancing to take on a couple more enquiries per day. We've got serviceable leads who are ready to refinance. As soon as a prospective refinancee fills out the form, 
+
+How big is your team currently? if you guys were able to get another 2-3 enquiries per day, could you handle that? 
+
+
+
+
+
+have you bought leads before? 
+
+
+
 
 We'd be happy to put you in touch with a broker that does buy leads 
 
