@@ -205,16 +205,33 @@ Do you guys do refinancing?
 
 We're looking for a mortgage brokers who do refinancing to take on a couple more enquiries per day. We've got serviceable leads who are ready to refinance. As soon as a prospective refinancee fills out our profiling form, their enquiry is sent to you. They only come to you, and we verify their numbers too. Average loan size is 400-600k, but one of our brokers just landed two for 800-900k. No ad spend, no lock in monthly contract and you start getting the leads after 2 days. . Average conversion on a lead pack is 10-20%, so you closing 2 means you're already in the green. If you want more, you come back, ad to be honest, our brokers are coming back. 
 
-
 How big is your team currently? if you guys were able to get another 2-3 enquiries per day, could you handle that? 
+One thing - its only refinancing leads, not first home buyers, asset, commercial etc. 
 have you bought leads before? 
+
+I can send over a calendly linka dn you can book a meeting with Ben, our CEO - he has a bit more context on how we get the leads to you and how pricing works for the lead packages. When is best for you? 
+
+
+
+
+
+
 
 
 objections:
-Where do you get the leads? Corewave has its own refinancing brand that is markets for people looking to refinance. 
+Where do you get the leads? Corewave has its own refinancing brand that targets people looking to refinance, and then those people are passed onto brokers like yourselves. 
 
 
 We'd be happy to put you in touch with a broker that does buy leads 
+
+
+
+
+
+
+
+
+
 
 
 
