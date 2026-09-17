@@ -203,10 +203,26 @@ What information do you NEED them to know before they book?
 What disqualifies them?
 Where are these leads from? 
 
-what ben needs:
+ICP:
+- 3+ brokers and admin/backend staff etc 
+- Have bought leads 
+
+minimum requirements:
+- 1 broker with backend staff and assistant (2-3 people inside the business )
+- Do you have capacity to write more loans for refinance 
+- 
+
+DQ:
+- only wants first home or asset or commercial 
 - 
 
 
+
+
+I have leads to give you 
+qualified, serviceable 
+Leads who are looking to refinance 
+refinance settles quickest 
 
 
 [https://calendly.com/bengreeningjames/meeting-with-ben-1](https://calendly.com/bengreeningjames/meeting-with-ben-1)
