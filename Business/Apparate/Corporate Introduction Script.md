@@ -207,6 +207,8 @@ Look well We've got serviceable refinance applicants that we're looking to offlo
 
 How big is your team currently? if you guys were able to get another 2-3 enquiries per day, could you handle that? 
 
+have you bought leads before? 
+
 One thing - its only refinancing leads, not first home buyers, asset financing, commercial etc. 
 
 What I wanted to do was send over a calendly link for a  meeting with Ben, our CEO - he has a bit more context on how we get the leads to you and how pricing works. When is best for you to jump on a quick 30 min call? 
@@ -222,7 +224,7 @@ We'd be happy to put you in touch with a broker that does buy leads
 
 Average conversion on a lead pack is 10-20%, so you closing 2 means you're already in the green. If you want more, you come back, ad to be honest, our brokers are coming back. 
 
-have you bought leads before? 
+
 
 
 ICP:
