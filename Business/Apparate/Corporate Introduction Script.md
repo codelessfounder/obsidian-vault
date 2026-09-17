@@ -203,6 +203,9 @@ What information do you NEED them to know before they book?
 What disqualifies them?
 Where are these leads from? 
 
+what ben needs:
+- 
+
 
 
 
