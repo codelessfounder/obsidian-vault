@@ -232,6 +232,11 @@ typical ln size: $400-600k
 
 
 
+objections:
+
+1. how qualified are the leads? prequalified quiz. SMS verified leads. 
+
+
 
 [https://calendly.com/bengreeningjames/meeting-with-ben-1](https://calendly.com/bengreeningjames/meeting-with-ben-1)
 
