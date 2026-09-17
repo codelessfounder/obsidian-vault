@@ -201,6 +201,8 @@ Hey ___ it's Harry  from Corewave group, How you going?
 
 I'll be honest, I'm chasing business - do you have a spare couple of minutes?
 
+We'd be happy to put you in touch with a broker that does buy leads 
+
 
 
 whats the commission split?
@@ -218,13 +220,17 @@ ICP:
 minimum requirements:
 - 1 broker with backend staff and assistant (2-3 people inside the business )
 - Do you have capacity to write more loans for refinance 
-- Can you afford to book leads?
 - Are you open to diversifying the way you get leads? 
 - If you were able to take on 2-3 enquiries per day?
 
 DQ:
 - only wants first home or asset or commercial 
 - can't handle consistent enquiries 
+
+
+profiling Qs:
+- have you bought leads before? 
+- How big's are you team at the moment? Could you guys handle an extra 2-3 enquiries a day?
 
 
 
@@ -251,6 +257,7 @@ No ad spedn, no lock in contract, buy a batch of leads - if you want more, you c
 30 leads over the course of a month 
 setup in 72hrs 
 No individual leads 
+
 
 
 
