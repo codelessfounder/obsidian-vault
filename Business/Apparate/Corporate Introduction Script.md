@@ -213,7 +213,7 @@ minimum requirements:
 - 1 broker with backend staff and assistant (2-3 people inside the business )
 - Do you have capacity to write more loans for refinance 
 - Can you afford to book leads?
-- 
+- Are you open to diversifying the way you get leads? 
 
 DQ:
 - only wants first home or asset or commercial 
