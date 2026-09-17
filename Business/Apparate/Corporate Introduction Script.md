@@ -239,6 +239,21 @@ minimum trial is 50-100
 typical ln size: $400-600k 
 These people will be enquiries 
 
+notes:
+pay per refinance lead 
+pay per qualified lead 
+all exclusive and SMS verified 
+Financially qualified - 15 profiling questions that make sure they're good leads
+loan size $400-600k+ - but just this week we saw a close on 800-900 
+Average settlement conversion is 10-20% 
+NEW leads, delivered in real time, then you get sent the lead immediately. are you able to call immediately?
+No ad spedn, no lock in contract, buy a batch of leads - if you want more, you come back. 
+30 leads over the course of a month 
+setup in 72hrs 
+No individual leads 
+
+
+
 
 
 
