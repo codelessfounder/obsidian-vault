@@ -214,6 +214,9 @@ One thing - its only refinancing leads, not first home buyers, asset financing, 
 What I wanted to do was send over a calendly link for a  meeting with Ben, our CEO - he has a bit more context on how we get the leads to you and how pricing works. When is best for you to jump on a quick 30 min call? 
 
 
+I understand that you've 
+
+
 
 objections:
 Where do you get the leads? Corewave has its own refinancing brand that targets people looking to refinance, and then those people are passed onto brokers like yourselves. 
