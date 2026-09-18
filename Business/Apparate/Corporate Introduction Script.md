@@ -201,7 +201,7 @@ Hey ___ it's Harry  from Corewave group, How you going?
 
 I'll be honest, I'm chasing business - do you have a spare couple of minutes?
 
-We're looking for a brokerage who, on top of their existing referrals pipeline, want to take on more residential refinancing enquiries per day -  is that something you guys have been considering? 
+We're looking for a brokerage who, on top of their existing referrals pipeline, want to take on more residential refinancing enquiries per day -  is that something you guys would be open? 
 
 Look well We've got serviceable refinance applicants that we're looking to sell to a brokerage who can take on at least 2-3 enquiries a day.  Average loan size is no less than 400-600k, but one of our brokers just landed two for 800-900k. No ad spend, no lock in monthly contract and you start getting the leads after 2 days. .. how does that sound? 
 
