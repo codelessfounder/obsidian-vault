@@ -203,7 +203,7 @@ I'll be honest, I'm chasing business - do you have a spare couple of minutes?
 
 We're looking for a brokerage who specifically do residential refinancing to take on at least a couple more enquiries per day -  is that yourselves? 
 
-Look well We've got serviceable refinance applicants that we're looking to offload to a brokerage who can take on at least 2-3 enquiries a day.  Average loan size is no less than 400-600k, but one of our brokers just landed two for 800-900k. No ad spend, no lock in monthly contract and you start getting the leads after 2 days. .. how does that sound? 
+Look well We've got serviceable refinance applicants that we're looking to sell to a brokerage who can take on at least 2-3 enquiries a day.  Average loan size is no less than 400-600k, but one of our brokers just landed two for 800-900k. No ad spend, no lock in monthly contract and you start getting the leads after 2 days. .. how does that sound? 
 
 How big is your team currently? if you guys were able to get another 2-3 enquiries per day, could you handle that? 
 
