@@ -38,4 +38,11 @@ Youtube:
     - Specifically, having an open trade on market close on wednesday. Fees will be high on these trades (see JPY pairs)
 16. Be wary of economic new/activity
 - Having a trades open during this time increase chances of unpredictable price volatility
-17. Risk 30%, max.
+9. Risk 30%, max.
+
+
+
+---
+
+tech stack:
+
