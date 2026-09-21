@@ -52,5 +52,13 @@ TradingView
 
 ---
 
-Journal
+Journal/Log
 
+
+| Entry Price | Exit Price | Setup Type | Emotional State | P&L |
+| ----------- | ---------- | ---------- | --------------- | --- |
+|             |            |            |                 |     |
+|             |            |            |                 |     |
+|             |            |            |                 |     |
+|             |            |            |                 |     |
+|             |            |            |                 |     |
