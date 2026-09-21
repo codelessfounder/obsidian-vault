@@ -57,10 +57,13 @@ TradingView
 Journal/Log
 
 
-| Entry Price | Exit Price | Setup Type | Emotional State | P&L |
-| ----------- | ---------- | ---------- | --------------- | --- |
-|             |            |            |                 |     |
-|             |            |            |                 |     |
-|             |            |            |                 |     |
-|             |            |            |                 |     |
-|             |            |            |                 |     |
+| Entry Price | Exit Price | Setup Type | Emotional State | P&L | Date |
+| ----------- | ---------- | ---------- | --------------- | --- | ---- |
+|             |            |            |                 |     |      |
+|             |            |            |                 |     |      |
+|             |            |            |                 |     |      |
+|             |            |            |                 |     |      |
+|             |            |            |                 |     |      |
+Build or template a simple table that automatically calculates win rate, risk-to-reward ratio, and maximum drawdown per week.
+
+
