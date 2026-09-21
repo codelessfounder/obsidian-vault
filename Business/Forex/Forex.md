@@ -48,7 +48,8 @@ Youtube:
 
 tech stack:
 
-TradingView
+1. Chart reading/analysis: TradingView
+2. Financial institution: Interactive Brokers (IBKR)
 
 
 
