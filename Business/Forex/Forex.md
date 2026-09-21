@@ -47,3 +47,10 @@ Youtube:
 tech stack:
 
 TradingView
+
+
+
+---
+
+Journal
+
