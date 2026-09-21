@@ -46,3 +46,4 @@ Youtube:
 
 tech stack:
 
+TradingView
