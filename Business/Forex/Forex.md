@@ -39,6 +39,8 @@ Youtube:
 16. Be wary of economic new/activity
 - Having a trades open during this time increase chances of unpredictable price volatility
 9. Risk 30%, max.
+10. stick to simple, high liquidity charts
+11. Avoid screen clutter. Two indicators maximum. 
 
 
 
