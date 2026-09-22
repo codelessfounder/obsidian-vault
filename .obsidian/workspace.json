@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -342,8 +342,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3c94152fae62320",
+  "active": "0b4c7077775906ba",
   "lastOpenFiles": [
+    "Business/Forex/Forex.md",
     "Business/Apparate/Corporate Introduction Script.md",
     "Business/Dunny/Dunny.md",
     "dunny feature render.png",

@@ -17,3 +17,12 @@ My type:
 |                                                |                       |
 |                                                |                       |
 
+
+---
+
+first meet ideas:
+
+- ice cream/gelato 
+- late night hot chocolate 
+- 
+
