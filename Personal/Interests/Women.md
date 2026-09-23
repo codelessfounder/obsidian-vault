@@ -10,7 +10,7 @@ My type:
 | loves playing games                            | black/dark brown, curly hair |
 | Has completed a bachelor's degree              |                              |
 | Drinks alcohol on occasion                     |                              |
-|                                                |                              |
+| Can drive, doesn't ride a motobike             |                              |
 |                                                |                              |
 |                                                |                              |
 |                                                |                              |
