@@ -41,6 +41,7 @@ Youtube:
 9. Risk 30%, max.
 10. stick to simple, high liquidity charts
 11. Avoid screen clutter. Two indicators maximum. 
+12. You never want to lose more than 1% of your total account on 1 single trade. 
 
 
 
