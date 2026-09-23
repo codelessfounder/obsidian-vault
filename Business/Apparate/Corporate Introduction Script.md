@@ -287,6 +287,9 @@ following up with leads that are DQ'd
 Getting me to close the deal - what's the close process
 You don't have the time - so any leads I close would be leads that would otherwise die 
 sales calls in the day + setting appointments with old leads + cold calling 
+Either get paid for setting the appointment for the old lead OR set and close myself 
+Issue: not sure I'll be able to be on call to take leads if you have a busy day - that's more of a staff role. Not saying I won't, but I cant set that expectation. 
+Sell AI Bot +minimum sale order 
 
 
 
