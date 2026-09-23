@@ -6,4 +6,9 @@ Dad has a cieling earnings as a previousl
 questions
 1. how long does the bankrupt person have to adhere to the incom threshold? 
 2. what do you mean "compulsory income contributions"
-3. 
+
+
+
+
+"""**The ATO’s Power of Garnishment:** The ATO cannot touch _post-bankruptcy_ income for _pre-bankruptcy_ tax debts (as those old debts are frozen/extinguished by the bankruptcy itself). However, if the ATO suspects that a new corporate structure or wage arrangement is a "sham" or a vehicle to continue evading ongoing tax obligations (e.g., if the new company mismanages PAYG withholding or Superannuation Guarantee obligations), they possess sweeping administrative powers to issue garnishee notices to banks."""
+
