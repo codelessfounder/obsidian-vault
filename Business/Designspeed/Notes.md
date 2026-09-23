@@ -1,6 +1,12 @@
 
 
-Dad has a cieling earnings as a previousl
+Dad must adhere to to income contribution rules for the entire duration of his bankruptcy, which will last for 3 years and one day. 
+
+Who is Dad's bankruptcy trustee?
+
+
+
+
 
 
 questions
@@ -12,3 +18,11 @@ questions
 
 """**The ATO’s Power of Garnishment:** The ATO cannot touch _post-bankruptcy_ income for _pre-bankruptcy_ tax debts (as those old debts are frozen/extinguished by the bankruptcy itself). However, if the ATO suspects that a new corporate structure or wage arrangement is a "sham" or a vehicle to continue evading ongoing tax obligations (e.g., if the new company mismanages PAYG withholding or Superannuation Guarantee obligations), they possess sweeping administrative powers to issue garnishee notices to banks."""
 
+
+
+
+my situation: 
+Ben Sales 
+Cyber Security 
+Day Trading 
+Startups 
