@@ -292,6 +292,10 @@ Issue: not sure I'll be able to be on call to take leads if you have a busy day 
 Sell AI Bot +minimum sale order 
 
 
+get a close account 
+Find a list of corporate mortgage brokers 
+
+
 
 
 
