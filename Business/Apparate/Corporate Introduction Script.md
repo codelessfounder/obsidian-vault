@@ -278,6 +278,18 @@ What disqualifies them?
 Where are these leads from? 
 
 
+notes:
+not super keen on dedicating consistent time based on commission 
+commission - needs to be very favourable for me to want to do it 
+Giving me the small fish that you wouldn't want to be on a call with 
+following up with the people who have fallen out of the pipeline 
+following up with leads that are DQ'd
+Getting me to close the deal - what's the close process
+You don't have the time - so any leads I close would be leads that would otherwise die 
+sales calls in the day + setting appointments with old leads + cold calling 
+
+
+
 
 
 
@@ -400,3 +412,6 @@ Would you be interested in being contacted by a Marsh representative to discuss 
 ""all I wanted to do with get one of our brokers at marsh who specialise in complex _________ policies to make an introduction via email and see if they're some alignment""
 
 robin.furber@nje.aero
+
+
+

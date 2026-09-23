@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -356,10 +356,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e89047014d69c25",
+  "active": "5c8d3a529eefb02b",
   "lastOpenFiles": [
-    "Business/Designspeed/Branding.md",
     "Business/Designspeed/Notes.md",
+    "Business/Designspeed/Branding.md",
     "Business/Designspeed/MoreTax.md",
     "Business/Forex/Forex.md",
     "Personal/Interests/Books.md",
