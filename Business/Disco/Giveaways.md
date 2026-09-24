@@ -80,7 +80,38 @@ legal:
 
 ---
 
+Unit economics:
 
+* **Model Type:** High-frequency, low value giveaway with subscription-based entry. 
+* **Prize Value Target:** ~$5,000 per weekly draw (e.g., tech, appliances, outdoor gear).
+* **Active Subscriber Base:** 20,000 members (blended average subscription fee of $15/month).
+* **Campaign Cycle:** Weekly draws (4 cycles per month).
+
+---
+
+## 2. Per-Weekly-Cycle Financial Model
+
+| Category | Line Item | Amount (AUD) | Notes / Assumptions |
+| :--- | :--- | :--- | :--- |
+| **Revenue** | Prorated Subscription Inflow | $75,000 | (20,000 subs x $15/mo) / 4 weeks |
+| **Revenue** | One-Off Entry Upsells | $45,000 | 1,500 buyers x $25 average entry pack |
+| **Total Revenue** | **Gross Weekly Inflow** | **$120,000** | **Total cash collected per weekly cycle** |
+| | | | |
+| **Costs** | Prize Asset Cost | $5,000 | Wholesale/retail cost of everyday items |
+| **Costs** | Fulfillment & Shipping | $200 | Courier costs to ship physical goods |
+| **Costs** | Targeted Digital Ads (CAC) | $2,000 | Weekly acquisition spend |
+| **Costs** | Gateways & Overhead | $300 | Payment processing (Stripe, etc.) |
+| **Total Costs** | **Total Weekly Expenses** | **$7,500** | **Out-of-pocket costs per cycle** |
+| | | | |
+| **Net Profit** | **Weekly Net Profit** | **$112,500** | **Total Revenue - Total Costs** |
+| **Margin** | **Net Profit Margin** | **~93.8%** | **Driven by zero marginal cost of digital entries** |
+
+---
+
+## 3. Monthly Roll-Up (4 Weekly Cycles)
+* **Monthly Gross Revenue:** $480,000
+* **Monthly Total Costs:** $30,000
+* **Monthly Net Profit:** $450,000
 
 
 
