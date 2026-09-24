@@ -101,7 +101,10 @@
 | 94  | The Singularity is Nearer                          | Ray Kurzweil                                 |                                     |
 | 95  | The Vindication of the rights of Woman             | Mary Wollstonecraft                          | Feminism                            |
 | 96  | A Room of One's own                                | Virginia Woolf                               | Feminism                            |
-| 97  |                                                    |                                              |                                     |
+| 97  | The Second Sex                                     | SImone Beauvoir                              |                                     |
+| 98  |                                                    |                                              |                                     |
+| 99  |                                                    |                                              |                                     |
+| 100 |                                                    |                                              |                                     |
 
 
 
