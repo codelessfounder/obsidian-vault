@@ -98,8 +98,10 @@
 | 91  | Work Rules!                                        | Laszlo Bock                                  | Leadership / HR                     |
 | 92  | Twice                                              | Mitch Albom                                  | TBA                                 |
 | 93  | Tuesdays                                           | Mitch Albom                                  | TBA                                 |
-| 94  | The Singularity is Nearer                          | Ray                                          | Kurzweil                            |
-|     |                                                    |                                              |                                     |
+| 94  | The Singularity is Nearer                          | Ray Kurzweil                                 |                                     |
+| 95  | The Vindication of the rights of Woman             | Mary Wollstonecraft                          | Feminism                            |
+| 96  | A Room of One's own                                | Virginia Woolf                               | Feminism                            |
+| 97  |                                                    |                                              |                                     |
 
 
 
