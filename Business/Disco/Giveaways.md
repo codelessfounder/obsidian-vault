@@ -87,9 +87,7 @@ Unit economics:
 * **Active Subscriber Base:** 20,000 members (blended average subscription fee of $15/month).
 * **Campaign Cycle:** Weekly draws (4 cycles per month).
 
----
-
-## 2. Per-Weekly-Cycle Financial Model
+##  Financial Model - Weekly Giveaways
 
 | Category | Line Item | Amount (AUD) | Notes / Assumptions |
 | :--- | :--- | :--- | :--- |
