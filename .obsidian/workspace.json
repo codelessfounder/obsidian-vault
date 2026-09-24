@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -356,15 +356,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e23262c8bd3ad5c",
+  "active": "589bf9e5da598e66",
   "lastOpenFiles": [
+    "Personal/Interests/Books.md",
     "Business/Forex/Forex.md",
     "Personal/Interests/Women.md",
     "Business/Apparate/Corporate Introduction Script.md",
     "Business/Designspeed/Notes.md",
     "Business/Designspeed/Branding.md",
     "Business/Designspeed/MoreTax.md",
-    "Personal/Interests/Books.md",
     "Personal/Interests/Cars.md",
     "Business/Dunny/Dunny.md",
     "dunny feature render.png",

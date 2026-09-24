@@ -13,6 +13,8 @@ List of things that would be cool to giveaway:
 9. new sofa 
 10. a year's supply of toilet paper 
 11. Beef mince 
+12. summer focused things 
+13. a convertible car 
 
 
 
