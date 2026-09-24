@@ -91,33 +91,6 @@ Unit economics:
 
 | Category | Line Item | Amount (AUD) | Notes / Assumptions |
 | :--- | :--- | :--- | :--- |
-| **Revenue** | Prorated Subscription Inflow | $75,000 | (20,000 subs x $15/mo) / 4 weeks |
-| **Revenue** | One-Off Entry Upsells | $45,000 | 1,500 buyers x $25 average entry pack |
-| **Total Revenue** | **Gross Weekly Inflow** | **$120,000** | **Total cash collected per weekly cycle** |
-| | | | |
-| **Costs** | Prize Asset Cost | $5,000 | Wholesale/retail cost of everyday items |
-| **Costs** | Fulfillment & Shipping | $200 | Courier costs to ship physical goods |
-| **Costs** | Targeted Digital Ads (CAC) | $2,000 | Weekly acquisition spend |
-| **Costs** | Gateways & Overhead | $300 | Payment processing (Stripe, etc.) |
-| **Total Costs** | **Total Weekly Expenses** | **$7,500** | **Out-of-pocket costs per cycle** |
-| | | | |
-| **Net Profit** | **Weekly Net Profit** | **$112,500** | **Total Revenue - Total Costs** |
-| **Margin** | **Net Profit Margin** | **~93.8%** | **Driven by zero marginal cost of digital entries** |
-
-
-
-
----
-
-## 3. Monthly Roll-Up (4 Weekly Cycles)
-* **Monthly Gross Revenue:** $480,000
-* **Monthly Total Costs:** $30,000
-* **Monthly Net Profit:** $450,000
-
-
-
-| Category | Line Item | Amount (AUD) | Notes / Assumptions |
-| :--- | :--- | :--- | :--- |
 | **Revenue** | Recurring Subscriptions (Prorated) | $75,000 | Baseline active base: (20,000 subs x $15/mo) / 4 weeks |
 | **Revenue** | One-Off Package Sales (Single Payments) | $45,000 | 1,500 buyers purchasing tiered packages (avg $30 blended across Entry to Platinum tiers) with "free bonus entries" attached |
 | **Total Revenue** | **Gross Weekly Inflow** | **$120,000** | **Total cash collected per weekly cycle** |
@@ -131,12 +104,18 @@ Unit economics:
 | **Net Profit** | **Weekly Net Profit** | **$112,500** | **Total Revenue - Total Costs** |
 | **Margin** | **Net Profit Margin** | **~93.8%** | **Driven by zero marginal cost of digital package fulfillment** |
 
----
 
-## 3. Monthly Roll-Up (4 Weekly Cycles)
+## Monthly Cycle
 * **Monthly Gross Revenue:** $480,000
 * **Monthly Total Costs:** $30,000
 * **Monthly Net Profit:** $450,000
+
+---
+
+
+
+
+
 
 
 
