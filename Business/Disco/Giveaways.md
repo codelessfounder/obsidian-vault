@@ -128,6 +128,9 @@ CTA: *Join now* | View Giveaways
 
 
 Membership section:
+Heading: Choose your membership:
+Subheading: Compare our community membership options and their differen features here
+
 
 
 
