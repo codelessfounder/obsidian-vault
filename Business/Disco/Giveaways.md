@@ -122,6 +122,7 @@ Hero Section:
 Australia's #1 rewards club for everyday stuff
 Mid is for everyone. 
 CTA: *Join now* | View Giveaways
+"Join thousands of other Australians"
 
 
 
