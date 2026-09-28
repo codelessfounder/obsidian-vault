@@ -120,6 +120,8 @@ Header tabs: Home, Petrol, Food, Giveaways, Winners, Partners, Mid Shop, Members
 
 Hero Section:
 Australia's #1 rewards club for everyday stuff
+Mid is for everyone. 
+CTA: *Join now* | View Giveaways
 
 
 
