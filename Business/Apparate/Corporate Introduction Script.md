@@ -211,7 +211,7 @@ have you bought leads before?
 
 One thing - its only refinancing leads, not first home buyers, asset financing, commercial etc. 
 
-What I wanted to do was send over a calendly link for a  meeting with Ben, our CEO - he has a bit more context on how we get the leads to you and how pricing works. When is best for you to jump on a quick 30 min call? 
+What I wanted to do was send over a calendly link for a  meeting myself and Ben, the CEO - so we can give you guys a bit more context on how we get the leads to you and how pricing works. When is best for you to jump on a quick 30 min call? 
 
 
 I understand that you have leads coming in, but we're looking for a broker who wants to grow beyond their existing 
