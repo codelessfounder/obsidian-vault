@@ -130,6 +130,8 @@ CTA: *Join now* | View Giveaways
 Membership section:
 Heading: Choose your membership:
 Subheading: Compare our community membership options and their differen features here
+Save on everyday items with Mid Rewards. 
+It's One Flat Yearly Fee, with unlimited savings on member only goods. 
 
 
 
