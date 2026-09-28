@@ -127,7 +127,9 @@ CTA: *Join now* | View Giveaways
 "Join thousands of other Australians"
 
 
-Choose your membership:
+Membership section:
+
+
 
 
 
