@@ -4,7 +4,7 @@ Dad must adhere to to income contribution rules for the entire duration of his b
 
 Who is Dad's bankruptcy trustee?
 
-Dad has a Maximum yearly earnings of $75,475.40
+
 
 
 

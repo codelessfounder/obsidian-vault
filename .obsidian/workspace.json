@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Interests/Cars.md",
+                "file": "Personal/Interests/Movies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cars"
+              "title": "Movies"
             }
           },
           {
@@ -111,16 +111,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/Designspeed/Notes.md",
+                "file": "Business/Designspeed/Designspeed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Designspeed"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -356,16 +356,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "589bf9e5da598e66",
+  "active": "0e89047014d69c25",
   "lastOpenFiles": [
+    "Business/Apparate/Corporate Introduction Script.md",
+    "Business/Designspeed/Designspeed.md",
+    "Personal/Interests/Movies.md",
+    "Personal/Interests/Cars.md",
+    "Business/Designspeed/Branding.md",
+    "Personal/Interests/Women.md",
+    "Business/Disco/Giveaways.md",
     "Personal/Interests/Books.md",
     "Business/Forex/Forex.md",
-    "Personal/Interests/Women.md",
-    "Business/Apparate/Corporate Introduction Script.md",
-    "Business/Designspeed/Notes.md",
-    "Business/Designspeed/Branding.md",
     "Business/Designspeed/MoreTax.md",
-    "Personal/Interests/Cars.md",
     "Business/Dunny/Dunny.md",
     "dunny feature render.png",
     "dunny sketch.png",
@@ -375,7 +377,6 @@
     "Business/Dunny/dunnylogov3.png",
     "Business/Dunny/Screenshot_2025-10-23_at_6.09.06_pm.png",
     "IMG_3060 2.heic",
-    "Business/Disco/Giveaways.md",
     "Business/Designspeed/test file",
     "Business/Designspeed",
     "Personal/Interests/B180 CDI.md",
@@ -393,7 +394,6 @@
     "Business/App Dev/CS Degree Knowledge vs Self Taught.md",
     "Business/Marketloot/Marketloot.md",
     "Personal/Interests/Powerlifting.md",
-    "USER.md",
     "Business/Openclaw",
     "Business/The Lonely Founder/IMG_6852.jpeg",
     "Business/Screenshot_2025-11-15_at_12.51.10_pm.png",
