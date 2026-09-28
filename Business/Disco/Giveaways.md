@@ -132,7 +132,8 @@ Heading: Choose your membership:
 Subheading: Compare our community membership options and their differen features here
 Save on everyday items with Mid Rewards. 
 It's One Flat Yearly Fee, with unlimited savings on member only goods. 
-
+$80/Year, Billed annually, 1.50 per week, Instant acccess, wholesale petrol, wholesale groceries
+Choose everyday saver (CTA)
 
 
 
