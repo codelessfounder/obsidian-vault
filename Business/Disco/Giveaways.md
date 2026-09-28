@@ -118,6 +118,8 @@ Useful rewards for ordinary punters.
 
 Header tabs: Home, Petrol, Food, Giveaways, Winners, Partners, Mid Shop, Membership, Sign in, Join now (CTA)
 
+Hero Section:
+Australia's #1 rewards club for everyday stuff
 
 
 
