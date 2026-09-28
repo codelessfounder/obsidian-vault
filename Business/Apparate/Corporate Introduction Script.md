@@ -205,7 +205,7 @@ We're looking for a brokerage who, on top of their existing referrals pipeline, 
 
 Look well We've got a steady flow refinance applicants that we're looking to sell to a brokerage who can take on at least 2-3 enquiries a day.  Average loan size is no less than 400-600k, but one of our brokers just landed two for 800-900k. No ad spend, no lock in monthly contract and you start getting the leads after 2 days. .. how does that sound? 
 
-How big is your team currently? if you guys were able to get another 2-3 enquiries per day, could you handle that? 
+How big is your team currently? How many extra leads would you team be able to handle per day do you think? These leads come in immediately from 
 
 have you bought leads before? 
 
