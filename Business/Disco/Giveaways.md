@@ -116,6 +116,8 @@ Unit economics:
 Mid Rewards
 Useful rewards for ordinary punters. 
 
+Home Page 
+
 Header tabs: Home, Petrol, Food, Giveaways, Winners, Partners, Mid Shop, Membership, Sign in, Join now (CTA)
 
 Hero Section:
@@ -123,6 +125,11 @@ Australia's #1 rewards club for everyday stuff
 Mid is for everyone. 
 CTA: *Join now* | View Giveaways
 "Join thousands of other Australians"
+
+
+Choose your membership:
+
+
 
 
 
