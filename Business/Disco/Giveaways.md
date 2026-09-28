@@ -116,7 +116,9 @@ Unit economics:
 Mid Rewards
 Useful rewards for ordinary punters. 
 
-Header: 
+Header tabs: Home, Petrol, Food, Giveaways, Winners, Partners, Mid Shop, Membership, Sign in, Join now (CTA)
+
+
 
 
 
