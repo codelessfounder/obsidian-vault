@@ -106,21 +106,21 @@
             }
           },
           {
-            "id": "0e89047014d69c25",
+            "id": "5b003d955c474a35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/Designspeed/Designspeed.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Designspeed"
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -356,15 +356,55 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "589bf9e5da598e66",
+  "floating": {
+    "id": "8a6e0f2c9853c940",
+    "type": "floating",
+    "children": [
+      {
+        "id": "4d810e79e6759697",
+        "type": "window",
+        "children": [
+          {
+            "id": "d0b00f0d10a99f6c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "aab89c0bd7520e2d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Business/Apparate/Corporate Introduction Script.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Corporate Introduction Script"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 713,
+        "width": 1051,
+        "height": 651,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "aab89c0bd7520e2d",
   "lastOpenFiles": [
-    "Business/Apparate/Corporate Introduction Script.md",
+    "Untitled.md",
     "Business/Designspeed/Designspeed.md",
+    "Business/Apparate/Corporate Introduction Script.md",
+    "Business/Disco/Giveaways.md",
     "Personal/Interests/Movies.md",
     "Personal/Interests/Cars.md",
     "Business/Designspeed/Branding.md",
     "Personal/Interests/Women.md",
-    "Business/Disco/Giveaways.md",
     "Personal/Interests/Books.md",
     "Business/Forex/Forex.md",
     "Business/Designspeed/MoreTax.md",
@@ -393,7 +433,6 @@
     "Business/Workflow Automation/CRUD and CRON.md",
     "Business/App Dev/CS Degree Knowledge vs Self Taught.md",
     "Business/Marketloot/Marketloot.md",
-    "Personal/Interests/Powerlifting.md",
     "Business/Openclaw",
     "Business/The Lonely Founder/IMG_6852.jpeg",
     "Business/Screenshot_2025-11-15_at_12.51.10_pm.png",
