@@ -439,6 +439,12 @@ Call Ezilend Back
 
 Hey mate - as discussed, here's the quick explainer video on what we do at Corewave: 
 
+https://corewavesolutions.wistia.com/s/ajt4gygckit8b2s
+
+Look forward to hearing from you. 
+
+Harry @ Corewave
+
 
 
 
