@@ -156,10 +156,9 @@ Speed/Regular giveaway toggle
 ---
 Features from Disco
 
-- font family
-- font size 
+
 - infinity scrolling components 
-- colour palette 
+
 - Image Icon config 
 
 
