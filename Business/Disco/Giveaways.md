@@ -156,16 +156,11 @@ Speed/Regular giveaway toggle
 ---
 Features from Disco
 
-- Head component 
-- Left sidebar 
-- Right sidebar 
 - font family
 - font size 
 - infinity scrolling components 
 - colour palette 
 - Image Icon config 
-- component config 
-- spacing config 
 
 
 ---
