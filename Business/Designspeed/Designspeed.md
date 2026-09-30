@@ -49,3 +49,8 @@ loan breakdown:
 $25000 company Loan 
 18500 Jaz Fees
 6500 remaning 
+
+
+Expenses:
+2025/2026 Design Speed Tax 
+
