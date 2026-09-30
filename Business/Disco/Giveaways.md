@@ -148,6 +148,10 @@ Features
 
 Rewards Countdown (how long you have access to rewards)
 Entries amount 
+Reels-style section where users can scroll through active giveaways 
+Speed/Regular giveaway toggle 
+"There is a giveaway in your area!"
+
 
 
 
