@@ -166,7 +166,6 @@ Features from Disco
 - Image Icon config 
 - component config 
 - spacing config 
-- app build spec 
 - mobile config 
 - bottom bar in mobile 
 
