@@ -153,13 +153,12 @@ Speed/Regular giveaway toggle
 "There is a giveaway in your area!"
 
 
+
+
 ---
 Features from Disco
 
 
-- infinity scrolling components 
-
-- Image Icon config 
 
 
 ---
