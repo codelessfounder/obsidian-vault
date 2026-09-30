@@ -163,7 +163,7 @@ Features from Disco
 - font size 
 - infinity scrolling components 
 - colour palette 
-- 
+- Image Icon config 
 
 
 
