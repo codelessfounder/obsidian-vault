@@ -39,3 +39,13 @@ Ben Sales
 Cyber Security 
 Day Trading 
 Startups 
+
+
+
+---
+
+loan breakdown:
+
+$25000 company Loan 
+18500 Jaz Fees
+6500 remaning 
