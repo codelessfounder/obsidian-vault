@@ -164,6 +164,42 @@ Features from Disco
 - infinity scrolling components 
 - colour palette 
 - Image Icon config 
+- component config 
+- spacing config 
+- app build spec 
+- 
+
+---
+
+colour palette:
+
+"""  "CSS Peeper Colors": {
+    "141732": "#141732",
+    "223553": "#223553",
+    "292723": "#292723",
+    "393630": "#393630",
+    "416297": "#416297",
+    "534122": "#534122",
+    "65662E": "#65662E",
+    "83B3D7": "#83B3D7",
+    "9E8F75": "#9E8F75",
+    "D4C1A0": "#D4C1A0",
+    "E7E4D8": "#E7E4D8",
+    "FBE7C3": "#FBE7C3",
+    "FFFFE2": "#FFFFE2",
+    "FFFFE6": "#FFFFE6",
+    "FFFFFF": "#FFFFFF",
+    "24221E": "#24221E",
+    "2C2A25": "#2C2A25",
+    "2E2C27": "#2E2C27",
+    "37352F": "#37352F",
+    "504D44": "#504D44",
+    "5D595B": "#5D595B",
+    "C0AE8F": "#C0AE8F"
+
+  }
+
+}
 
 
 
