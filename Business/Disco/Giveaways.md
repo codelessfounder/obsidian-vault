@@ -167,7 +167,9 @@ Features from Disco
 - component config 
 - spacing config 
 - app build spec 
-- 
+- mobile config 
+- bottom bar in mobile 
+
 
 ---
 
