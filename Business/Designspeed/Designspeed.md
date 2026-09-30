@@ -53,4 +53,5 @@ $25000 company Loan
 
 Expenses:
 2025/2026 Design Speed Tax 
+Mum: $1000 per month 
 
