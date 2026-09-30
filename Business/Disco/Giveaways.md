@@ -153,6 +153,19 @@ Speed/Regular giveaway toggle
 "There is a giveaway in your area!"
 
 
+---
+Features from Disco
+
+- Head component 
+- Left sidebar 
+- Right sidebar 
+- font family
+- font size 
+- infinity scrolling components 
+- colour palette 
+- 
+
+
 
 
 
