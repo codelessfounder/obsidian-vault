@@ -540,6 +540,8 @@ clear next steps:
 - Start date 
 - we start everyone on a monday
 - 3 business days to set up 
+- give me the start date
+
 
 
 
