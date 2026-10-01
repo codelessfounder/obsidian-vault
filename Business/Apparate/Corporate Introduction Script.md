@@ -475,7 +475,13 @@ profiling questions:
 
 Pitch:
 - present the "one pager"doc: 
+- How it works: run ads on all major apps, take the applicants to our brands and qualify them. 18 stage qualifying form. We send them straight to you real time, 10:36am. 
+- Order a batch of leads
 - 
+
+
+
+What questions do you have? Everyone always has some haha. 
 
 
 
