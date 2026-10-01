@@ -476,7 +476,14 @@ profiling questions:
 Pitch:
 - present the "one pager"doc: 
 - How it works: run ads on all major apps, take the applicants to our brands and qualify them. 18 stage qualifying form. We send them straight to you real time, 10:36am. 
-- Order a batch of leads
+- Order a batch of leads. Exlcusive, no contract, remarket them, verified and qualified
+- 18 prequalifyign questions 
+- Average conversion rate is 10-20%
+- Quick setup: 48-72hrs
+- Hoax leads replaced 
+- How qualified are they? here is the 18 questions we ask. Disqualified. 
+- OTP verification
+- average loan balance 
 - 
 
 
