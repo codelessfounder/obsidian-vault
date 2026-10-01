@@ -454,7 +454,13 @@ Corewave Sales Call
 
 Damien Call 
 Donna Call 
-Louis 
+Clinton Call
+
+
+
+Structure:
+1. Profiling questions
+2. 
 
 
 
