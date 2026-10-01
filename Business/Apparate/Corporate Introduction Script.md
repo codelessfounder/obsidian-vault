@@ -514,6 +514,9 @@ Pitch:
 
 Close and objection handling:
 - We can get you setup within 48-72 hours, we'll just snd over an agreement and the stripe payment 
+- Based on the price, to meet your goals, you'll need the middle pack. 
+- Was it the price or did you not really see the benefit?
+
 
 
 
