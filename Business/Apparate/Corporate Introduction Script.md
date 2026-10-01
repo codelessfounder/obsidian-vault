@@ -524,6 +524,21 @@ What questions do you have? Everyone always has some haha.
 
 
 
+activation fee: 
+
+
+clear next steps:
+- agreement signed 
+- Pay 
+- Start date 
+- we start everyone on a monday
+- 3 business days to set up 
+
+
+
+
+
+
 
 
 
