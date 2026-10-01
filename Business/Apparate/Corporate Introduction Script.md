@@ -489,7 +489,31 @@ Pitch:
 
 1. Present the questionnaire 
 	- we run ads, and take them to a pay that looks like this 
-	- users go through this questionnaire to determine whether they're 
+	- users go through this questionnaire to determine whether they're qualified 
+
+2. landing page
+	- customised to your branding
+	- matched with ben, logo, calendar link. 
+	- Then you call them straight away 
+
+3. SMS and email notification 
+	- send you a text and email, you can call them straight away
+	- You can see all the answers to teh qestions for context 
+
+4. Lead tracker 
+	- google sheet lead tracker 
+	- replace any leads for you, 5% usually 
+
+5. Pricing Doc
+	- pay per lead, no contract or lock in, buy in bulk and get those leads over a month 
+	- 30 bare minimum 
+	- build the landing page 
+	- AI assistant - text leads as soon as they come in
+	- you pay for 30, you get 30 over the course of the month. 
+
+
+Close and objection handling:
+- We can get you setup within 48-72 hours, we'll just snd over an agreement and the stripe payment 
 
 
 
