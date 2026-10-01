@@ -528,6 +528,8 @@ AI video?
 
 activation fee OR deposit 
 custom
+$500+GST deposit
+
 
 
 clear next steps:
