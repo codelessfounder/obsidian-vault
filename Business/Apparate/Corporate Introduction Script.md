@@ -523,6 +523,8 @@ Close and objection handling:
 What questions do you have? Everyone always has some haha. 
 
 
+AI video? 
+
 
 activation fee: 
 
