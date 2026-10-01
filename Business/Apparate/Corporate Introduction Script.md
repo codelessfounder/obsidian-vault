@@ -526,7 +526,8 @@ What questions do you have? Everyone always has some haha.
 AI video? 
 
 
-activation fee: 
+activation fee OR deposit 
+custom
 
 
 clear next steps:
