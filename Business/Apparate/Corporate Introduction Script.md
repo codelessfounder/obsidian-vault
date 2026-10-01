@@ -488,6 +488,8 @@ Pitch:
 - average loan balance 
 
 1. Present the questionnaire 
+	- we run ads, and take them to a pay that looks like this 
+	- users go through this questionnaire to determine whether they're 
 
 
 
