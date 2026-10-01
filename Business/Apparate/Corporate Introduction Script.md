@@ -460,7 +460,14 @@ Clinton Call
 
 Structure:
 1. Profiling questions
-2. 
+
+
+profiling questions:
+- How long have you been doing brokering?
+- What are you guys currently doing for marketing?
+- What do you need from me?
+- Have you ever bought leads before? If so, what was your experience?
+- 
 
 
 
