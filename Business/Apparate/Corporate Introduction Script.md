@@ -520,11 +520,6 @@ Close and objection handling:
 - Do you have any questions before we go ahead and get you setup? 
 
 
-
-
-
-
-
 What questions do you have? Everyone always has some haha. 
 
 
