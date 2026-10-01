@@ -509,7 +509,8 @@ Pitch:
 	- 30 bare minimum 
 	- build the landing page 
 	- AI assistant - text leads as soon as they come in
-	- you pay for 30, you get 30 over the course of the month. 
+	- you pay for 30, you get 30 over the course of the month.
+	- 10-20% conversion rate, I'm sure you can understand the unit economics of how you'll benefit. 
 
 
 Close and objection handling:
