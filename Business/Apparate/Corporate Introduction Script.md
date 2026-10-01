@@ -467,7 +467,44 @@ profiling questions:
 - What are you guys currently doing for marketing?
 - What do you need from me?
 - Have you ever bought leads before? If so, what was your experience?
-- 
+- What was last month looking like in terms of settlements? Just so I can figure out what packager would be best for you. 
+- What's the target with the new leads coming in? Loan volume per month? 
+- what are you doing at the moment in terms of lead gen? Do you guys run ads? 
+- whats the long term goal? sell your books? 
+
+
+Pitch:
+- present the doc: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+SMS form:
+
+New Corewave Solutions REFINANCE Lead Delivered - Peyo!
+
+First Name: Test
+
+Last name: Test
+
+Email: test@gmail.com
+
+Phone: +61434432481
+
+Loan Amount: 450000
+
+Interest Rate: 6.4
+
+Refinance Reason: Get a new investment property
 
 
 
