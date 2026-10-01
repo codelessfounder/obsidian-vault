@@ -531,6 +531,8 @@ custom
 $500+GST deposit
 
 
+do you have any loan writers?
+
 
 clear next steps:
 - agreement signed 
