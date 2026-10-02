@@ -464,7 +464,7 @@ Structure:
 
 profiling questions:
 - How long have you been doing brokering?
-- What are you guys currently doing for marketing?
+- What are you guys currently doing for marketing? Have you done marketing?
 - What do you need from me?
 - Have you ever bought leads before? If so, what was your experience?
 - What was last month looking like in terms of settlements? Just so I can figure out what package would be best for you. 
@@ -529,6 +529,8 @@ AI video?
 activation fee OR deposit 
 custom
 $500+GST deposit
+
+we don't offer a r
 
 
 do you have any loan writers?
