@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -356,17 +356,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c8d3a529eefb02b",
+  "active": "1e23262c8bd3ad5c",
   "lastOpenFiles": [
+    "Business/Apparate/Marsh Script.md",
+    "Business/Apparate/Corporate Introduction Script.md",
+    "Personal/Interests/Books.md",
     "Business/Designspeed/Designspeed.md",
     "Business/Disco/Giveaways.md",
     "Business/Designspeed/Branding.md",
-    "Business/Apparate/Corporate Introduction Script.md",
     "Untitled.md",
     "Personal/Interests/Movies.md",
     "Personal/Interests/Cars.md",
     "Personal/Interests/Women.md",
-    "Personal/Interests/Books.md",
     "Business/Forex/Forex.md",
     "Business/Designspeed/MoreTax.md",
     "Business/Dunny/Dunny.md",
@@ -388,7 +389,6 @@
     "Personal/Health/Habits.md",
     "Personal/Interests/Via.md",
     "Diary/Things I had to do when I had no money.md",
-    "Business/Apparate/Marsh Script.md",
     "Business/Workflow Automation/Workflow Automation.md",
     "Business/Apparate/Trade Credit Policy.md",
     "Business/Workflow Automation/CRUD and CRON.md",
