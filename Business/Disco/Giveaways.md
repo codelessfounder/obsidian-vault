@@ -151,6 +151,7 @@ Entries amount
 Reels-style section where users can scroll through active giveaways 
 Speed/Regular giveaway toggle 
 "There is a giveaway in your area!"
+Placing transparency: "You came 3rd in this giveaway!"
 
 
 
@@ -192,6 +193,8 @@ colour palette:
   }
 
 }
+
+
 
 
 
