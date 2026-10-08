@@ -27,3 +27,15 @@ first meet ideas:
 
 Where do I want to be in a year's time?
 
+
+---
+
+What I know for certain (empirical evidence) that women like:
+
+1. A man who makes plans in advance
+2. A man who is clear about his intentions 
+3. A man who is conscientious of interior design 
+4. A man who is exceptionally hygienic
+5. A man who dresses himself well 
+6. A man who smells nice 
+
