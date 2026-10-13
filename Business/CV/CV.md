@@ -57,14 +57,7 @@ location: Sydney, Australia
 
 ---
 
-Tech Sales 
 
-
-Experience: 
-
-1. Corewave Solutions 
-2. Apparate (Marsh Insurance)
-3. PhoneUsToday
 
 
 
@@ -107,6 +100,65 @@ Harry has a strong preference for product-led organisations who value continuous
 
 ---
 **References:** Available upon request.
+
+
+
+
+---
+
+Sales CV October 2026
+
+
+Tech Sales 
+
+
+Experience: 
+
+1. Corewave Solutions 
+2. Apparate (Marsh Insurance)
+3. PhoneUsToday
+
+
+# Harry Charlesworth
+ [harrycharlesworth99@gmail.com](mailto:harrycharlesworth99@gmail.com) | +61 426 699 881 | **Sydney, Australia** 
+---
+Harry is a B2B sales professional who leverages technical automation to scale revenue and close high-value deals with C-suite stakeholders.
+
+## Technical skills
+
+- **Automation and Data Workflows:** n8n, API orchestration, webhook-based AI workflows, structured data pipelines, PostgreSQL, Edge Functions (Supabase).
+- **AI and LLM Systems:** Prompt design, RAG implementation, vector search, LLM evaluation and optimisation workflows.
+
+## Experience
+
+### Account Executive | Corewave (Hatch AI Team)  *January 2026 – Present*
+- Conducted sales calls with finance brokers (5-50 headcount) closing high-ticket lead packages ranging from $5,000 to $20,000 in contract value.
+- Achieved a 35% close rate on $270K of closed revenue YTD, hitting 115% of quota through disciplined pipeline management and objection handling.
+
+### Lead Outbound BDM | Apparate (Marsh Insurance) *2025 – 2026*
+- Booked 5–10 qualified meetings per day for Marsh Insurance Brokers, maintaining a 20% cold-to-booked conversion rate and exceeding quarterly pipeline targets by 150%.
+- Directed outbound B2B lead generation and corporate insurance sales targeting CEOs and CFOs across pharmaceutical, civil logistics, and aerospace sectors.
+- Onboarded, trained, and mentored new BDMs on script delivery and internal CRM systems.
+
+### Product Lead | Watchcrow (Marketplace) *2022 – 2025*
+- Orchestrated product strategy for over 1,500 successful marketplace transactions.
+- Shipped an Inventory API that reduced sales management discrepancies by 25%.
+- Utilised OKRs to prioritise high-impact features and measurable user outcomes.
+
+
+## Key Projects
+
+- **"Second Brain" Knowledge Base (RAG app):** A natural language search tool for querying Notion  using PostgreSQL vector search and Edge Functions.
+- **Automated Lead Gen Workflow:** An n8n-based system using LinkedIn scraping (Apify) and the Apollo API for automated outreach.
+- **Marketplace Arbitrage Bot:** An n8n workflow that monitors Facebook Marketplace “Free” listings, identifies high value items and sends a ranked shortlist to Telegram.
+
+## Education
+
+- **QMUL School of Law:** Bachelor of Laws (LLB), 2019 – 2022.
+
+---
+**References:** Available upon request.
+
 
 
 
