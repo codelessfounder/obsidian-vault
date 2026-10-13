@@ -94,10 +94,6 @@ Harry has a strong preference for product-led organisations who value continuous
 - Built Edge Function RTP logic for server-side outcomes with provably fair RNG and PostgreSQL triggers.
 - Implemented OpenAI image analysis for automated product price extraction and market estimation.
 
-### Product Lead | Watchcrow (Marketplace) *2022 – 2025*
-- Orchestrated product strategy for over 1,500 successful marketplace transactions.
-- Shipped an Inventory API that reduced sales management discrepancies by 25%.
-- Utilised OKRs to prioritise high-impact features and measurable user outcomes.
 
 ## Key Projects
 
