@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/Apparate/Corporate Introduction Script.md",
+                "file": "Business/CV/CV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Corporate Introduction Script"
+              "title": "CV"
             }
           },
           {
@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -356,14 +356,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "589bf9e5da598e66",
+  "active": "5c8d3a529eefb02b",
   "lastOpenFiles": [
+    "Business/CV/April 2026.md",
+    "Business/CV/CV.md",
+    "Business/Apparate/Corporate Introduction Script.md",
+    "Business/Disco/Giveaways.md",
     "Personal/Interests/Women.md",
     "Personal/Interests/Books.md",
     "Business/Apparate/Marsh Script.md",
-    "Business/Apparate/Corporate Introduction Script.md",
     "Business/Designspeed/Designspeed.md",
-    "Business/Disco/Giveaways.md",
     "Business/Designspeed/Branding.md",
     "Untitled.md",
     "Personal/Interests/Movies.md",
@@ -392,8 +394,6 @@
     "Business/Workflow Automation/Workflow Automation.md",
     "Business/Apparate/Trade Credit Policy.md",
     "Business/Workflow Automation/CRUD and CRON.md",
-    "Business/App Dev/CS Degree Knowledge vs Self Taught.md",
-    "Business/Marketloot/Marketloot.md",
     "Business/Openclaw",
     "Business/The Lonely Founder/IMG_6852.jpeg",
     "Business/Screenshot_2025-11-15_at_12.51.10_pm.png",
