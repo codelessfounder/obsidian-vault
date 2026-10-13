@@ -57,7 +57,16 @@ location: Sydney, Australia
 
 ---
 
-Sales
+Tech Sales 
+
+
+Experience: 
+
+1. Corewave Solutions 
+2. Apparate (Marsh Insurance)
+3. PhoneUsToday
+
+
 
 
 
