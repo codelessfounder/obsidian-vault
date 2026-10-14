@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/CV/CV.md",
+                "file": "Business/Apparate/Corporate Introduction Script.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CV"
+              "title": "Corporate Introduction Script"
             }
           },
           {
@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -356,11 +356,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c8d3a529eefb02b",
+  "active": "589bf9e5da598e66",
   "lastOpenFiles": [
-    "Business/CV/April 2026.md",
-    "Business/CV/CV.md",
     "Business/Apparate/Corporate Introduction Script.md",
+    "Business/CV/CV.md",
+    "Business/CV/April 2026.md",
     "Business/Disco/Giveaways.md",
     "Personal/Interests/Women.md",
     "Personal/Interests/Books.md",

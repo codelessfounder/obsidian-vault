@@ -195,6 +195,20 @@ colour palette:
 }
 
 
+---
+
+Potentially some sort of subscription package
+
+a subscription aggregator 
+subscribe to recieve your items monthly through Mid on the 1st of every month 
+
+Shampoo
+Toilet Paper 
+Deodrant 
+Protein
+Creatine 
+
+
 
 
 
