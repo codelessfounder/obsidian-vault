@@ -219,6 +219,13 @@ Category
 Minimum Entries 
 
 
+new cateogires 
+- House 
+- Essentials 
+
+
+
+
 
 
 
