@@ -227,7 +227,7 @@ new cateogires
 
 
 
-
+![[Screenshot 2026-10-14 at 7.00.16 pm.png]]
 
 
 
