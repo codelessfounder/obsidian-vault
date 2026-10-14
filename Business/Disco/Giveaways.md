@@ -210,6 +210,16 @@ Creatine
 
 
 
+---
+Card details 
+
+Title 
+Description 
+Category 
+Minimum Entries 
+
+
+
 
 
 
