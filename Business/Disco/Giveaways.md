@@ -236,7 +236,14 @@ new cateogires
 ---
 Access to discounts:
 
--
+- Groceries/food 
+- Electricity and Gas 
+- Car/Health Insurance 
+- Fuel 
+- Mobile Phone plans 
+- Home internet 
+- Streaming Services 
+- 
 
 
 
