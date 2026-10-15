@@ -580,6 +580,18 @@ Refinance Reason: Get a new investment property
 
 
 
+Public Sector:
+- AHPHRA guidelines 
+- Public Sector 
+- Teachers 
+- Doctors 
+- NSW eductaiton
+- POlice officers 
+- Civil Contruction 
+- Council
+
+
+
 
 
 
