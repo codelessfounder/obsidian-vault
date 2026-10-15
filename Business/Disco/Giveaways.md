@@ -249,11 +249,11 @@ Access to discounts:
 - Road Tolls 
   
   
-- Electricity and Gas discounts 
-- Car insurance discounts 
-- Gym membership discount 
-- Streaming Services DIscount 
-  - Eating out Discount 
+- Electricity and Gas
+- Car insurance
+- Gym membership
+- Streaming Services
+  - Eating out 
 
 
 
