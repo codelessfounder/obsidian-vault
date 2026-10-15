@@ -247,6 +247,12 @@ Access to discounts:
 - Coffee
 - Eating Out 
 - Road Tolls 
+  
+  
+- Electricity and Gas discounts 
+- Car insurance discounts 
+- Gym membership discount 
+- 
 
 
 
