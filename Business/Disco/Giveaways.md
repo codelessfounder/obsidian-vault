@@ -243,6 +243,10 @@ Access to discounts:
 - Mobile Phone plans 
 - Home internet 
 - Streaming Services 
+- Gym Memberships 
+- Coffee
+- Eating Out 
+- Road Tolls 
 - 
 
 
