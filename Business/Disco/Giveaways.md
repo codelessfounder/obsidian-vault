@@ -252,7 +252,8 @@ Access to discounts:
 - Electricity and Gas discounts 
 - Car insurance discounts 
 - Gym membership discount 
-- 
+- Streaming Services DIscount 
+  - Eating out Discount 
 
 
 
