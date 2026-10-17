@@ -264,6 +264,9 @@ Koala Mattress
 Dyson Vacuum 
 1 Year Supply Lyka Dog Food 
 "Gorp Larp Full Fit"
+New Fridge
+Wardrobe Blank cheque 
+New Washing Machine 
 
 
 
