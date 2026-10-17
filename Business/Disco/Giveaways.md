@@ -257,6 +257,12 @@ Access to discounts:
 
 
 
+items:
+
+Ninja Crispi 
+Koala Mattress 
+
+
 
 
 
