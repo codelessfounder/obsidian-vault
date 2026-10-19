@@ -45,6 +45,10 @@ What I know for certain (empirical evidence) that women like:
 Hinge Prompts:
 
 *Looking for someone who is whimsical and Chalant*
-*Hit the road dude, this aint no state property this is private property
+
+*All I ask is that you Hit the road dude, this aint no state property this is private property
+
+*We're the same type of weird if you have a multi step bedtime routine*
+
 
 
