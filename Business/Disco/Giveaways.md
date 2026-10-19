@@ -277,6 +277,14 @@ Reliable Daily Driver
 
 
 
+Beater Car 
+New Washing Machine 
+1 Month Free Groceries 
+1 Month rent paid 
+
+
+
+
 
 
 
