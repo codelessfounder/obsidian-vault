@@ -39,3 +39,10 @@ What I know for certain (empirical evidence) that women like:
 5. A man who dresses himself well 
 6. A man who smells nice 
 
+
+---
+
+Hinge Prompts:
+
+*Looking for someone who is whimsical and Chalant*
+
