@@ -283,6 +283,7 @@ New Washing Machine
 1 Month rent paid 
 new fridge
 1 month Lyka Dog food 
+1 month Tyga Cat
 1 month free fuel 
 koala mattress
 Le Creuset Set
