@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -370,10 +370,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "589bf9e5da598e66",
+  "active": "5c8d3a529eefb02b",
   "lastOpenFiles": [
-    "Business/Apparate/Corporate Introduction Script.md",
     "Business/Disco/Giveaways.md",
+    "Business/Apparate/Corporate Introduction Script.md",
     "Personal/Interests/Women.md",
     "Screenshot 2026-10-14 at 7.00.16 pm.png",
     "Business/CV/CV.md",
