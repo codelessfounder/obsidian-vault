@@ -594,7 +594,6 @@ Public Sector:
 ---
 
 Loan Market 
-
 - keep them for a quarter 
 Queue 
 they can only have 15 leads per month 
