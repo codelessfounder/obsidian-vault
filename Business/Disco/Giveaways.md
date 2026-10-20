@@ -281,7 +281,10 @@ Beater Car
 New Washing Machine 
 1 Month Free Groceries 
 1 Month rent paid 
-
+new fridge
+1 month Lyka Dog food 
+1 month free fuel 
+koala mattress
 
 
 
