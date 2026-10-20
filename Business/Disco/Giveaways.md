@@ -257,41 +257,21 @@ Access to discounts:
 
 
 
-items:
-
-Ninja Crispi 
-Koala Mattress 
-Dyson Vacuum 
-1 Year Supply Lyka Dog Food 
-"Gorp Larp Full Fit"
-New Fridge
-Wardrobe Blank cheque 
-New Washing Machine 
-1 Month of free Groceries 
-Le Creuset Set 
-New Fridge 
-Beater car 
-1 week family getaway 
-1 Month of free fuel 
-Reliable Daily Driver 
 
 
+Item List:
 
-Beater Car 
-New Washing Machine 
-1 Month Free Groceries 
-1 Month rent paid 
-new fridge
-1 month Lyka Dog food 
-1 month Tyga Cat
-1 month free fuel 
-koala mattress
-Le Creuset Set
-Ninja crispi 
-
-
-
-
-
+|**Single Item**|**Recurring / Duration-Based**|
+|---|---|
+|Ninja Crispi|1 Year Supply Lyka Dog Food|
+|Koala Mattress|1 Month of Free Groceries|
+|Dyson Vacuum|1 Week Family Getaway|
+|"Gorp Larp Full Fit"|1 Month of Free Fuel|
+|New Fridge|1 Month Rent Paid|
+|Wardrobe Blank Cheque|1 Month Lyka Dog Food|
+|New Washing Machine|1 Month Tyga Cat|
+|Le Creuset Set||
+|Beater Car||
+|Reliable Daily Driver|
 
 
