@@ -74,6 +74,14 @@ stock images
 
 
 A huge box of Nespresso 
+Aesop Package 
+That expensive Olive Oil Brand 
+La Roce Posay Skincare kit 
+Philips Beard Trimmer 
+Oral B Toothbrush
+Dior Savuage Perfume 
+New Bed Linen
+Ninja Crispi 
 
 
 
