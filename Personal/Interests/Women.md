@@ -82,6 +82,12 @@ Oral B Toothbrush
 Dior Savuage Perfume 
 New Bed Linen
 Ninja Crispi 
+Le Crsuet Cast Iron Pot 
+Amazon Kindle 
+Asos Hoodie 
+Owala Water Bottle 
+Massage Gun 
+
 
 
 
