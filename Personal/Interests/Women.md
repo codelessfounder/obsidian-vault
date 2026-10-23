@@ -65,6 +65,9 @@ skincare
 olive oil 
 sports 
 sports gear 
+Electric Toothbrush 
+New Razor 
+
 
 
 stock images 
