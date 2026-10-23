@@ -54,4 +54,12 @@ Hinge Prompts:
 *we're on the same page about voice notes and calling *
 
 
+---
+
+items in woolies, chemist warehouse 
+
+premium stuff that people can afford, bur don't buy becasuet they usually buy the basic. 
+
+
+
 
