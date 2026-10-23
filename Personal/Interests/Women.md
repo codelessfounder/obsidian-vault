@@ -59,6 +59,16 @@ Hinge Prompts:
 items in woolies, chemist warehouse 
 
 premium stuff that people can afford, bur don't buy becasuet they usually buy the basic. 
+segment through sports 
+skincare 
+olive oil 
+sports 
+sports gear 
+
+
+stock images 
+
+
 
 
 
