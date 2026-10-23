@@ -6,13 +6,14 @@ My type:
 | Cat lover                                      | straight teeth               |
 | Not addicted to nicotine                       | insane jawline               |
 | into the gym and/or fitness/sport of some kind | wide hips, tiny waist        |
-| competitive                                    | big eyes                     |
+| competitive                                    | Huge eyes                    |
 | loves playing games                            | black/dark brown, curly hair |
-| Has completed a bachelor's degree              |                              |
+| Has completed a bachelor's degree              | big ish nose                 |
 | Drinks alcohol on occasion                     |                              |
 | Can drive, doesn't ride a motobike             |                              |
-|                                                |                              |
-|                                                |                              |
+| Someone who loves to call                      |                              |
+| Loves smells                                   |                              |
+| Is intentional about interior design           |                              |
 |                                                |                              |
 
 
@@ -49,6 +50,8 @@ Hinge Prompts:
 *All I ask is that you Hit the road dude, this aint no state property this is private property
 
 *We're the same type of weird if you have a multi step bedtime routine*
+
+*we're on the same page about voice notes and calling *
 
 
 
