@@ -56,9 +56,10 @@ Hinge Prompts:
 
 ---
 
-items in woolies, chemist warehouse 
+items in woolies, chemist warehouse, Big W, 
 
-premium stuff that people can afford, bur don't buy becasuet they usually buy the basic. 
+premium stuff that people can afford, bur don't usually buy because they usually buy the basic version. Think stores like Woolies, Chemist Warehouse, Big W. 
+
 segment through sports 
 skincare 
 olive oil 
