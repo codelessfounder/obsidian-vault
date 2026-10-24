@@ -119,8 +119,7 @@
               "title": "Women"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +153,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "becasuet",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -357,11 +356,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a2d8a83bdb0246d",
+  "active": "b3d8db06d2cc9c12",
   "lastOpenFiles": [
+    "Personal/Interests/Women.md",
     "Business/Disco/Giveaways.md",
     "Business/Apparate/Corporate Introduction Script.md",
-    "Personal/Interests/Women.md",
     "Screenshot 2026-10-14 at 7.00.16 pm.png",
     "Business/CV/CV.md",
     "Business/CV/April 2026.md",

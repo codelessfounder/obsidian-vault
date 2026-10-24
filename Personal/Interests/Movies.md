@@ -99,6 +99,7 @@
 | Prisoners Jake Gylenhaal              |                      | no      |        |
 | Rush 2013                             |                      | no      |        |
 | Obsession                             |                      | no      |        |
+| The Vanishing                         |                      |         |        |
 
 ---
 
