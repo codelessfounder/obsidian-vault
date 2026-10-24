@@ -100,6 +100,7 @@
 | Rush 2013                             |                      | no      |        |
 | Obsession                             |                      | no      |        |
 | The Vanishing                         |                      |         |        |
+| Hoodwinked                            |                      |         |        |
 
 ---
 
