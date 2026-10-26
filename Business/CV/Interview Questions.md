@@ -7,3 +7,8 @@ If you were successful in this role, what actions would you take first?
 4. overcoming objections: *we dont do sicsounts, diners wont buy drinks, we dont want to pay high marketplace fees
 5. Offer trials, social proof, review service data
 
+
+How do you develop your sales pipeline? 
+
+
+
