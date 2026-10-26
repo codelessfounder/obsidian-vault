@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Interests/Movies.md",
+                "file": "Business/CV/Interview Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Movies"
+              "title": "Interview Questions"
             }
           },
           {
@@ -177,8 +177,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -358,6 +357,8 @@
   },
   "active": "b3d8db06d2cc9c12",
   "lastOpenFiles": [
+    "Personal/Interests/Movies.md",
+    "Business/CV/Interview Questions.md",
     "Personal/Interests/Women.md",
     "Business/Disco/Giveaways.md",
     "Business/Apparate/Corporate Introduction Script.md",
@@ -369,7 +370,6 @@
     "Business/Designspeed/Designspeed.md",
     "Business/Designspeed/Branding.md",
     "Untitled.md",
-    "Personal/Interests/Movies.md",
     "Personal/Interests/Cars.md",
     "Business/Forex/Forex.md",
     "Business/Designspeed/MoreTax.md",
