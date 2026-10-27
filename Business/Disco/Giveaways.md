@@ -324,7 +324,8 @@ Item list
 16. Logitech MX Master 3S Wireless Ergonomic Mouse
 17. UE Boom 
 18. Salomon Shoes 
-19. 
+19. Magic Dumbbell Set 
+20. 
 
 
 
