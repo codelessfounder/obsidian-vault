@@ -294,5 +294,10 @@ item ethos:
 
 premium stuff that people can afford, bur don't usually buy because they usually buy the basic version. Think stores like Woolies, Chemist Warehouse, Big W, K mart, JB Hifi.
 
+Where to get items:
+
+Supermarkets 
+
+
 
 
