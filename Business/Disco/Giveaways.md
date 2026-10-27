@@ -304,7 +304,9 @@ Second hand marketplaces
 
 
 
-Types of Marketplaces:
+Item list
+
+1. 
 
 
 
