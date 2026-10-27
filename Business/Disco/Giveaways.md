@@ -325,7 +325,13 @@ Item list
 17. UE Boom 
 18. Salomon Shoes 
 19. Magic Dumbbell Set 
-20. 
+20. Makita 2Pc Combo 
+21. Airpods Pro 3
+22. Playstation 5 with GTA6 Preorder
+23. Yeti Tundra Cooler 
+24. Soda Stream 
+25. Dyson Sueprsonic Hairdryer 
+26. 
 
 
 
