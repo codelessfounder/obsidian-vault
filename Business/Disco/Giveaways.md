@@ -367,7 +367,7 @@ First run of items
 | **9**  | # Ninja Crispi 4-in-1 Portable Glass Air Fryer         | Kitchen Appliances     | Busy Parents, Meal Preppers, Renters 20–50     |
 | **10** | **Le Creuset # Cast Iron 5-piece Essential Set         | Kitchen & Cookware     | Home Cooks 25–55, Foodies, Couples             |
 | **11** | # Amazon Kindle 16GB (newest model)                    | Tech & Entertainment   | Avid Readers, Students, Travelers 20–60        |
-| **12** | **ASOS / AS Colour Heavyweight Hoodie**                | Apparel & Streetwear   | Youth & Young Adults 16–35                     |
+| **12** | AS Colour Heavyweight Hoodie Box Hood 5171             | Apparel & Streetwear   | Youth & Young Adults 16–35                     |
 | **13** | **Owala FreeSip Water Bottle**                         | Lifestyle & Activewear | Students, Gymgoers, Women & Youth 16–35        |
 | **14** | **Massage Gun**                                        | Health & Fitness       | Gymgoers, Athletes, Tradies, Physical Workers  |
 | **15** | **Set of New Towels** _(700GSM Bath Sheets)_           | Home Essentials        | Families, Renters & Homeowners 25–60           |
