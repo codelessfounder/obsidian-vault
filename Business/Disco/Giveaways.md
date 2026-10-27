@@ -331,7 +331,9 @@ Item list
 23. Yeti Tundra Cooler 
 24. Soda Stream 
 25. Dyson Sueprsonic Hairdryer 
-26. 
+26. Garmin Forerunner 
+27. Dyson V15 Detect Cordless Vacuum
+28. Breville Bambino Espresso Machine 
 
 
 
