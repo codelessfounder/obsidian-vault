@@ -335,7 +335,7 @@ Item list
 27. Dyson V15 Detect Cordless Vacuum
 28. Breville Bambino Espresso Machine 
 29. Nintendo Switch OLED 
-30. 
+30. Beuaty of Joseon Bundle 
 
 
 
