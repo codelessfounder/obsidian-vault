@@ -360,7 +360,7 @@ First run of items
 | **2**  | Aesop Bathroom Necessities Bundle                      | Beauty & Self-Care     | Women & Men 20–40, Urbanites, Home Nesters     |
 | **3**  | Goldi Smooth 3 Litre Tin Extra Virgin Olive Oil        | Pantry & Kitchen       | Home Cooks, Families 25–55, Foodies            |
 | **4**  | **La Roche-Posay Anti-Ageing Skincare Set              | Beauty & Self-Care     | Women & Men 18–35, Skincare Enthusiasts        |
-| **5**  | **Philips Beard Trimmer**                              | Men's Grooming         | Males 18–45                                    |
+| **5**  | # Philips OneBlade 360 Hair Trimmer                    | Men's Grooming         | Males 18–45                                    |
 | **6**  | **Oral-B Electric Toothbrush**                         | Health & Wellness      | Universal (Adults 20–60)                       |
 | **7**  | **Dior Sauvage Perfume**                               | Fragrance & Grooming   | Males 18–35, Young Professionals               |
 | **8**  | **New Bed Linen** _(100% French Flax Linen Set)_       | Home Essentials        | Couples, Renters & Homeowners 22–50            |
