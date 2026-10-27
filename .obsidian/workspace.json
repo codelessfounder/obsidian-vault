@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/Apparate/Corporate Introduction Script.md",
+                "file": "Business/Disco/Giveaways.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Corporate Introduction Script"
+              "title": "Giveaways"
             }
           },
           {
@@ -119,7 +119,8 @@
               "title": "Women"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -153,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "woolwo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,7 +178,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -355,13 +357,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3d8db06d2cc9c12",
+  "active": "5c8d3a529eefb02b",
   "lastOpenFiles": [
-    "Personal/Interests/Movies.md",
-    "Business/CV/Interview Questions.md",
-    "Personal/Interests/Women.md",
-    "Business/Disco/Giveaways.md",
     "Business/Apparate/Corporate Introduction Script.md",
+    "Business/Disco/Giveaways.md",
+    "Business/CV/Interview Questions.md",
+    "Personal/Interests/Movies.md",
+    "Personal/Interests/Women.md",
     "Screenshot 2026-10-14 at 7.00.16 pm.png",
     "Business/CV/CV.md",
     "Business/CV/April 2026.md",
