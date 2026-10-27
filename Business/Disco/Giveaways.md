@@ -297,6 +297,16 @@ premium stuff that people can afford, bur don't usually buy because they usually
 Where to get items:
 
 Supermarkets 
+Discount Department Stores 
+Pharmacies 
+Electronics stores 
+Second hand marketplaces 
+
+
+
+Types of Marketplaces:
+
+
 
 
 
