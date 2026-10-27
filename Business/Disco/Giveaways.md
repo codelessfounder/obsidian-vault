@@ -385,7 +385,7 @@ First run of items
 | **27** | **Dyson V15 Detect Cordless Vacuum**                               | Home Appliances        | Universal Households, Parents, Pet Owners      |
 | **28** | # Breville the Bambino Espresso Coffee Machine                     | Coffee & Kitchen       | Coffee Lovers, Daily Commuters 22–50           |
 | **29** | # Breville the Bambino Espresso Coffee Machine                     | Gaming & Entertainment | Casual Gamers, Youth, Parents buying for Kids  |
-| **30** | **Beauty of Joseon Bundle** _(K-Beauty Sunscreen Set)_             | Beauty & Self-Care     | Women 18–35, K-Beauty & Skincare Fans          |
+| **30** | # Beauty of Joseon "Honey Skin" (Kkul-Gwang) Ritual                | Beauty & Self-Care     | Women 18–35, K-Beauty & Skincare Fans          |
 | 31     | GTA 6 Preorder                                                     |                        |                                                |
 
 
