@@ -357,7 +357,7 @@ First run of items
 | **#**  | **Item Name**                                                      | **Category**           | **Primary Target Audience**                    |
 | ------ | ------------------------------------------------------------------ | ---------------------- | ---------------------------------------------- |
 | **1**  | # Vertuo​ 160 Capsule​ Best Sellers Assortment                     | Groceries & Coffee     | Adults 20–45, Commuters, Remote Workers        |
-| **2**  | **Aesop Bundle **                                                  | Beauty & Self-Care     | Women & Men 20–40, Urbanites, Home Nesters     |
+| **2**  | Aesop Bathroom Necessities Bundle                                  | Beauty & Self-Care     | Women & Men 20–40, Urbanites, Home Nesters     |
 | **3**  | **Expensive Olive Oil Brand** _(Cobram Estate Ultra / Oro Bailen)_ | Pantry & Kitchen       | Home Cooks, Families 25–55, Foodies            |
 | **4**  | **La Roche-Posay Skincare Kit**                                    | Beauty & Self-Care     | Women & Men 18–35, Skincare Enthusiasts        |
 | **5**  | **Philips Beard Trimmer**                                          | Men's Grooming         | Males 18–45                                    |
