@@ -306,7 +306,35 @@ Second hand marketplaces
 
 Item list
 
-1. 
+1. A huge box of Nespresso 
+2. Aesop Package 
+3. That expensive Olive Oil Brand 
+4. La Roce Posay Skincare kit 
+5. Philips Beard Trimmer 
+6. Oral B Toothbrush
+7. Dior Savuage Perfume 
+8. New Bed Linen
+9. Ninja Crispi 
+10. Le Crsuet Cast Iron Pot 
+11. Amazon Kindle 
+12. Asos Hoodie 
+13. Owala Water Bottle 
+14. Massage Gun 
+
+
+
+items in woolies, chemist warehouse, Big W, 
+
+premium stuff that people can afford, bur don't usually buy because they usually buy the basic version. Think stores like Woolies, Chemist Warehouse, Big W, K mart, JB Hifi. 
+
+
+skincare 
+olive oil 
+sports 
+sports gear 
+Electric Toothbrush 
+New Razor 
+
 
 
 

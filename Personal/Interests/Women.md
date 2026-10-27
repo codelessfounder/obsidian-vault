@@ -56,37 +56,6 @@ Hinge Prompts:
 
 ---
 
-items in woolies, chemist warehouse, Big W, 
-
-premium stuff that people can afford, bur don't usually buy because they usually buy the basic version. Think stores like Woolies, Chemist Warehouse, Big W, K mart, JB Hifi. 
-
-segment through sports 
-skincare 
-olive oil 
-sports 
-sports gear 
-Electric Toothbrush 
-New Razor 
-
-
-
-stock images 
-
-
-A huge box of Nespresso 
-Aesop Package 
-That expensive Olive Oil Brand 
-La Roce Posay Skincare kit 
-Philips Beard Trimmer 
-Oral B Toothbrush
-Dior Savuage Perfume 
-New Bed Linen
-Ninja Crispi 
-Le Crsuet Cast Iron Pot 
-Amazon Kindle 
-Asos Hoodie 
-Owala Water Bottle 
-Massage Gun 
 
 
 
