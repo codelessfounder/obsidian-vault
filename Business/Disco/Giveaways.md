@@ -354,38 +354,38 @@ New Razor
 First run of items 
 
 
-| **#**  | **Item Name**                                                      | **Category**           | **Primary Target Audience**                    |
-| ------ | ------------------------------------------------------------------ | ---------------------- | ---------------------------------------------- |
-| **1**  | # Vertuo​ 160 Capsule​ Best Sellers Assortment                     | Groceries & Coffee     | Adults 20–45, Commuters, Remote Workers        |
-| **2**  | Aesop Bathroom Necessities Bundle                                  | Beauty & Self-Care     | Women & Men 20–40, Urbanites, Home Nesters     |
-| **3**  | **Expensive Olive Oil Brand** _(Cobram Estate Ultra / Oro Bailen)_ | Pantry & Kitchen       | Home Cooks, Families 25–55, Foodies            |
-| **4**  | **La Roche-Posay Skincare Kit**                                    | Beauty & Self-Care     | Women & Men 18–35, Skincare Enthusiasts        |
-| **5**  | **Philips Beard Trimmer**                                          | Men's Grooming         | Males 18–45                                    |
-| **6**  | **Oral-B Electric Toothbrush**                                     | Health & Wellness      | Universal (Adults 20–60)                       |
-| **7**  | **Dior Sauvage Perfume**                                           | Fragrance & Grooming   | Males 18–35, Young Professionals               |
-| **8**  | **New Bed Linen** _(100% French Flax Linen Set)_                   | Home Essentials        | Couples, Renters & Homeowners 22–50            |
-| **9**  | **Ninja Crispi Glass Air Fryer**                                   | Kitchen Appliances     | Busy Parents, Meal Preppers, Renters 20–50     |
-| **10** | **Le Creuset Cast Iron Pot**                                       | Kitchen & Cookware     | Home Cooks 25–55, Foodies, Couples             |
-| **11** | **Amazon Kindle Paperwhite**                                       | Tech & Entertainment   | Avid Readers, Students, Travelers 20–60        |
-| **12** | **ASOS / AS Colour Heavyweight Hoodie**                            | Apparel & Streetwear   | Youth & Young Adults 16–35                     |
-| **13** | **Owala FreeSip Water Bottle**                                     | Lifestyle & Activewear | Students, Gymgoers, Women & Youth 16–35        |
-| **14** | **Massage Gun**                                                    | Health & Fitness       | Gymgoers, Athletes, Tradies, Physical Workers  |
-| **15** | **Set of New Towels** _(700GSM Bath Sheets)_                       | Home Essentials        | Families, Renters & Homeowners 25–60           |
-| **16** | **Logitech MX Master 3S Ergonomic Mouse**                          | Tech & Work-From-Home  | Office Workers, Developers, Freelancers 22–45  |
-| **17** | **UE Boom Bluetooth Speaker**                                      | Audio & Outdoor        | Youth, Outdoor Groups, Social 16–35            |
-| **18** | **Salomon GORE-TEX Shoes**                                         | Apparel & Footwear     | Outdoor Walkers, Hikers, Commuters 20–45       |
-| **19** | **Magic Dumbbell Set** _(Adjustable Weights)_                      | Health & Fitness       | Home Gym Enthusiasts, Males & Females 20–45    |
-| **20** | **Makita 2-Piece Brushless Combo Kit**                             | Tools & DIY            | Tradies, Blue-Collar Men, Weekend DIYers 20–55 |
-| **21** | **AirPods Pro 3**                                                  | Personal Tech & Audio  | Students, Commuters, Gymgoers 16–40            |
-| **22** | **PlayStation 5 + GTA 6 Pre-Order**                                | Gaming & Entertainment | Gamers, Males 16–35, Tech Fans                 |
-| **23** | **Yeti Tundra Cooler**                                             | Outdoor & Lifestyle    | Tradies, Campers, Outdoor Enthusiasts 20–50    |
-| **24** | **SodaStream / Aarke Carbonator**                                  | Kitchen & Drinks       | Eco-Conscious Households, Families 25–50       |
-| **25** | **Dyson Supersonic Hair Dryer**                                    | Beauty & Haircare      | Women 18–45, Moms, Haircare Enthusiasts        |
-| **26** | **Garmin Forerunner**                                              | Fitness & Wearables    | Runners, Triathletes, Outdoor Fitness 20–45    |
-| **27** | **Dyson V15 Detect Cordless Vacuum**                               | Home Appliances        | Universal Households, Parents, Pet Owners      |
-| **28** | **Breville Bambino Espresso Machine**                              | Coffee & Kitchen       | Coffee Lovers, Daily Commuters 22–50           |
-| **29** | **Nintendo Switch OLED**                                           | Gaming & Entertainment | Casual Gamers, Youth, Parents buying for Kids  |
-| **30** | **Beauty of Joseon Bundle** _(K-Beauty Sunscreen Set)_             | Beauty & Self-Care     | Women 18–35, K-Beauty & Skincare Fans          |
+| **#**  | **Item Name**                                          | **Category**           | **Primary Target Audience**                    |
+| ------ | ------------------------------------------------------ | ---------------------- | ---------------------------------------------- |
+| **1**  | # Vertuo​ 160 Capsule​ Best Sellers Assortment         | Groceries & Coffee     | Adults 20–45, Commuters, Remote Workers        |
+| **2**  | Aesop Bathroom Necessities Bundle                      | Beauty & Self-Care     | Women & Men 20–40, Urbanites, Home Nesters     |
+| **3**  | Goldi Smooth 3 Litre Tin Extra Virgin Olive Oil        | Pantry & Kitchen       | Home Cooks, Families 25–55, Foodies            |
+| **4**  | **La Roche-Posay Skincare Kit**                        | Beauty & Self-Care     | Women & Men 18–35, Skincare Enthusiasts        |
+| **5**  | **Philips Beard Trimmer**                              | Men's Grooming         | Males 18–45                                    |
+| **6**  | **Oral-B Electric Toothbrush**                         | Health & Wellness      | Universal (Adults 20–60)                       |
+| **7**  | **Dior Sauvage Perfume**                               | Fragrance & Grooming   | Males 18–35, Young Professionals               |
+| **8**  | **New Bed Linen** _(100% French Flax Linen Set)_       | Home Essentials        | Couples, Renters & Homeowners 22–50            |
+| **9**  | **Ninja Crispi Glass Air Fryer**                       | Kitchen Appliances     | Busy Parents, Meal Preppers, Renters 20–50     |
+| **10** | **Le Creuset Cast Iron Pot**                           | Kitchen & Cookware     | Home Cooks 25–55, Foodies, Couples             |
+| **11** | **Amazon Kindle Paperwhite**                           | Tech & Entertainment   | Avid Readers, Students, Travelers 20–60        |
+| **12** | **ASOS / AS Colour Heavyweight Hoodie**                | Apparel & Streetwear   | Youth & Young Adults 16–35                     |
+| **13** | **Owala FreeSip Water Bottle**                         | Lifestyle & Activewear | Students, Gymgoers, Women & Youth 16–35        |
+| **14** | **Massage Gun**                                        | Health & Fitness       | Gymgoers, Athletes, Tradies, Physical Workers  |
+| **15** | **Set of New Towels** _(700GSM Bath Sheets)_           | Home Essentials        | Families, Renters & Homeowners 25–60           |
+| **16** | **Logitech MX Master 3S Ergonomic Mouse**              | Tech & Work-From-Home  | Office Workers, Developers, Freelancers 22–45  |
+| **17** | **UE Boom Bluetooth Speaker**                          | Audio & Outdoor        | Youth, Outdoor Groups, Social 16–35            |
+| **18** | **Salomon GORE-TEX Shoes**                             | Apparel & Footwear     | Outdoor Walkers, Hikers, Commuters 20–45       |
+| **19** | **Magic Dumbbell Set** _(Adjustable Weights)_          | Health & Fitness       | Home Gym Enthusiasts, Males & Females 20–45    |
+| **20** | **Makita 2-Piece Brushless Combo Kit**                 | Tools & DIY            | Tradies, Blue-Collar Men, Weekend DIYers 20–55 |
+| **21** | **AirPods Pro 3**                                      | Personal Tech & Audio  | Students, Commuters, Gymgoers 16–40            |
+| **22** | **PlayStation 5 + GTA 6 Pre-Order**                    | Gaming & Entertainment | Gamers, Males 16–35, Tech Fans                 |
+| **23** | **Yeti Tundra Cooler**                                 | Outdoor & Lifestyle    | Tradies, Campers, Outdoor Enthusiasts 20–50    |
+| **24** | **SodaStream / Aarke Carbonator**                      | Kitchen & Drinks       | Eco-Conscious Households, Families 25–50       |
+| **25** | **Dyson Supersonic Hair Dryer**                        | Beauty & Haircare      | Women 18–45, Moms, Haircare Enthusiasts        |
+| **26** | **Garmin Forerunner**                                  | Fitness & Wearables    | Runners, Triathletes, Outdoor Fitness 20–45    |
+| **27** | **Dyson V15 Detect Cordless Vacuum**                   | Home Appliances        | Universal Households, Parents, Pet Owners      |
+| **28** | **Breville Bambino Espresso Machine**                  | Coffee & Kitchen       | Coffee Lovers, Daily Commuters 22–50           |
+| **29** | **Nintendo Switch OLED**                               | Gaming & Entertainment | Casual Gamers, Youth, Parents buying for Kids  |
+| **30** | **Beauty of Joseon Bundle** _(K-Beauty Sunscreen Set)_ | Beauty & Self-Care     | Women 18–35, K-Beauty & Skincare Fans          |
 
 
 
