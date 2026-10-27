@@ -320,6 +320,11 @@ Item list
 12. Asos Hoodie 
 13. Owala Water Bottle 
 14. Massage Gun 
+15. Set of New Towels 
+16. Logitech MX Master 3S Wireless Ergonomic Mouse
+17. UE Boom 
+18. Salomon Shoes 
+19. 
 
 
 
