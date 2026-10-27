@@ -377,7 +377,7 @@ First run of items
 | **19** | # Powertrain 2 x 40kg Adjustable Smart Dumbbells                   | Health & Fitness       | Home Gym Enthusiasts, Males & Females 20–45    |
 | **20** | Makita DLX2283S 18V 3.0Ah Li-ion Cordless Brushless 2pce Combo Kit | Tools & DIY            | Tradies, Blue-Collar Men, Weekend DIYers 20–55 |
 | **21** | # Apple AirPods Pro 3                                              | Personal Tech & Audio  | Students, Commuters, Gymgoers 16–40            |
-| **22** | **PlayStation 5                                                    | Gaming & Entertainment | Gamers, Males 16–35, Tech Fans                 |
+| **22** | # PS5 PlayStation 5 Pro Console                                    | Gaming & Entertainment | Gamers, Males 16–35, Tech Fans                 |
 | **23** | **Yeti Tundra Cooler**                                             | Outdoor & Lifestyle    | Tradies, Campers, Outdoor Enthusiasts 20–50    |
 | **24** | **SodaStream / Aarke Carbonator**                                  | Kitchen & Drinks       | Eco-Conscious Households, Families 25–50       |
 | **25** | **Dyson Supersonic Hair Dryer**                                    | Beauty & Haircare      | Women 18–45, Moms, Haircare Enthusiasts        |
