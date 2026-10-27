@@ -374,7 +374,7 @@ First run of items
 | **16** | # Logitech MX Master 3S Wireless Mouse                 | Tech & Work-From-Home  | Office Workers, Developers, Freelancers 22–45  |
 | **17** | # Ultimate Ears Boom 4 Portable Bluetooth Speaker      | Audio & Outdoor        | Youth, Outdoor Groups, Social 16–35            |
 | **18** | **Salomon XT-6 Goretex                                 | Apparel & Footwear     | Outdoor Walkers, Hikers, Commuters 20–45       |
-| **19** | **Magic Dumbbell Set** _(Adjustable Weights)_          | Health & Fitness       | Home Gym Enthusiasts, Males & Females 20–45    |
+| **19** | # Powertrain 2 x 40kg Adjustable Smart Dumbbells       | Health & Fitness       | Home Gym Enthusiasts, Males & Females 20–45    |
 | **20** | **Makita 2-Piece Brushless Combo Kit**                 | Tools & DIY            | Tradies, Blue-Collar Men, Weekend DIYers 20–55 |
 | **21** | **AirPods Pro 3**                                      | Personal Tech & Audio  | Students, Commuters, Gymgoers 16–40            |
 | **22** | **PlayStation 5 + GTA 6 Pre-Order**                    | Gaming & Entertainment | Gamers, Males 16–35, Tech Fans                 |
