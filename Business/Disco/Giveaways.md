@@ -334,6 +334,8 @@ Item list
 26. Garmin Forerunner 
 27. Dyson V15 Detect Cordless Vacuum
 28. Breville Bambino Espresso Machine 
+29. Nintendo Switch OLED 
+30. 
 
 
 
