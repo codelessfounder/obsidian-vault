@@ -368,8 +368,8 @@ First run of items
 | **10** | **Le Creuset # Cast Iron 5-piece Essential Set         | Kitchen & Cookware     | Home Cooks 25–55, Foodies, Couples             |
 | **11** | # Amazon Kindle 16GB (newest model)                    | Tech & Entertainment   | Avid Readers, Students, Travelers 20–60        |
 | **12** | AS Colour Heavyweight Hoodie Box Hood 5171             | Apparel & Streetwear   | Youth & Young Adults 16–35                     |
-| **13** | **Owala FreeSip Water Bottle**                         | Lifestyle & Activewear | Students, Gymgoers, Women & Youth 16–35        |
-| **14** | **Massage Gun**                                        | Health & Fitness       | Gymgoers, Athletes, Tradies, Physical Workers  |
+| **13** | # Owala FreeSip Insulated Water Bottle - 946ml (32oz)  | Lifestyle & Activewear | Students, Gymgoers, Women & Youth 16–35        |
+| **14** | # Homedics Physio Pro Percussion Massage Gun           | Health & Fitness       | Gymgoers, Athletes, Tradies, Physical Workers  |
 | **15** | **Set of New Towels** _(700GSM Bath Sheets)_           | Home Essentials        | Families, Renters & Homeowners 25–60           |
 | **16** | **Logitech MX Master 3S Ergonomic Mouse**              | Tech & Work-From-Home  | Office Workers, Developers, Freelancers 22–45  |
 | **17** | **UE Boom Bluetooth Speaker**                          | Audio & Outdoor        | Youth, Outdoor Groups, Social 16–35            |
