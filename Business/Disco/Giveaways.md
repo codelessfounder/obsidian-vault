@@ -364,9 +364,9 @@ First run of items
 | **6**  | # Oral-B iO 6 Connected Coach Electric Toothbrush      | Health & Wellness      | Universal (Adults 20–60)                       |
 | **7**  | Chanel Bleu de Chanel                                  | Fragrance & Grooming   | Males 18–35, Young Professionals               |
 | **8**  | Sheet Society Quilt Cover Set                          | Home Essentials        | Couples, Renters & Homeowners 22–50            |
-| **9**  | **Ninja Crispi Glass Air Fryer**                       | Kitchen Appliances     | Busy Parents, Meal Preppers, Renters 20–50     |
-| **10** | **Le Creuset Cast Iron Pot**                           | Kitchen & Cookware     | Home Cooks 25–55, Foodies, Couples             |
-| **11** | **Amazon Kindle Paperwhite**                           | Tech & Entertainment   | Avid Readers, Students, Travelers 20–60        |
+| **9**  | # Ninja Crispi 4-in-1 Portable Glass Air Fryer         | Kitchen Appliances     | Busy Parents, Meal Preppers, Renters 20–50     |
+| **10** | **Le Creuset # Cast Iron 5-piece Essential Set         | Kitchen & Cookware     | Home Cooks 25–55, Foodies, Couples             |
+| **11** | # Amazon Kindle 16GB (newest model)                    | Tech & Entertainment   | Avid Readers, Students, Travelers 20–60        |
 | **12** | **ASOS / AS Colour Heavyweight Hoodie**                | Apparel & Streetwear   | Youth & Young Adults 16–35                     |
 | **13** | **Owala FreeSip Water Bottle**                         | Lifestyle & Activewear | Students, Gymgoers, Women & Youth 16–35        |
 | **14** | **Massage Gun**                                        | Health & Fitness       | Gymgoers, Athletes, Tradies, Physical Workers  |
