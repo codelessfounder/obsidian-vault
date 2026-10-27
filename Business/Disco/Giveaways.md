@@ -380,7 +380,7 @@ First run of items
 | **22** | # PS5 PlayStation 5 Pro Console                                    | Gaming & Entertainment | Gamers, Males 16–35, Tech Fans                 |
 | **23** | **Yeti Tundra 45 Hard Cooler**                                     | Outdoor & Lifestyle    | Tradies, Campers, Outdoor Enthusiasts 20–50    |
 | **24** | # Sodastream DUO® Sparkling Water Maker                            | Kitchen & Drinks       | Eco-Conscious Households, Families 25–50       |
-| **25** | **Dyson Supersonic Hair Dryer**                                    | Beauty & Haircare      | Women 18–45, Moms, Haircare Enthusiasts        |
+| **25** | Dyson Supersonic™ hair dryer                                       | Beauty & Haircare      | Women 18–45, Moms, Haircare Enthusiasts        |
 | **26** | **Garmin Forerunner**                                              | Fitness & Wearables    | Runners, Triathletes, Outdoor Fitness 20–45    |
 | **27** | **Dyson V15 Detect Cordless Vacuum**                               | Home Appliances        | Universal Households, Parents, Pet Owners      |
 | **28** | **Breville Bambino Espresso Machine**                              | Coffee & Kitchen       | Coffee Lovers, Daily Commuters 22–50           |
