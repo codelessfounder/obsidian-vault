@@ -370,9 +370,9 @@ First run of items
 | **12** | AS Colour Heavyweight Hoodie Box Hood 5171             | Apparel & Streetwear   | Youth & Young Adults 16–35                     |
 | **13** | # Owala FreeSip Insulated Water Bottle - 946ml (32oz)  | Lifestyle & Activewear | Students, Gymgoers, Women & Youth 16–35        |
 | **14** | # Homedics Physio Pro Percussion Massage Gun           | Health & Fitness       | Gymgoers, Athletes, Tradies, Physical Workers  |
-| **15** | **Set of New Towels** _(700GSM Bath Sheets)_           | Home Essentials        | Families, Renters & Homeowners 25–60           |
-| **16** | **Logitech MX Master 3S Ergonomic Mouse**              | Tech & Work-From-Home  | Office Workers, Developers, Freelancers 22–45  |
-| **17** | **UE Boom Bluetooth Speaker**                          | Audio & Outdoor        | Youth, Outdoor Groups, Social 16–35            |
+| **15** | Sheridan Egyptian Cotton Bath Towel Set                | Home Essentials        | Families, Renters & Homeowners 25–60           |
+| **16** | # Logitech MX Master 3S Wireless Mouse                 | Tech & Work-From-Home  | Office Workers, Developers, Freelancers 22–45  |
+| **17** | # Ultimate Ears Boom 4 Portable Bluetooth Speaker      | Audio & Outdoor        | Youth, Outdoor Groups, Social 16–35            |
 | **18** | **Salomon GORE-TEX Shoes**                             | Apparel & Footwear     | Outdoor Walkers, Hikers, Commuters 20–45       |
 | **19** | **Magic Dumbbell Set** _(Adjustable Weights)_          | Health & Fitness       | Home Gym Enthusiasts, Males & Females 20–45    |
 | **20** | **Makita 2-Piece Brushless Combo Kit**                 | Tools & DIY            | Tradies, Blue-Collar Men, Weekend DIYers 20–55 |
