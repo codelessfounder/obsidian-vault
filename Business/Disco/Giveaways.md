@@ -391,4 +391,4 @@ First run of items
 
 
 
- 
+ LMCT+ uses click funnels 

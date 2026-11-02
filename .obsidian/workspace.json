@@ -49,7 +49,8 @@
               "title": "Corporate Introduction Script"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -285,10 +286,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3d8db06d2cc9c12",
+  "active": "589bf9e5da598e66",
   "lastOpenFiles": [
-    "Business/Apparate/Corporate Introduction Script.md",
     "Business/CV/Interview Questions.md",
+    "Business/Apparate/Corporate Introduction Script.md",
     "Business/Disco/Giveaways.md",
     "Personal/Interests/Women.md",
     "Personal/Interests/Movies.md",
