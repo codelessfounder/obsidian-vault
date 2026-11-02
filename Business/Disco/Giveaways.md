@@ -392,3 +392,7 @@ First run of items
 
 
  LMCT+ uses click funnels 
+
+"Surge Pricing" for tickets 
+- *buy now to lock in first release pricing*
+
