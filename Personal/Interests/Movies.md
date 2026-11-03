@@ -55,15 +55,15 @@
 | Pusher (1,2,3)                        | Crime                | no      |        |
 | Prisoners                             | Thriller             | no      |        |
 | Ultimu Azul                           | Drama                | no      |        |
-| Pan's Labyrinth                       | Fantasy Drama        | no      |        |
+| Pan's Labyrinth                       | Fantasy Drama        | yes     | 4.2/5  |
 | Vicky Cristina Barcelona              | Romance              | no      |        |
 | Phenomenon                            | Drama Sci-Fi         | no      |        |
 | Eyes Wide Shut                        | Thriller             | no      |        |
 | Passion of the Christ                 | Drama                | no      |        |
-| The matrix                            | Sci-Fi               | Yes     | 5/5    |
+| The matrix                            | Sci-Fi               | yes     | 5/5    |
 | Warfare                               | War                  | no      |        |
 | Tenet                                 | Sci-Fi               | no      |        |
-| This is England                       | Drama                | no      |        |
+| This is England                       | Drama                | yes     | 4/5    |
 | adolescence                           | Drama                | no      |        |
 | Yi Yi                                 | Drama                | no      |        |
 | Taste of Cherry                       | Drama                | no      |        |
