@@ -22,7 +22,7 @@
 | The deer hunter                       | War, Drama           | no      |        |
 | Raging bull                           | Biography, Drama     | no      |        |
 | Legend                                | Fantasy, Adventure   | no      |        |
-| Salt Burn                             | Drama, Thriller      | Yes     |        |
+| Salt Burn                             | Drama, Thriller      | Yes     | 3.5/5  |
 | Poor things                           | Drama, Romance       | no      |        |
 | The greatest beer run ever            | Documentary, History | no      |        |
 | The death of Stalin                   | History, Drama       | Yes     |        |
