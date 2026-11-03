@@ -60,7 +60,7 @@
 | Phenomenon                            | Drama Sci-Fi         | no      |        |
 | Eyes Wide Shut                        | Thriller             | no      |        |
 | Passion of the Christ                 | Drama                | no      |        |
-| The matrix                            | Sci-Fi               | no      |        |
+| The matrix                            | Sci-Fi               | Yes     | 5/5    |
 | Warfare                               | War                  | no      |        |
 | Tenet                                 | Sci-Fi               | no      |        |
 | This is England                       | Drama                | no      |        |
@@ -100,7 +100,7 @@
 | Rush 2013                             |                      | no      |        |
 | Obsession                             |                      | no      |        |
 | The Vanishing                         |                      |         |        |
-| Hoodwinked                            |                      |         |        |
+| Hoodwinked                            |                      | no      |        |
 
 ---
 
@@ -127,6 +127,8 @@ Top 5 movies
 9. Spider-Man 2
 
 10. Barry Lyndon
+
+- The Matrix
 
 
 
