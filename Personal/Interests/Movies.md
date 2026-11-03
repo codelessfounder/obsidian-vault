@@ -186,13 +186,13 @@ Favourite TV shows:
 
 
 
-1. Peep show
+1. Peep Show
 
-2. The end of the fucking world
+2. The End of the Fucking World
 
-3. House of cards
+3. House of Cards
 
-4. Breaking bad
+4. Breaking Bad
 
 5. Game of Thrones
 
