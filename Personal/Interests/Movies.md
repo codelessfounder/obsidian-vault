@@ -2,7 +2,7 @@
 | Title                                 | Category             | Watched | Rating |
 | ------------------------------------- | -------------------- | ------- | ------ |
 | Crouching tiger, hidden Dragon        | Drama, Action        | no      |        |
-| Feather and loathing in Las Vegas     | Comedy, Adventure    | no      |        |
+| Feather and loathing in Las Vegas     | Comedy, Adventure    | yes     | 2.5/5  |
 | The damned United                     | Drama, Biography     | no      |        |
 | Before night falls                    | Biography, Drama     | no      |        |
 | Hunger                                | Biography, History   | no      |        |
