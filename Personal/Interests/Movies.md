@@ -25,8 +25,8 @@
 | Salt Burn                             | Drama, Thriller      | Yes     | 3.5/5  |
 | Poor things                           | Drama, Romance       | no      |        |
 | The greatest beer run ever            | Documentary, History | no      |        |
-| The death of Stalin                   | History, Drama       | Yes     |        |
-| Parasite                              | Drama, Thriller      | Yes     |        |
+| The death of Stalin                   | History, Drama       | Yes     | 4/5    |
+| Parasite                              | Drama, Thriller      | Yes     | 4.5/5  |
 | Seven                                 | Crime, Thriller      | no      |        |
 | Battle Royale                         | Action, Drama        | Yes     |        |
 | Jerry & Marge go large                | Biography, Drama     | no      |        |
@@ -34,7 +34,7 @@
 | Blow                                  | Biography, Crime     | no      |        |
 | Margin call                           | Drama, Thriller      | Yes     | 1.5/5  |
 | The American Friend                   | Crime, Drama         | no      |        |
-| Little miss sunshine                  | Comedy, Drama        | no      |        |
+| Little miss sunshine                  | Comedy, Drama        | Yes     | 4/5    |
 | Zodiac (serial killer)                | Thriller, Crime      | no      |        |
 | Léon                                  | Action, Crime        | no      |        |
 | The conversation                      | Thriller, Mystery    | no      |        |
