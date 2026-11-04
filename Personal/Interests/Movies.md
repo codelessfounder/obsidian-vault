@@ -79,29 +79,28 @@
 | Evil Dead Rise                        | Horror               | no      |        |
 | Sinners                               | Thriller             | no      |        |
 | Malignant                             | Horror               | no      |        |
-| John Wick Chapter 4                   |                      | no      |        |
-| Zack snider's Justice League          |                      | no      |        |
-| Aftersun                              |                      | no      |        |
-| Nope                                  |                      | no      |        |
-| Top Gun Maverick                      |                      | no      |        |
-| One battle after another              |                      | no      |        |
-| Furiosa Mad Max saga                  |                      | no      |        |
-| Dune part 1                           |                      | Yes     |        |
-| Oppenheimer                           |                      | no      |        |
-| Dune part 2                           |                      | no      |        |
-| Naked 1993                            |                      | no      |        |
-| Requiem for a dream                   |                      | no      |        |
+| John Wick Chapter 4                   | Action, Thriller     | no      |        |
+| Zack snider's Justice League          | Action, Adventure    | no      |        |
+| Aftersun                              | Drama                | no      |        |
+| Nope                                  | Horror, Sci-Fi       | no      |        |
+| Top Gun Maverick                      | Action, Drama        | no      |        |
+| One battle after another              | Crime, Thriller      | no      |        |
+| Furiosa Mad Max saga                  | Action, Adventure    | no      |        |
+| Dune part 1                           | Sci-Fi, Adventure    | Yes     |        |
+| Oppenheimer                           | Biography, Drama     | no      |        |
+| Dune part 2                           | Sci-Fi, Adventure    | no      |        |
+| Naked 1993                            | Drama                | no      |        |
+| Requiem for a dream                   | Drama                | no      |        |
 | Eternal sunshine of the spotless mind | Sci-Fi               | no      |        |
-| Dead poets society                    |                      | no      |        |
-| Manchester by the sea                 |                      | no      |        |
-| Nocturnal animals                     |                      | no      |        |
-| American History X                    |                      | no      |        |
-| Prisoners Jake Gylenhaal              |                      | no      |        |
-| Rush 2013                             |                      | no      |        |
-| Obsession                             |                      | no      |        |
-| The Vanishing                         |                      |         |        |
-| Hoodwinked                            |                      | no      |        |
-| The Odyssey                           |                      |         |        |
+| Dead poets society                    | Drama                | no      |        |
+| Manchester by the sea                 | Drama                | no      |        |
+| Nocturnal animals                     | Drama, Thriller      | no      |        |
+| American History X                    | Crime, Drama         | no      |        |
+| Rush 2013                             | Biography, Drama     | no      |        |
+| Obsession                             | Horror, Thriller     | no      |        |
+| The Vanishing                         | Mystery, Thriller    |         |        |
+| Hoodwinked                            | Animation, Comedy    | no      |        |
+| The Odyssey                           | Action, Adventure    |         |        |
 
 ---
 
