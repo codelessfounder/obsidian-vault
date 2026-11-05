@@ -414,3 +414,9 @@ Notes
 - I have noticed that more businesses are running trade promotions for their customers. 
   
   What does this mean for Mid? 
+
+- Mid will need to find a way to offer trade promotion services on behalf of businesses that already have products. 
+- Mid will need to identify an appropriate ICP for a white label trade promotion service 
+- Mid will need to be able to prove to the business that they will benefit from a trade promotion  
+  
+  
