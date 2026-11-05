@@ -417,6 +417,9 @@ Notes
 
 - Mid will need to find a way to offer trade promotion services on behalf of businesses that already have products. 
 - Mid will need to identify an appropriate ICP for a white label trade promotion service 
-- Mid will need to be able to prove to the business that they will benefit from a trade promotion  
+- Mid will need to be able to prove to the business that they will benefit from a trade promotion (they will increase their revenue) 
+- Mid will need to able to find a viable business model from offering trade promotions on behalf of other businesses 
+
+
   
   
