@@ -411,5 +411,6 @@ Tactics:
 Notes
 
 -  As of Jan 1 2027, the recurring revenue model attached to trade promotions will be illegal. This means that only businesses with an existing product with customers who primarily make a transaction with the business for said proudct will be allowed to run intermittent giveaways. Businesses like LMCT+ will not be able to run continuous promotions. 
+- I have noticed that more businesses are running trade promotions for their customers. 
   
   What does this mean for Mid? 
