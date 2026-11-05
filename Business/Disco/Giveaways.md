@@ -397,3 +397,12 @@ First run of items
 - *buy now to lock in first release pricing*
 
 2065270941%3AT8PcwOJuTcFHHm%3A25%3AAYkq0UBiRj39MLHwb0NmqNTjI8cg6OniuzWJPop-jA
+
+
+
+
+---
+Tactics:
+
+- Fake bids on the items 
+- 
