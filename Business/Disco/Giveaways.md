@@ -479,6 +479,7 @@ Target ICP: Australia E-Commerce & DTC Brands (1M-10M ARR)
 Mid handles Compliance, E-Commerce Software, Certified draw mechanics, Prize Fulfilment. 
 One Compliance layer for all our brands? 
 Is developing a shopify widget the best move? 
+Revenue streams: SaaS MRR, Prize procurement margins 
 
 
 
