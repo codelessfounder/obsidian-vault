@@ -465,5 +465,6 @@ Legal changes as of January 1 2027 for trade promotions:
     - Operators running subscription-based giveaway models that fail the refined trade promotion criteria will face civil penalties under the expanded framework enforced by the Australian Communications and Media Authority (ACMA).
 
 
+
   
   
