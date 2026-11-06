@@ -483,7 +483,14 @@ Revenue streams: SaaS MRR, Prize procurement margins
 
 
 Questions to answer before pursuing:
-1. 
+
+1. Will a DTC founder pay a $299–$599/month SaaS fee to run purchase-triggered draws, or do they prefer giving 15% discount codes for free?
+
+2. Can I convince 3 DTC brands to pay me upfront for a manually run pilot campaign before I write a single line of software code?
+
+3. Will a spend-threshold draw lift a brand's Average Order Value by at least 15–20% so the campaign pays for itself?
+
+4. Can an Australian gaming lawyer confirm that my spend-threshold draw structure is 100% compliant under the updated Section 8BB rules?
 
 
 
