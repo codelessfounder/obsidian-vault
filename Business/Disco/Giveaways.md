@@ -421,5 +421,49 @@ Notes
 - Mid will need to able to find a viable business model from offering trade promotions on behalf of other businesses 
 
 
+---
+Legal changes as of January 1 2027 for trade promotions:
+
+### What Changes for Trade Promotions (Effective 1 January 2027)
+
+1. **Closure of the "Subscription Giveaway / Rewards Club" Exemption**
+    
+    Anisimoff Legal
+    
+    - The Act tightens Section 8BB of the _Interactive Gambling Act 2001_ to narrow what qualifies as a tax-exempt **"trade promotion gambling service."**
+        
+        Anisimoff Legal
+        
+    - Promotional models that sell recurring subscriptions or tiered packages primarily to grant entries into high-value prize draws (such as car, cash, or house giveaways) will **no longer qualify** for the trade promotion exemption.
+        
+        Anisimoff Legal
+        
+    - If entry into a prize draw is the primary consumer motivation rather than a genuine, secondary bonus to a tangible product or service, the activity is reclassified as a **prohibited interactive gambling service**.
+        
+        Anisimoff Legal
+        
+2. **Strict Test for Genuine Trade Promotions**
+    
+    - To remain lawful without a gambling license, a trade promotion must demonstrate a **direct, genuine connection** to promoting standalone goods or services of quantifiable value.
+        
+        Anisimoff Legal
+        
+    - Entry must be secondary and genuinely incidental to purchasing the primary product or service.
+        
+        Anisimoff Legal
+        
+3. **Prohibition of Tiered / Scaled Entries Based on Subscription Spend**
+    
+    Anisimoff Legal
+    
+    - Membership or subscription models that scale the number of draw entries (e.g., offering exponentially more entries for higher payment tiers) without a proportional, real-world increase in underlying non-gambling benefits will be prohibited.
+        
+        Anisimoff Legal
+        
+4. **Regulatory Enforcement Powers**
+    
+    - Operators running subscription-based giveaway models that fail the refined trade promotion criteria will face civil penalties under the expanded framework enforced by the Australian Communications and Media Authority (ACMA).
+
+
   
   
