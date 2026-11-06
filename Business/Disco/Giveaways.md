@@ -420,6 +420,10 @@ Notes
 - Mid will need to be able to prove to the business that they will benefit from a trade promotion (they will increase their revenue) 
 - Mid will need to able to find a viable business model from offering trade promotions on behalf of other businesses 
 
+Mid will have to list other people's products OR have a widget embedded in the merchants store.
+
+
+
 
 ---
 Legal changes as of January 1 2027 for trade promotions:
@@ -463,6 +467,8 @@ Legal changes as of January 1 2027 for trade promotions:
 4. **Regulatory Enforcement Powers**
     
     - Operators running subscription-based giveaway models that fail the refined trade promotion criteria will face civil penalties under the expanded framework enforced by the Australian Communications and Media Authority (ACMA).
+
+
 
 
 
