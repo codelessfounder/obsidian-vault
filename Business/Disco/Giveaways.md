@@ -476,7 +476,11 @@ November 2025 Pivot
 Trade Promotions As a Service 
 B2B Platform
 Target ICP: Australia E-Commerce & DTC Brands (1M-10M ARR)
-Mid handles Compliance, E-Commerce Software 
+Mid handles Compliance, E-Commerce Software, Certified draw mechanics, Prize Fulfilment. 
+One Compliance layer for all our brands? 
+Is developing a shopify widget the best move? 
+
+
 
 
 
