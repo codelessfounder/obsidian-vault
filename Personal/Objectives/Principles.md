@@ -15,6 +15,7 @@ cover: "[[Principles.png]]"
 11. Who cares what anyone thinks? We’ll all be dust soon.
 12. Everything you create is art. No one can ever tell you your art is inadequate or incorrect; it is a direct reflection of your lived experience.
 13. Actively seek out negative feedback
+14. There is no jealously when you realise the sacrifice someone made to have what you envy
 
 [[My human nature]]
 
