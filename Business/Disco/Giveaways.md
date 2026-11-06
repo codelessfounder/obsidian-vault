@@ -490,7 +490,7 @@ Questions to answer before pursuing:
 
 3. Will a spend-threshold draw lift a brand's Average Order Value by at least 15–20% so the campaign pays for itself?
 
-4. Can an Australian gaming lawyer confirm that my spend-threshold draw structure is 100% compliant under the updated Section 8BB rules?
+4. Can my trade promotion licences cover businesses who pay Mid to their services?
 
 
 
