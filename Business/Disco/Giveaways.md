@@ -482,7 +482,7 @@ Is developing a shopify widget the best move?
 Revenue streams: SaaS MRR, Prize procurement margins 
 
 
-Questions to answer:
+Questions to answer before pursuing:
 1. 
 
 
