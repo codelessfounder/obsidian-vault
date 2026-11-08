@@ -60,13 +60,6 @@ How I will manage getting rejected
 - Every no is an active learning opportunity 
 
 
-
-
-
-
-Northern Beaches Scenario 
-
-
 Unit economics: Yok Thai Case Study:
 
 - **Food Cost:** A standard Thai dish has a food cost (COGS) of roughly **28% to 32%**.
@@ -114,6 +107,10 @@ Script justification:
 3. **Hyper-Local Social Proof:** Name-dropping nearby venues on their street establishes instant local credibility and triggers regional peer pressure over phone-pitching generic product features.
     
 4. **Alternative-Choice Time Blocking:** Offering two specific time slots (e.g., 3:15 PM vs. 4:00 PM) forces a quick scheduling decision and allows you to cluster multiple back-to-back field meetings in a single afternoon.
+
+
+
+Northern Beaches Scenario 
 
 
 
