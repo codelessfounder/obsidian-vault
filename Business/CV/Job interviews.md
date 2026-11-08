@@ -38,7 +38,7 @@ interview questions:
 1. How will you use AI in relation to this job? 
 
 
-
+I remember during the first interview that one of the biggest issues during thre 
 
 
 
