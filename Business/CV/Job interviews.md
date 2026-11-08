@@ -54,7 +54,9 @@ How I will manage getting rejected
 Northern Beaches Scenario 
 
 
-Unit economics 
+Unit economics: Yok Thai Case Study:
+
+
 
 
 Appointment setting phone call structure 
