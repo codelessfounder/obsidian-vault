@@ -114,6 +114,19 @@ Northern Beaches Scenario
 
 
 
+Questions to ask:
+1. what do the BDMs wear when they go to restaurants? 
+
+
+
+Assets:
+
+Personalised Unit Economics Pricing Sheet: 
+
+
+
+
+
 
 
 
