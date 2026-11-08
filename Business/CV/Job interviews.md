@@ -90,6 +90,8 @@ Biggest objections:
 > _I’m clustering a few quick 10-minute sit-downs in the area this **Wednesday afternoon between 3:00 PM and 4:30 PM** before your dinner service ramps up. I’ll bring the exact local diner numbers for Manly—do you have 10 minutes at 3:15 PM, or is 4:00 PM better for you?"_
 
 
+Script justification:
+
 
 
 
