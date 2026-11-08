@@ -56,6 +56,17 @@ Northern Beaches Scenario
 
 Unit economics: Yok Thai Case Study:
 
+- **Food Cost:** A standard Thai dish has a food cost (COGS) of roughly **28% to 32%**.
+    
+- **The Math:** If a couple orders $80 worth of food, at 50% off via First Table, they pay **$40 for food**. Your actual food cost on that order was **~$24**. You are still **+$16 gross margin** ahead on food alone versus an empty chair generating $0.
+
+Extra benefits:
+- busy venues attract passersby
+- They have to leave before their slot ends so you have availability in the prime 7pm window 
+
+
+
+
 
 
 
