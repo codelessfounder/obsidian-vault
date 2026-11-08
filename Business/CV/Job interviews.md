@@ -75,9 +75,19 @@ Biggest objections:
 4. "Its unsold inventory" - a 5:30 table not sold by 5:35 yields $0 forever 
    
    
-   
 
 
+### The First Table Field-Appointment Phone Script
+
+> **Harry:** _"Hey [Owner Name], it’s Harry calling from First Table up in Manly. Look, I know you’re right in the middle of pre-service prep, so I won't take more than 60 seconds — I just wanted to check if it was yourself who makes the commercial decisions around floor capacity and table yield for [Restaurant Name], or if you delegate that to a general manager?"_
+> 
+> **Owner:** _"Yeah, that's me. What's this about?"_
+> 
+> **Harry:** _"Awesome. The reason for my call: we’re currently filling the dead 5:00 to 6:30 PM window for a handful of venues along Wentworth Street and the Corso—like [Local Venue A] and [Local Venue B]._
+> 
+> _We’ve unlocked a way to monetize those empty early seats without touching your 7:00 PM prime-time margins or discounting your weekend trade._
+> 
+> _I’m clustering a few quick 10-minute sit-downs in the area this **Wednesday afternoon between 3:00 PM and 4:30 PM** before your dinner service ramps up. I’ll bring the exact local diner numbers for Manly—do you have 10 minutes at 3:15 PM, or is 4:00 PM better for you?"_
 
 
 
