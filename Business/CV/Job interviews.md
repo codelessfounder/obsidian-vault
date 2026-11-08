@@ -78,9 +78,10 @@ Extra benefits:
 Biggest objections:
 
 1. Giving 50% off a restaurant 
-2. "I'm cutting my revenue in half" - a 50% discount still leaves a 20% contribution margin over $0
-3. "I make less on every dish" 
-4. "Its unsold inventory" - a 5:30 table not sold by 5:35 yields $0 forever 
+2. Gatekeepers - getting to a decision maker. 
+3. "I'm cutting my revenue in half" - a 50% discount still leaves a 20% contribution margin over $0
+4. "I make less on every dish" 
+5. "Its unsold inventory" - a 5:30 table not sold by 5:35 yields $0 forever 
    
    
 
