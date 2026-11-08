@@ -23,6 +23,9 @@ questions:
 
 My story: 
 
+Went to Law school 
+Started my first tech product 
+
 
 
 
