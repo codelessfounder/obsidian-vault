@@ -194,7 +194,8 @@ colours:
 
 Font:
 
-
+headings: ABril Fatface
+content: open sans 
 
 
 
