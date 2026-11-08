@@ -130,6 +130,70 @@ Personalised Unit Economics Pricing Sheet:
 
 First table CSS profile for the prompt:
 
+colours:
+{
+
+  "CSS Peeper Colors": {
+
+    "225685": "#225685",
+
+    "234563": "#234563",
+
+    "262626": "#262626",
+
+    "265682": "#265682",
+
+    "000000": "#000000",
+
+    "6795B2": "#6795B2",
+
+    "6B7280": "#6B7280",
+
+    "0C1118": "#0C1118",
+
+    "7D848E": "#7D848E",
+
+    "99A3AB": "#99A3AB",
+
+    "9CA3AF": "#9CA3AF",
+
+    "9DA3AC": "#9DA3AC",
+
+    "BDBDBD": "#BDBDBD",
+
+    "C7A77B": "#C7A77B",
+
+    "D0DCF0": "#D0DCF0",
+
+    "D7DBDE": "#D7DBDE",
+
+    "D9DADE": "#D9DADE",
+
+    "E6E8EB": "#E6E8EB",
+
+    "EBEFF2": "#EBEFF2",
+
+    "FBF6F0": "#FBF6F0",
+
+    "FF685D": "#FF685D",
+
+    "FFFFFF": "#FFFFFF",
+
+    "272B2E": "#272B2E",
+
+    "2F3742": "#2F3742",
+
+    "48515D": "#48515D",
+
+    "5E6570": "#5E6570"
+
+  }
+
+}
+
+
+Font:
+
 
 
 
