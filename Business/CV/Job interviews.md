@@ -45,9 +45,14 @@ The sales VP will want to know:
 
 
 How I handle real world scenarios and objections 
+
 How i manage lead pipeline and manage my territory 
 - geographic clustering 
 - Timing 
+- treating my territory like a database 
+- pre-booking 4-5 minutes in the morning before heading our 
+
+
 How I will manage getting rejected 
 
 
