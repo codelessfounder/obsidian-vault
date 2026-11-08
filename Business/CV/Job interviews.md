@@ -52,8 +52,11 @@ How i manage lead pipeline and manage my territory
 - treating my territory like a database 
 - pre-booking 4-5 minutes in the morning before heading our 
 
-
+ 
 How I will manage getting rejected 
+- no is inevitable 
+- but its important to find out why 
+- 
 
 
 
