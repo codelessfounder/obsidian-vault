@@ -24,7 +24,19 @@ questions:
 My story: 
 
 Went to Law school 
-Started my first tech product 
+Started my first tech product
+Transitioned from non-technical to technical 
+Found that I was good at sales 
+Progressed into a 
+
+
+
+
+
+interview questions:
+
+1. How do you use AI? 
+2. 
 
 
 
