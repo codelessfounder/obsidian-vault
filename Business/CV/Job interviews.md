@@ -92,6 +92,14 @@ Biggest objections:
 
 Script justification:
 
+1. **Upfront Time Respect:** Acknowledging pre-service prep immediately lowers their defensive guard by demonstrating you value their limited time.
+    
+2. **Authority Verification:** Asking if they manage floor yield or delegate it ensures you only lock in face-to-face meetings with actual contract decision-makers.
+    
+3. **Hyper-Local Social Proof:** Name-dropping nearby venues on their street establishes instant local credibility and triggers regional peer pressure over phone-pitching generic product features.
+    
+4. **Alternative-Choice Time Blocking:** Offering two specific time slots (e.g., 3:15 PM vs. 4:00 PM) forces a quick scheduling decision and allows you to cluster multiple back-to-back field meetings in a single afternoon.
+
 
 
 
