@@ -60,6 +60,11 @@ Unit economics
 Appointment setting phone call structure 
 
 
+Biggest objections:
+
+1. Giving 50% off a restaurant 
+
+
 
 
 
