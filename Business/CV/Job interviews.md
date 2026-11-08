@@ -56,7 +56,10 @@ How i manage lead pipeline and manage my territory
 How I will manage getting rejected 
 - no is inevitable 
 - but its important to find out why 
-- 
+	- I learnt this doing PM work at Watchcrow 
+- Every no is an active learning opportunity 
+
+
 
 
 
