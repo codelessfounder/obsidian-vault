@@ -128,6 +128,14 @@ Personalised Unit Economics Pricing Sheet:
 
 
 
+First table CSS profile for the prompt:
+
+
+
+
+
+
+
 
 
 
