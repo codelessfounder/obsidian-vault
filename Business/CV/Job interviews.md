@@ -44,6 +44,9 @@ I remember during the first interview that one of the biggest issues during thre
 The sales VP will want to know: 
 
 
+How I handle real world scenarios and objections 
+How i manage lead pipeline and manage my territory 
+How I will manage getting rejected 
 
 
 
