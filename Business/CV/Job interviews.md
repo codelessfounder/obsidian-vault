@@ -41,6 +41,11 @@ interview questions:
 I remember during the first interview that one of the biggest issues during thre 
 
 
+The sales VP will want to know: 
+
+
+
+
 
 
 
