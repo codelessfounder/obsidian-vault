@@ -206,6 +206,10 @@ content: open sans
 
 Assets:
 
+1. n8n workflow 
+2. Unit economics Sheet 
+3. 
+
 
 
 
