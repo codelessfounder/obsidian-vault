@@ -117,6 +117,8 @@ Northern Beaches Scenario
 
 Questions to ask:
 1. what do the BDMs wear when they go to restaurants? 
+2. Whats the salary for this role and is there a commission structure? 
+3. 
 
 
 
