@@ -120,7 +120,7 @@ Questions to ask:
 2. Whats the salary for this role and is there a commission structure? 
 3. Is there an allowance for petrol, or car allowance if we're going to be driving a lot? 
 4. Subjectively, what do you think seaprate the BDMs who just hit target versus BDMS who smash teh quota every month? bahviourally.
-5. 
+5. What are the next steps from here? 
 
 
 
