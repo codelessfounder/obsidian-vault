@@ -112,6 +112,11 @@ Script justification:
 
 
 Northern Beaches Scenario 
+- territory segementing 
+- Data scraping on FullEnrich
+- Cold calling in the morning, driving out in the afternoon
+- Hyper personlised email sequenzing in areas where FT already has a few restaurants to create leverage 
+- Drving in the afternoon. 
 
 
 
@@ -121,6 +126,7 @@ Questions to ask:
 3. Is there an allowance for petrol, or car allowance if we're going to be driving a lot? 
 4. Subjectively, what do you think seaprate the BDMs who just hit target versus BDMS who smash teh quota every month? bahviourally.
 5. What are the next steps from here? 
+6. You guys were lokignf or a Jan start, but it would be good to get started in December and take advantage of restuarant owners want to fill all their seats over the holiday period. 
 
 
 
