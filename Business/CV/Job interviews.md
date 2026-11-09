@@ -17,7 +17,8 @@ questions:
 1. discounted food but make up for the price in drinks - how do you guys usually convey that to the restaurant owner in a way that the unit eocnomics makes sense 
 2. WHat does success look like in this role?
 3. What's an unexpected objection that i might get from restaurant owners, considering i haven't sld to them before. 
-4. Commission 
+4. Commission? 
+5. What happens after someone says yes? WHats the onbaording process? and what are BDMs doing to keep their clients onboard? 
 
 
 
