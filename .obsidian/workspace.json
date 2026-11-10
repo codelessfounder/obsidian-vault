@@ -77,7 +77,8 @@
               "title": "Principles"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -313,11 +314,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3d8db06d2cc9c12",
+  "active": "cc04abe6f9ebe274",
   "lastOpenFiles": [
+    "Business/CV/Job interviews.md",
     "asset 14.svg",
     "Business/Apparate/Corporate Introduction Script.md",
-    "Business/CV/Job interviews.md",
     "Personal/Objectives/Principles.md",
     "Principles.png.md",
     "Personal/Objectives/Objectives.md",
@@ -354,7 +355,6 @@
     "Diary/Bad habits.md",
     "Business/Openclaw",
     "Business/The Lonely Founder/IMG_6852.jpeg",
-    "Business/Screenshot_2025-11-15_at_12.51.10_pm.png",
     "Business/Venture Capital",
     "Business/Bad Hand Co",
     "Business/The Lonely Founder",
