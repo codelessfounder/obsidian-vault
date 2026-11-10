@@ -16,7 +16,7 @@ cover: "[[Principles.png]]"
 12. Everything you create is art. No one can ever tell you your art is inadequate or incorrect; it is a direct reflection of your lived experience.
 13. Actively seek out negative feedback
 14. Envy no one. For whatever you see, a price was paid.
-15. 
+15. The emotions you don't share are very things that stop a relationship from strengthening
 
 [[My human nature]]
 
