@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Objectives/Principles.md",
+                "file": "Personal/Objectives/Objectives.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Principles"
+              "title": "Objectives"
             }
           }
         ],
@@ -316,12 +316,13 @@
   },
   "active": "cc04abe6f9ebe274",
   "lastOpenFiles": [
+    "Personal/Objectives/My human nature.md",
+    "Personal/Objectives/Objectives.md",
+    "Personal/Objectives/Principles.md",
     "Business/CV/Job interviews.md",
     "asset 14.svg",
     "Business/Apparate/Corporate Introduction Script.md",
-    "Personal/Objectives/Principles.md",
     "Principles.png.md",
-    "Personal/Objectives/Objectives.md",
     "Business/Disco/Giveaways.md",
     "Business/Disco/Dev (Product).md",
     "Personal/Interests/Movies.md",
