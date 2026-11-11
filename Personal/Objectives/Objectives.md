@@ -57,7 +57,7 @@ Merchant trajectory:
 4. Landowner: acquire stable productive assets for resilience and income.
 5. Producer/Manufacturer: scale output by organizing labor, capital, and systems.
 6. Capital Investor: reinvest capital into higher-leverage opportunities.
-7. Statesman/Philanthropist (optional): direct wealth and influence toward public good.
+7. Statesman/Philanthropist : direct wealth and influence toward public good.
 
 Rationale: move from skill -> earnings -> assets -> scale -> capital allocation -> social impact.
 
@@ -75,6 +75,8 @@ Phase One checklist snapshot (due 7 September 2024):
 - [ ] 5,000/month net income
 - [ ] $100 family maintenance
 - [ ] Own a registered car
+
+
 
 Ideal life cues:
 
