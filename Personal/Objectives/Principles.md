@@ -15,8 +15,8 @@ cover: "[[Principles.png]]"
 11. Everything you create is art. No one can ever tell you your art is inadequate or incorrect; it is a direct reflection of your lived experience.
 12. Actively seek out negative feedback
 13. Envy no one. For whatever you see, a price was paid.
-14. The emotions you don't share are very things that stop a relationship from strengthening
-15. Whilst all of these principles are well and good, you must remember that wisdom is the most conformist thing you can engage in. Do things instead and let other people rationalise what you do.
+14. The emotion you don't share with someone is the very thing that prevents your relationship from becoming stronger. 
+15. Whilst all of these principles are well and good, you must remember that wisdom is the most conformist thing you can engage in. Do things, then let other people rationalise what you do.
 
 [[My human nature]]
 
