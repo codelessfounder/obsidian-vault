@@ -10,11 +10,13 @@ Car (type)
 Watch (type)
 Piano (song level)
 Portuguese (a1-c2)
-Mandarin
-Coding 
-Gym
-Girlfriend
-Cat
-Finances 
+Mandarin (HSK)
+Coding (courses)
+Gym (Weight lifted)
+Girlfriend (dates)
+Cat (type)
+Finances (habits, practices)
+House (habits, hygiene, domestic competence)
+Books (Amount read)
 
 
