@@ -11,12 +11,12 @@ cover: "[[Principles.png]]"
 7. Love wholly and unabashedly; if it hurts a little, you’re probably doing it right
 8. People don’t remember what you say, they remember how you made them feel
 9. The books you read are the soldiers in your army that help you fight the battles of life
-10. Wisdom is the most conformist thing you can engage in. Do things instead and let other people rationalise what you do.
-11. Who cares what anyone thinks? We’ll all be dust soon.
-12. Everything you create is art. No one can ever tell you your art is inadequate or incorrect; it is a direct reflection of your lived experience.
-13. Actively seek out negative feedback
-14. Envy no one. For whatever you see, a price was paid.
-15. The emotions you don't share are very things that stop a relationship from strengthening
+10. Who cares what anyone thinks? We’ll all be dust soon.
+11. Everything you create is art. No one can ever tell you your art is inadequate or incorrect; it is a direct reflection of your lived experience.
+12. Actively seek out negative feedback
+13. Envy no one. For whatever you see, a price was paid.
+14. The emotions you don't share are very things that stop a relationship from strengthening
+15. Whilst all of these principles are well and good, you must remember that wisdom is the most conformist thing you can engage in. Do things instead and let other people rationalise what you do.
 
 [[My human nature]]
 
