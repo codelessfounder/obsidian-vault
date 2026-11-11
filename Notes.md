@@ -15,5 +15,6 @@ Coding
 Gym
 Girlfriend
 Cat
+Finances 
 
 
