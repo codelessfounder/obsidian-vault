@@ -2,14 +2,14 @@
 One year plan
 
 
-Labour 
-Subsistence 
-Business Revenue 
-BJJ
-Car 
-Watch
-Piano
-Portuguese 
+Labour (occupration)
+Subsistence (sum to live off)
+Business Revenue (amount)
+BJJ (belt and belt stripe)
+Car (type)
+Watch (type)
+Piano (song level)
+Portuguese (a1-c2)
 Mandarin
 Coding 
 Gym
