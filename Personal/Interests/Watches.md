@@ -1,7 +1,7 @@
 ---
 
 ---
-**3 Watch Collection**
+**4 Watch Collection**
 
 1. Blancpain Leman grand complications
     1. Platinum
@@ -13,6 +13,7 @@
     6. White gold
     7. Novelty complication
 3. Rolex Day Date 18238
+4. Seiko SBCM 023
 
 ---
 
