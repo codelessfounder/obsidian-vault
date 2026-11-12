@@ -610,10 +610,10 @@ Turn's out, new customers are getting lower rates than loyal ones.
 Yep, the banks are handing out cuts just to win new people.
 and homeowners who stay put get quietly moved onto higher rates.
 
-It's a bit sneaky with the recent rate rises, that adds up fast.
+It's a bit sneaky  and with with the recent rate rises, that adds up fast.
 If your mortgage is over $400k, you could be overpaying thousands every year and not even know it.
 
-The good news? A broker can compare up to 45 lenders for you. No paperwork. No pressure.
+The good news? A broker can check up to 45 lenders for you. No paperwork. No pressure.
 Tap below and see where you stand.
 
 
