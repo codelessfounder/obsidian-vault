@@ -99,8 +99,23 @@
               "icon": "lucide-file",
               "title": "Notes"
             }
+          },
+          {
+            "id": "37721d868369b2ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Objectives/Virtues.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Virtues"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -336,14 +351,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fe8653d22b536d75",
+  "active": "37721d868369b2ba",
   "lastOpenFiles": [
+    "Personal/Objectives/Principles.md",
+    "Personal/Objectives/Virtues.md",
+    "Personal/Objectives/My human nature.md",
     "Personal/Objectives/Objectives.md",
     "Notes.md",
     "Personal/Interests/Watches.md",
-    "Personal/Objectives/Principles.md",
     "Untitled 1.md",
-    "Personal/Objectives/My human nature.md",
     "Personal/Interests/Women.md",
     "Personal/Interests/Dating.md",
     "Personal/Interests/Via.md",
@@ -365,7 +381,6 @@
     "Untitled.md",
     "Personal/Interests/Cars.md",
     "Business/Forex/Forex.md",
-    "Business/Designspeed/MoreTax.md",
     "dunny feature render.png",
     "dunny sketch.png",
     "Business/Dunny/dunnylogov1.png",
