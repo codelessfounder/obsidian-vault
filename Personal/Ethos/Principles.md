@@ -15,17 +15,12 @@ cover: "[[Principles.png]]"
 11. Everything you create is art. No one can ever tell you your art is inadequate or incorrect; it is a direct reflection of your lived experience.
 12. Actively seek out negative feedback
 13. Envy no one. For whatever you see, a price was paid.
-14. The emotion you don't share with someone is the very thing that prevents your relationship from becoming stronger. 
-15. Whilst all of these principles are well and good, you must remember that wisdom is the most conformist thing you can engage in. Do things, then let other people rationalise what you do.
+14. Feelings of guilt and shame act as a compass to change your behaviour
+15. The emotion you don't share with someone is the very thing that prevents your relationship from becoming stronger. 
+16. Whilst all of these principles are well and good, you must remember that wisdom is the most conformist thing you can engage in. Do things, then let other people rationalise what you do.
 
 [[My human nature]]
 
----
 
-Feelings of guilt and shame act as a compass to change your behaviour
 
-Affirmations:
 
-1. I am a servient leader. I am here to deliver value to other people's lives.
-2. I'm a diverse individual: innovator, artist, killer, altruist, and lover.
-3. Everything I make is a diary entry of my life; it cannot be "wrong" because it reflects lived experience.

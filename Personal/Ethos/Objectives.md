@@ -47,7 +47,7 @@ Lifelong pursuits:
 |                                    |                                                          |                             |                             |                                           |
 |                                    |                                                          |                             |                             |                                           |
 
-[[Personal/Objectives/Principles]]
+[[Personal/Ethos/Principles]]
 
 Merchant trajectory:
 
