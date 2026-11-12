@@ -79,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "986619af6cf5c6d1",
@@ -351,10 +351,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37721d868369b2ba",
+  "active": "f107c14009320141",
   "lastOpenFiles": [
-    "Personal/Ethos/Principles.md",
     "Personal/Ethos/Affirmations.md",
+    "Personal/Ethos/Principles.md",
     "Personal/Ethos/Virtues.md",
     "Personal/Ethos/Objectives.md",
     "Personal/Ethos/My human nature.md",
