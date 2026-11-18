@@ -106,12 +106,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Buckets/1. Execute.md",
+                "file": "Personal/Buckets/3. Explore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Execute"
+              "title": "3. Explore"
             }
           }
         ],
@@ -353,9 +353,9 @@
   },
   "active": "37721d868369b2ba",
   "lastOpenFiles": [
-    "Personal/Buckets/3. Explore.md",
-    "Personal/Buckets/1. Execute.md",
     "Personal/Buckets/2. Build.md",
+    "Personal/Buckets/1. Execute.md",
+    "Personal/Buckets/3. Explore.md",
     "Notes.md",
     "Personal/Ethos/Principles.md",
     "Personal/Buckets",
