@@ -26,8 +26,11 @@ Gambling and Ecommerce (Disco and Dunny)
 
 Three buckets:
 
-Bucket 1: 
-Bucket 2:
+Bucket 1: Execute
+Bucket 2: Build
 Bucket 3:Explore
+
+
+
 
 
