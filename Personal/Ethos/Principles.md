@@ -20,7 +20,6 @@ cover: "[[Principles.png]]"
 16. Whilst all of these principles are well and good, you must remember that wisdom is the most conformist thing you can engage in. Do things, then let other people rationalise what you do.
 17. Stress primarily comes from not taking action on something that you can have some control over. 
 
-[[My human nature]]
 
 
 
