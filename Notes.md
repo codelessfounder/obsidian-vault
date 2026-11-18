@@ -20,6 +20,6 @@ House (habits, hygiene, domestic competence)
 Books (Amount read)
 
 
-Gambling and Ecommerce (Disco and )
+Gambling and Ecommerce (Disco and Dunny)
 
 
