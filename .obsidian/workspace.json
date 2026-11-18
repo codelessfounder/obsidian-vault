@@ -114,8 +114,7 @@
               "title": "1. Execute"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -351,11 +350,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37721d868369b2ba",
+  "active": "fe8653d22b536d75",
   "lastOpenFiles": [
+    "Personal/Buckets/1. Execute.md",
     "Personal/Ethos/Principles.md",
     "Personal/Ethos/My human nature.md",
-    "Personal/Buckets/1. Execute.md",
     "Personal/Buckets/3. Explore.md",
     "Personal/Buckets/2. Build.md",
     "Notes.md",

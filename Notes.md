@@ -18,6 +18,7 @@ Cat (type)
 Finances (habits, practices)
 House (habits, hygiene, domestic competence)
 Books (Amount read)
+Liabilities (paying for mum's rent and subsistence, transferring her money. Paying Dad from the company account)
 
 
 Gambling and Ecommerce (Disco and Dunny)
