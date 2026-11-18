@@ -106,12 +106,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Ethos/Principles.md",
+                "file": "Personal/Buckets/1. Execute.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Principles"
+              "title": "1. Execute"
             }
           }
         ],
@@ -353,8 +353,8 @@
   },
   "active": "37721d868369b2ba",
   "lastOpenFiles": [
-    "Personal/Ethos/My human nature.md",
     "Personal/Ethos/Principles.md",
+    "Personal/Ethos/My human nature.md",
     "Personal/Buckets/1. Execute.md",
     "Personal/Buckets/3. Explore.md",
     "Personal/Buckets/2. Build.md",
