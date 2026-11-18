@@ -23,3 +23,7 @@ Books (Amount read)
 Gambling and Ecommerce (Disco and Dunny)
 
 
+
+Three buckets:
+
+Bucket 1: 
