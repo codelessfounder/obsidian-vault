@@ -6,7 +6,7 @@
       {
         "id": "8b9e30757cdb6e74",
         "type": "tabs",
-        "dimension": 62.02849958088852,
+        "dimension": 48.15880322209436,
         "children": [
           {
             "id": "b3d8db06d2cc9c12",
@@ -84,7 +84,7 @@
       {
         "id": "986619af6cf5c6d1",
         "type": "tabs",
-        "dimension": 37.97150041911148,
+        "dimension": 51.84119677790564,
         "children": [
           {
             "id": "fe8653d22b536d75",
@@ -106,15 +106,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Ethos/Principles.md",
+                "file": "Personal/Buckets/Execute.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Principles"
+              "title": "Execute"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -350,14 +351,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fe8653d22b536d75",
+  "active": "37721d868369b2ba",
   "lastOpenFiles": [
+    "Personal/Buckets/Build.md",
+    "Personal/Buckets/Explore.md",
+    "Notes.md",
+    "Personal/Buckets/Execute.md",
+    "Personal/Ethos/Principles.md",
+    "Personal/Buckets",
     "Personal/Ethos/Objectives.md",
     "Business/Disco/Australian Statute.md",
     "Business/Apparate/Corporate Introduction Script.md",
-    "Notes.md",
     "Business/Disco/interactive-gambling-act-2001.pdf",
-    "Personal/Ethos/Principles.md",
     "Business/Disco/image 1.png",
     "interactive-gambling-act-2001.pdf",
     "Business/Disco/Disco Whitepaper/Disco Whitepaper.md",
@@ -380,8 +385,6 @@
     "Business/CV/CV.md",
     "Business/CV/April 2026.md",
     "Personal/Interests/Books.md",
-    "Business/Apparate/Marsh Script.md",
-    "Business/Designspeed/Designspeed.md",
     "dunny feature render.png",
     "dunny sketch.png",
     "Business/Dunny/dunnylogov1.png",
@@ -395,7 +398,6 @@
     "Business/Openclaw",
     "Business/Venture Capital",
     "Business/Bad Hand Co",
-    "Business/The Lonely Founder",
-    "Business/Füd"
+    "Business/The Lonely Founder"
   ]
 }
