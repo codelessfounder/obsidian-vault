@@ -28,6 +28,6 @@ Three buckets:
 
 Bucket 1: 
 Bucket 2:
-Bucket 3:
+Bucket 3:Explore
 
 
