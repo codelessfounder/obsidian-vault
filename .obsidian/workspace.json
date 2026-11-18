@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/Disco/Giveaways.md",
+                "file": "Business/Disco/Australian Statute.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Giveaways"
+              "title": "Australian Statute"
             }
           },
           {
@@ -79,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "986619af6cf5c6d1",
@@ -351,13 +351,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37721d868369b2ba",
+  "active": "25ebfea7c7d64add",
   "lastOpenFiles": [
+    "Business/Disco/interactive-gambling-act-2001.pdf",
+    "Business/Disco/Australian Statute.md",
+    "Personal/Ethos/Objectives.md",
+    "Personal/Ethos/Principles.md",
+    "Business/Disco/image 1.png",
+    "interactive-gambling-act-2001.pdf",
+    "Business/Disco/Disco Whitepaper/Disco Whitepaper.md",
+    "Business/Disco/Giveaways.md",
     "Personal/Ethos/Affirmations.md",
     "Business/Apparate/Corporate Introduction Script.md",
-    "Personal/Ethos/Principles.md",
     "Personal/Ethos/Virtues.md",
-    "Personal/Ethos/Objectives.md",
     "Personal/Ethos/My human nature.md",
     "Notes.md",
     "Personal/Interests/Watches.md",
@@ -369,7 +375,6 @@
     "Business/CV/Job interviews.md",
     "asset 14.svg",
     "Principles.png.md",
-    "Business/Disco/Giveaways.md",
     "Business/Disco/Dev (Product).md",
     "Personal/Interests/Movies.md",
     "Screenshot 2026-10-14 at 7.00.16 pm.png",
@@ -378,9 +383,6 @@
     "Personal/Interests/Books.md",
     "Business/Apparate/Marsh Script.md",
     "Business/Designspeed/Designspeed.md",
-    "Business/Designspeed/Branding.md",
-    "Untitled.md",
-    "Personal/Interests/Cars.md",
     "dunny feature render.png",
     "dunny sketch.png",
     "Business/Dunny/dunnylogov1.png",
@@ -392,12 +394,9 @@
     "Business/Designspeed/test file",
     "Business/Designspeed",
     "Business/Openclaw",
-    "Business/The Lonely Founder/IMG_6852.jpeg",
     "Business/Venture Capital",
     "Business/Bad Hand Co",
     "Business/The Lonely Founder",
-    "Business/Füd",
-    "Business/Forex",
-    "Business/Market Loot"
+    "Business/Füd"
   ]
 }
