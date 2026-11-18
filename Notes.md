@@ -4,7 +4,7 @@ One year plan
 
 Labour (occupration)
 Subsistence (sum to live off)
-Business Revenue (amount)
+Business (type)
 BJJ (belt and belt stripe)
 Car (type)
 Watch (type)

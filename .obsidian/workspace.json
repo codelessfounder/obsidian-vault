@@ -79,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "986619af6cf5c6d1",
@@ -114,8 +114,7 @@
               "title": "Principles"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -351,21 +350,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25ebfea7c7d64add",
+  "active": "fe8653d22b536d75",
   "lastOpenFiles": [
-    "Business/Disco/interactive-gambling-act-2001.pdf",
-    "Business/Disco/Australian Statute.md",
     "Personal/Ethos/Objectives.md",
+    "Business/Disco/Australian Statute.md",
+    "Business/Apparate/Corporate Introduction Script.md",
+    "Notes.md",
+    "Business/Disco/interactive-gambling-act-2001.pdf",
     "Personal/Ethos/Principles.md",
     "Business/Disco/image 1.png",
     "interactive-gambling-act-2001.pdf",
     "Business/Disco/Disco Whitepaper/Disco Whitepaper.md",
     "Business/Disco/Giveaways.md",
     "Personal/Ethos/Affirmations.md",
-    "Business/Apparate/Corporate Introduction Script.md",
     "Personal/Ethos/Virtues.md",
     "Personal/Ethos/My human nature.md",
-    "Notes.md",
     "Personal/Interests/Watches.md",
     "Untitled 1.md",
     "Personal/Interests/Women.md",
