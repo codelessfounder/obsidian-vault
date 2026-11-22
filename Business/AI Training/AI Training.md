@@ -6,7 +6,7 @@ status: draft
 source: deeptune-derived
 ---
 
-# AI Training
+# AI Prompt Principles
 
 This is my single-file playbook for AI training roles.
 
