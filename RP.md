@@ -31,17 +31,13 @@ That’s actually why we built Employment Hero’s Employment Operating System�
 - **Hiring / ATS** tools help you screen and move candidates through faster when roles open up, 
 - **Paperless Onboarding** lets new starters complete contracts, tax/super details, and compliance documents digitally before shift one,
 - **HR & Compliance** hub keeps policies, certifications, and employment records organised in one place as headcount scales.
-
-
-
-
-
+- Employment Hero’s **AI Recruitment Agent** automates early screening and shortlisting to deliver ranked candidates faster while cutting listing spend by an estimated **40%–60% per job post** compared to paying ongoing ad-boost costs on LinkedIn.
 
 
 
 Case study/unit economics:
 
-"For example, a hypothetical multi-venue hospitality operator growing at a similar pace cut onboarding admin from roughly 45 minutes down to 10 minutes per new hire—saving around $18 per starter in HR and manager labour costs—which added up to thousands of dollars saved and weeks of hiring capacity reclaimed once they came on board. By contrast, if Prestige Hospitality stays on manual processes through another 30% growth cycle, you risk losing dozens of hours of admin time every month alongside avoidable wage, compliance, or re-hiring costs when onboarding drags out."
+"For example, El Jannah growing at a similar pace cut onboarding admin from roughly 45 minutes down to 10 minutes per new hire—saving around $18 per starter in HR and manager labour costs—which added up to thousands of dollars saved and weeks of hiring capacity reclaimed once they came on board. By contrast, if Prestige Hospitality stays on manual processes through another 30% growth cycle, you risk losing dozens of hours of admin time every month alongside avoidable wage, compliance, or re-hiring costs when onboarding drags out." Can tou see how that unit economics would be beneficial for you? 
 
 
 
@@ -58,3 +54,8 @@ CTA
 Objection tactics:
 - Assumptive close 
 - IF Commitment 
+
+
+Objections: 
+
+-
