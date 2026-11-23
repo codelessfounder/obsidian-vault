@@ -51,6 +51,8 @@ CTA
 - Book with one of our account executives 
 
 
+
+
 Objection tactics:
 - Assumptive close 
 - IF Commitment 
