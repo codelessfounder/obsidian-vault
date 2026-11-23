@@ -25,7 +25,10 @@ profiling questions:
 Value prop:
 
 
-case study: 
+
+Case study/unit economics:
+
+
 
 
 
