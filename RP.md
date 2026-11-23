@@ -14,7 +14,9 @@ Key assumptions:
 3. This HR manager is the single source of truth for compliance, but very likely has liaises with other members of leadership for hiring - I need to be able to ask what I can do for them
 
 
+profiling questions: 
 
+- I noticed on linkedin you guys had posted a bunch of ads - how are they working for you so far? 
 
 
 
