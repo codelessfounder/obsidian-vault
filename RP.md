@@ -44,11 +44,16 @@ Case study/unit economics:
 
 
 
-
-
 CTA 
 - set expectations about what the call is about for AE 
 - Book with one of our account executives 
+- when are you free 
+- Genuine pain
+- THis isnt a demo 
+- Clear cost or time implication 
+- Are you the decision maker
+- the AE will solve your pain point and then onboard you guys 
+- You'll be meeting with Andrew 
 
 
 
