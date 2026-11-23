@@ -22,6 +22,12 @@ profiling questions:
 - In your role, what do you need to win? to show upper management that this would solve the problemss you're currently facing 
 
 
+Value prop:
+
+
+case study: 
+
+
 
 
 
