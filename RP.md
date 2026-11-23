@@ -25,6 +25,14 @@ profiling questions:
 
 Value prop:
 
+That’s actually why we built Employment Hero’s Employment Operating System—to give growing businesses like Prestige Hospitality one centralised platform to hire, onboard, and stay compliant without manual bottlenecks. 
+
+- **Hiring / ATS** tools help you screen and move candidates through faster when roles open up, 
+- **Paperless Onboarding** lets new starters complete contracts, tax/super details, and compliance documents digitally before shift one,
+- **HR & Compliance** hub keeps policies, certifications, and employment records organised in one place as headcount scales.
+
+
+
 
 
 
