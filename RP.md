@@ -58,4 +58,18 @@ Objection tactics:
 
 Objections: 
 
--
+### 1. "We already have a system / we get plenty of applicants on LinkedIn."
+
+Acknowledge that having a current setup makes sense, then reframe around _friction and cost_ rather than replacing everything at once—highlighting how the **AI Recruitment Agent** cuts early screening/shortlisting time and avoids paying ongoing job-boost spend just to filter applicants. Pivot to a quick **Employment Evaluation Call** with an AE to compare how their current setup handles high-volume hiring.
+    
+
+# 2. "We're way too busy right now / don't have time to look at new software."
+
+- **How to handle it:** Validate how stretched their time is with a 30% headcount jump, point out that the whole point of an evaluation call is seeing where time can be _saved_ on screening and onboarding, and ask for a short slot.
+    
+
+### 3. "I'd need to run this past leadership / ops first" (or "Send me some info").
+
+- **Why they say it:** An HR Manager often isn't the sole budget or sign-off owner, or they use "send info" as a polite brush-off.
+    
+- **How to handle it:** Agree that looping in ops or leadership makes total sense when changing hiring/compliance workflows, offer to send a concise recap _after_ locking in an **Employment Evaluation Call** so they have clear numbers/details to share, and ask who else typically joins that conversation.
