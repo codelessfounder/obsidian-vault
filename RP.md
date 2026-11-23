@@ -27,7 +27,12 @@ Value prop:
 
 
 
+
+
+
 Case study/unit economics:
+
+"For example, a hypothetical multi-venue hospitality operator growing at a similar pace cut onboarding admin from roughly 45 minutes down to 10 minutes per new hire—saving around $18 per starter in HR and manager labour costs—which added up to thousands of dollars saved and weeks of hiring capacity reclaimed once they came on board. By contrast, if Prestige Hospitality stays on manual processes through another 30% growth cycle, you risk losing dozens of hours of admin time every month alongside avoidable wage, compliance, or re-hiring costs when onboarding drags out."
 
 
 
