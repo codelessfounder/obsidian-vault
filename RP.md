@@ -17,6 +17,8 @@ Key assumptions:
 profiling questions: 
 
 - I noticed on linkedin you guys had posted a bunch of ads - how are they working for you so far? 
+- Where has the bottleneck been in your processes that have come with the new growth? Is it getting new candidates or getting people through screening & contracts when they've been hired? 
+- 
 
 
 
