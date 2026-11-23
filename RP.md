@@ -20,6 +20,7 @@ profiling questions:
 - What software are you currently using for recruiting and compliance? off the top of your head? what looks ideal for you? 
 - Where has the bottleneck been in your processes that have come with the new growth? Is it getting new candidates or getting people through screening & contracts when they've been hired? 
 - In your role, what do you need to win? to show upper management that this would solve the problemss you're currently facing 
+- What types of candidates will you be lookign to hire
 
 
 Value prop:
