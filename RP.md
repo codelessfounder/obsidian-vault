@@ -10,7 +10,9 @@ Recruitment & Compliance Challenges
 
 intro:
 
-Hey Nico/Braiden, it's Harry calling from Employment, how are you going? Look you inquired through our website the other day and was interested in our suite of products, 
+Hey Nico/Braiden, it's Harry calling from Employment, how are you going? Look you inquired through our website the other day and you said you ere suffering from different bottlenecks in your 
+
+Look I'm sure you're super busy, just wanted to 
 
 
 
