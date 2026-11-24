@@ -19,8 +19,7 @@ feedback:
 
 intro:
 
-Hey Nico/Braiden, it's Harry calling from Employment, how are you going? Look you inquired through our website the other day and you said you ere suffering from different bottlenecks in your 
-
+Hey Nico/Braiden, it's Harry calling from Employment, how are you going? Look you inquired through our website the other day and you mentioned that you have bottlenecks across HR and Recruiting processes. 
 Look I'm sure you're super busy, just wanted to 
 
 
