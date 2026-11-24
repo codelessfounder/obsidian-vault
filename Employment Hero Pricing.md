@@ -31,4 +31,5 @@ Objections:
 	- Handle: a fair work underpayment audit or a unfair dismissal claim cost can cost much more than the $300 per month that you'll pay for the Core HR software 
 
 - We dont trust AI screening
-	- Handle: 
+	- Handle: It's more of a screener than a hirer, it decides who's vetted based on your own parameters and let's you focus on intereview cnadidates who are actually qualified for the job. 
+
