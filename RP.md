@@ -8,6 +8,10 @@ Prestige Hospitality Group
 Recruitment & Compliance Challenges
 
 
+feedback:
+1. Creating perceived value 
+
+
 intro:
 
 Hey Nico/Braiden, it's Harry calling from Employment, how are you going? Look you inquired through our website the other day and you said you ere suffering from different bottlenecks in your 
