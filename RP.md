@@ -19,7 +19,7 @@ feedback:
 
 intro:
 
-Hey Nico/Braiden, it's Harry calling from Employment, how are you going? Look you inquired through our website the other day and you mentioned that you have bottlenecks across HR and Recruiting processes. 
+Hey Nico/Braiden, it's Harry calling from Employment, how are you going? Look you inquired through our website the other day and you mentioned that you have bottlenecks across HR and Recruiting processes. We have an end to end employment orperation sydtem thats really is able to automate the HR< payroll recruitment and employee issues
 Look I'm sure you're super busy, just wanted to 
 
 
