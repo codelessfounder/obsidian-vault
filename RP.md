@@ -97,3 +97,13 @@ Acknowledge that having a current setup makes sense, then reframe around _fricti
 - **Why they say it:** An HR Manager often isn't the sole budget or sign-off owner, or they use "send info" as a polite brush-off.
     
 - **How to handle it:** Agree that looping in ops or leadership makes total sense when changing hiring/compliance workflows, offer to send a concise recap _after_ locking in an **Employment Evaluation Call** so they have clear numbers/details to share, and ask who else typically joins that conversation.
+
+
+
+
+
+
+
+Pricing:
+
+
