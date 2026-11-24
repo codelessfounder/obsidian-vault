@@ -22,7 +22,13 @@ intro:
 Hey Nico/Braiden, it's Harry calling from Employment, how are you going? Look you inquired through our website the other day and you mentioned that you have bottlenecks across HR and Recruiting processes. We have an end to end employment orperation sydtem thats really is able to automate the HR< payroll recruitment and employee issues
 Look I'm sure you're super busy, just wanted to 
 
-
+type of person
+How are they doing at the moment 
+have i called you at a bad time 
+- when's a better a call?
+other people in the industry are doing xyz?
+what would you want to improve if you could?
+what 
 
 
 Key assumptions:
