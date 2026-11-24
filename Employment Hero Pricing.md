@@ -44,13 +44,19 @@ EH lifecycle:
 Pre-hire to Day 1:
 - Products: Smart Match, ATS Job SYndication, Recruitment Pro 
 	- Benefits: Fill rolls faster, Global Employer of Reocrd Options while removeing manual paperwork bottlenecks. New starters arrive on day 1 withh compliant contracts, verified tax and super details, and signed policies already complete. 
-		- Perceived Value: 5 hires over 6 months 
+		- Perceived Value: 5 hires over 6 months taking your onboarding prep from 2hrs to 15 mins would save $1400. Fillinf just one role via EH's Smart Match instead of a recruitment ahency would save $12000
 
 Day to Day operations:
 - Products: Rostering and Time Attendance, Payroll, AI Payroll Agent, Swag Work App 
 	- Benefits: Reduce Payroll Errors and double handling of rosters and timesheets by feeding them into Award calculations, STP and PAysay Super, that usually eat into your day. As a bonus staf get frictionless mobile shifts and on-demand Pay displays through our app at zzero extra cost to you. 
+		- Perceived Value: saveing 3.5hrs a week @ 65$ an hour for 6 months would save $6000
 
 Growth, Retention, Compliant Exit:
 - Products: HR Engage, Chat, EAP, HR advisory, Compliance WOrkflows, OFfboarding checklists, Payroll 
 - Benefits: You keep staff engaged and compliant overtime with structured reviews, and outamted vis/license alerts, employee AI support and on-demand HR advice. When someone leaves, the business i protected with clean access revoation, asset tracking and final pay calculations. 
+	- Perceived value: Preventing just 1 unwanted resignmation through structured 1:1s and detailed performance reivews over 6 motnhs would save $10,000+ in rehiring costs 
+	- Offboarding saves of 2hrs per day would be 1200 across 6 months 
+
+
+And how would you reinvest that money saved? 
   
