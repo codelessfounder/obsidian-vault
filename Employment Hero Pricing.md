@@ -48,5 +48,6 @@ Pre-hire to Day 1:
 Day to Day operations:
 - Products: Rostering and Time Attendance, Payroll, AI Payroll Agent, Swag Work App 
 
-Gro
+Growth, Retention, Compliant Exit:
+- Products: HR Engage, Chat, EAP, HR advisory, Compliance WOrkflows, OFfboarding checklists, Payroll 
   
