@@ -33,3 +33,5 @@ Objections:
 - We dont trust AI screening
 	- Handle: It's more of a screener than a hirer, it decides who's vetted based on your own parameters and let's you focus on intereview cnadidates who are actually qualified for the job. 
 
+
+
