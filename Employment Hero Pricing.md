@@ -43,12 +43,13 @@ EH lifecycle:
 
 Pre-hire to Day 1:
 - Products: Smart Match, ATS Job SYndication, Recruitment Pro 
-- Benefits: Fill rolls faster, Global Employer of Reocrd Options while removeing manual paperwork bottlenecks. New starters arrive on day 1 withh compliant contracts, verified tax and super details, and signed policies already complete. 
+	- Benefits: Fill rolls faster, Global Employer of Reocrd Options while removeing manual paperwork bottlenecks. New starters arrive on day 1 withh compliant contracts, verified tax and super details, and signed policies already complete. 
 
 Day to Day operations:
 - Products: Rostering and Time Attendance, Payroll, AI Payroll Agent, Swag Work App 
-- Benefits: Reduce Payroll Errors and double handling of rosters and timesheets by feeding them into Award calculations, STP and PAysay Super, that usually eat into your day.  
+	- Benefits: Reduce Payroll Errors and double handling of rosters and timesheets by feeding them into Award calculations, STP and PAysay Super, that usually eat into your day. As a bonus staf get frictionless mobile shifts and on-demand Pay displays through our app at zzero extra cost to you. 
 
 Growth, Retention, Compliant Exit:
 - Products: HR Engage, Chat, EAP, HR advisory, Compliance WOrkflows, OFfboarding checklists, Payroll 
+- Benefits:
   
