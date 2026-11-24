@@ -27,3 +27,5 @@ currency: AUD (ex. GST)
 
 Objections:
 
+- too expensive, minimum users is 10
+- Handle: 
