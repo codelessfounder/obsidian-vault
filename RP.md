@@ -12,7 +12,9 @@ feedback:
 1. Creating perceived value 
 2. Bringing in other products 
 3. Bringing in macro trends 
-4. 
+4. Knowing the cost of these items
+5. Insightful questions to uncover HR challnges 
+6. 
 
 
 intro:
