@@ -47,7 +47,7 @@ Pre-hire to Day 1:
 
 Day to Day operations:
 - Products: Rostering and Time Attendance, Payroll, AI Payroll Agent, Swag Work App 
-- Benefits: Reduce Payroll Errors and double handling of rosters and timesheets that eat into your day. 
+- Benefits: Reduce Payroll Errors and double handling of rosters and timesheets by feeding them into Award calculations, STP and PAysay Super, that usually eat into your day.  
 
 Growth, Retention, Compliant Exit:
 - Products: HR Engage, Chat, EAP, HR advisory, Compliance WOrkflows, OFfboarding checklists, Payroll 
