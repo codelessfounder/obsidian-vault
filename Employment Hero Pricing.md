@@ -22,3 +22,7 @@ currency: AUD (ex. GST)
 | **Recruitment Pro (AI Recruiting)** | Standalone automated job posting, applicant scoring, and 24/7 AI video interviews. | **$199** (50) / **$359** (100) / **$639** (200) / mo | Flat monthly tier by interview volume (no HR base needed) | Talent Acquisition & Hiring Managers (high-volume roles) | Slow screening bottlenecks, high agency fees, no-show interviews | Wedge into **HR Engage** once they want seamless onboarding post-hire |
 | **HeroForce (Global / Local EOR)** | Hire full-time staff or contractors across 150+ countries without setting up local legal entities. | **Custom quote** | Flat monthly fee per contractor or %/flat fee per EOR hire (1-user min) | Execs, Legal & Finance scaling remote/global teams | Costly entity setup, international tax & local labour law compliance | Consolidate domestic + global headcount under one HRIS |
 | **Swag Work App & Earned Wage Access** | Employee super-app for payslips/leave, retail cashback perks, and **On-Demand Pay (EWA)**. | **$0** to employer (Employees pay **1.3%–1.5%** EWA fee) | Included free with HR/Payroll; EWA capped at 50% / $1,000/wk | HR & CFOs (especially retail, hospitality & blue-collar) | High frontline turnover, financial stress, zero-budget perk requests | Free retention lever to close deals against legacy HRIS competitors |
+
+
+
+Objections 
