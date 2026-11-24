@@ -39,3 +39,14 @@ Objections:
 
 
 
+EH lifecycle:
+
+Pre-hire to Day 1:
+- Products: Smart Match, ATS Job SYndication, Recruitment Pro 
+
+
+Day to Day operations:
+- Products: Rostering and Time Attendance, Payroll, AI Payroll Agent, Swag Work App 
+
+Gro
+  
