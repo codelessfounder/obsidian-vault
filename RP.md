@@ -11,7 +11,8 @@ Recruitment & Compliance Challenges
 feedback:
 1. Creating perceived value 
 2. Bringing in other products 
-3. 
+3. Bringing in macro trends 
+4. 
 
 
 intro:
