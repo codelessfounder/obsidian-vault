@@ -51,5 +51,5 @@ Day to Day operations:
 
 Growth, Retention, Compliant Exit:
 - Products: HR Engage, Chat, EAP, HR advisory, Compliance WOrkflows, OFfboarding checklists, Payroll 
-- Benefits:
+- Benefits: You keep staff engaged and compliant overtime with structured reviews, and outamted vis/license alerts, employee AI support and on-demand HR advice. When someone leaves, the business i protected with clean access revoation, asset tracking and final pay calculations. 
   
