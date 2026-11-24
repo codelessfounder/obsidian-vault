@@ -34,7 +34,8 @@ Objections:
 	- Handle: It's more of a screener than a hirer, it decides who's vetted based on your own parameters and let's you focus on intereview cnadidates who are actually qualified for the job. 
 - We're scaling fast and needs something that can keep up
 	- handle: HR Elite and Employment Unlimited alllows for custom workflows, OKRs, and HeroForce accomodates admin process for hiring international contracts. You'll be able to manager EOR staff in the same platform as your AUstralian team. 
-
+- Spreadsheets and email work fine 
+	- 
 
 
 
