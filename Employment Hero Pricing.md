@@ -43,7 +43,7 @@ EH lifecycle:
 
 Pre-hire to Day 1:
 - Products: Smart Match, ATS Job SYndication, Recruitment Pro 
-- Benefits: Fill rolls faster, 
+- Benefits: Fill rolls faster, Global Employer of Reocrd Options while removeing manual paperwork bottlenecks. New starters arrive on day 1 withh compliant contracts, verified tax and super details, and signed policies already complete. 
 
 Day to Day operations:
 - Products: Rostering and Time Attendance, Payroll, AI Payroll Agent, Swag Work App 
