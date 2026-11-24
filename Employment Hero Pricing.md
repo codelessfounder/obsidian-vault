@@ -28,4 +28,4 @@ currency: AUD (ex. GST)
 Objections:
 
 - too expensive, minimum users is 10
-- Handle: a 
+- Handle: a fair work underpayment audit or a unfair dismissal claim cost can cost much more than the $300 per month that you'll pay for the Core HR software 
