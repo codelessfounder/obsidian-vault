@@ -35,7 +35,7 @@ Objections:
 - We're scaling fast and needs something that can keep up
 	- handle: HR Elite and Employment Unlimited alllows for custom workflows, OKRs, and HeroForce accomodates admin process for hiring international contracts. You'll be able to manager EOR staff in the same platform as your AUstralian team. 
 - Spreadsheets and email work fine 
-	- handle: they work until complex processes like fair work audits happen or mess offboarding happen and create potential legal liability. 
+	- handle: they work until complex processes like fair work audits happen or mess offboarding happen and create potential legal liability. With our Core HR plan onboarding takes minutes 
 
 
 
